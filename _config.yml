@@ -15,9 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: Melanie Walsh
 email: melanie.walsh@wustl.edu
-description: Hi!
+description: PhD candidate in American literature at Washington University in St. Louis 
 baseurl: "/mwalsh"
 url: "melaniewalsh.github.io"
+cover: "/assets/ginkgo.jpg"
 twitter_username: mellymeldubs
 github_username:  melaniewalsh
 
