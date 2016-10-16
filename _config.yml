@@ -16,8 +16,8 @@
 title: Melanie Walsh
 email: melanie.walsh@wustl.edu
 description: PhD candidate in American literature at Washington University in St. Louis 
-#baseurl: "/"
-url: "https://melaniewalsh.org"
+baseurl: "/"
+url: "https://melaniewalsh.github.io"
 cover: "/assets/ginkgo.jpg"
 twitter_username: mellymeldubs
 github_username:  melaniewalsh
