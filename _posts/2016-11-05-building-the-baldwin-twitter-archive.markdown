@@ -100,26 +100,42 @@ Top Image URLs:   █▃▃▃▂▂▂▁▁▁
 Count:              7868540
 
 Users:              1761950
+
 User percentiles: █▂▁▁▁▁▁▁▁▁
                   [68, 9, 5, 4, 2, 2, 2, 2, 2, 2]
                   
+                  
 Has hashtag:        4567256 (58.04%)
+
 Hashtags:            110097
+
 Hashtags percentiles: █▁▁▁▁▁▁▁▁▁
                   [97, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+                  
 Has URL:            3514869 (44.67%)
+
 URLs:                927040
+
 URLs percentiles: █▁▁▁▁▁▁▁▁▁
                   [73, 6, 3, 3, 3, 3, 3, 3, 3, 3]
+                  
 Has Image URL:      1465857 (18.63%)
+
 Image URLs:          191684
+
 Image URLs percentiles: █▁▁▁▁▁▁▁▁▁
                   [83, 5, 3, 1, 1, 1, 1, 1, 1, 1]
+                  
 Retweets:           5004081 (63.60%)
+
 Geo:                  51007 (0.65%)
+
 Earliest:         2014-11-11 22:17:06 UTC
+
 Latest:           2014-12-10 05:15:31 UTC
+
 Duration:         28 days, 6:58:25
+
 
 Top users:        █▇▄▂▂▂▁▁▁▁
    6351 gerfingerpoken
@@ -133,42 +149,45 @@ Top users:        █▇▄▂▂▂▁▁▁▁
    3619 Ferguson_Now
    3615 surrealintel
    
-Top hashtags:     █▁▁▁▁▁▁▁▁▁
-3969513 ferguson
- 188976 mikebrown
- 178139 ericgarner
- 151749 blacklivesmatter
- 118405 fergusondecision
- 105607 michaelbrown
-  99477 tcot
-  89154 darrenwilson
-  89000 icantbreathe
-  45296 shutitdown
+Top hashtags:     █▁▁▁▁▁▁▁▁▁|
+|---|---|
+3969513| ferguson
+188976| mikebrown
+178139| ericgarner
+151749| blacklivesmatter
+118405| fergusondecision
+105607| michaelbrown
+99477| tcot
+89154| darrenwilson
+89000| icantbreathe
+45296| shutitdown
   
-Top URLs:         █▇▅▃▃▃▂▂▁▁
-  11592 [http://cnn.it/1tAZkMJ]
-  10644 [http://nbcnews.to/12fXQ5f]
-   9848 [http://ble.ac/1B376rD]
-   8609 [http://invst.rs/7f2xJB]
-   8535 [http://nyp.st/1vjOX47]
-   8097 [http://cbsn.ws/1vzqR5B]
-   7460 [http://bit.ly/1d5qTtO]
-   7396 [http://vine.co/v/On1x6iUuwxK]
-   7038 [http://on.rt.com/80mggq]
-   7028 [http://bit.ly/1vFrMUx]
+  
+|Top URLs:         █▇▅▃▃▃▂▂▁▁ |
+|---|---|
+11592 |[http://cnn.it/1tAZkMJ]
+10644 |[http://nbcnews.to/12fXQ5f]
+9848 |[http://ble.ac/1B376rD]
+8609 |[http://invst.rs/7f2xJB]
+8535 |[http://nyp.st/1vjOX47]
+8097 |[http://cbsn.ws/1vzqR5B]
+7460 |[http://bit.ly/1d5qTtO]
+7396 |[http://vine.co/v/On1x6iUuwxK]
+7038 |[http://on.rt.com/80mggq]
+7028 |[http://bit.ly/1vFrMUx]
    
 |Top Image URLs:   █▇▇▆▅▅▄▄▃▁ |
 |---|---|
-  |11453|![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)|
-  |10907 | ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)|
-  |10681 | ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)|
-  |10004 | ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)|
-   |9299 | ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)|
-   |9190 | ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)|
-   |8484 | ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)|
-   |7870 | ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)|
-   |7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
-   |5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
+|11453|![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)|
+|10907 | ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)|
+|10681 | ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)|
+|10004 | ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)|
+|9299 | ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)|
+|9190 | ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)|
+|8484 | ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)|
+|7870 | ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)|
+|7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
+|5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
 
 | Top Image URLs      |
 | ------------- |-------------| -----|
