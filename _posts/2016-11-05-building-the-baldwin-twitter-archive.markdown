@@ -148,7 +148,8 @@ Top users:        █▇▄▂▂▂▁▁▁▁
    3692 staciemritchie
    3619 Ferguson_Now
    3615 surrealintel
-   
+
+
 Top hashtags:     █▁▁▁▁▁▁▁▁▁|
 |---|---|
 3969513| ferguson
@@ -188,6 +189,7 @@ Top hashtags:     █▁▁▁▁▁▁▁▁▁|
 |7870 | ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)|
 |7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
 |5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
+{:.mbtablestyle}
 
 | Top Image URLs      |
 | ------------- |-------------| -----|
