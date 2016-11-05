@@ -5,9 +5,9 @@ date:   2016-11-05 14:56:56 -0500
 categories: twitter, tweets
 ---
 
-So my project "Tweets of a Native Son" examines the way that Twitter conversations about Ferguson and the #BlackLivesMater movement invoke the literary writer James Baldwin. What's my archive? How did I build it?
+So my project "Tweets of a Native Son" examines the way that Twitter conversations about Ferguson and the #BlackLivesMater movement invoke the literary author James Baldwin. What's my archive? How did I build it?
 
-Tweets can be ephemeral little stinkers. Since Twitter's Search API only allows you to collect tweets from the last 1-2 weeks, foresight is huge when building a Twitter archive. Thankfully, Ed Summers had the foresight to start collecting tweets that mentioned "Ferguson" (upper or lowercase; with or without hashtag) in the weeks and months following Michael Brown's shooting and, just as important, the generosity to share them openly on the [Internet Archive](https://archive.org/details/ferguson-tweet-ids). Though Twitter’s Terms of Service does not allow bulk distribution of Twitter data, it does allow the distribution of tweet “ids,” which are unique identifiers that get assigned to every tweet and can be used to retroactively access the full tweet metadata, a process called "hydrating" that can be performed with a command line Python tool like [twarc](https://github.com/DocNow/twarc), which was also created by Ed Summers. Yeah, Ed rules.
+Tweets can be ephemeral little stinkers. Since Twitter's Search API only allows you to collect tweets from the last 1-2 weeks, foresight is huge when building a Twitter archive. Thankfully, Ed Summers had the foresight to start collecting tweets that mentioned "Ferguson" (upper or lowercase; with or without hashtag) in the weeks and months following Michael Brown's shooting and, just as important, the generosity to share them [openly](https://archive.org/details/ferguson-tweet-ids). Though Twitter’s Terms of Service does not allow bulk distribution of Twitter data, it does allow the distribution of tweet “ids,” which are unique identifiers that get assigned to every tweet and can be used to retroactively access the full tweet metadata, a process called "hydrating" that can be performed with a command line Python tool like [twarc](https://github.com/DocNow/twarc), which was also created by Ed Summers. Yeah, Ed rules.
 
 So the first step in building my Baldwin Tweet archive was hydrating the Ferguson tweet collections from both August and November:
 
@@ -22,7 +22,7 @@ mwalsh@ada:~/ferguson-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tw
 mwalsh@ada:~/ferguson-indictment-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tweets.indictment.json
 ```
 
-#August Ferguson Collection
+# August Ferguson Collection
 
 Count:             10441785
 Users:              1596104
@@ -93,32 +93,33 @@ Top URLs:         █▃▂▂▂▁▁▁▁▁
 
 Top Image URLs:   █▃▃▃▂▂▂▁▁▁
 
-  21899 [alt text](http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg)
+  21899 ![alt text](http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg)
 
-  10486 [alt text](http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg)
+  10486 ![alt text](http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg)
 
-  10319 [alt text](http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg)
+  10319 ![alt text](http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg)
 
-   9029 [alt text](http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg)
+   9029 ![alt text](http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg)
 
-   7956 [alt text](http://pbs.twimg.com/media/BvaPNHTIIAE6UIi.jpg)
+   7956 ![alt text](http://pbs.twimg.com/media/BvaPNHTIIAE6UIi.jpg)
 
-   7586 [alt text](http://pbs.twimg.com/media/BvYUwzIIMAAiH62.jpg)
+   7586 ![alt text](http://pbs.twimg.com/media/BvYUwzIIMAAiH62.jpg)
 
-   6842 [alt text](http://pbs.twimg.com/media/Bu9zJKeIIAAa4Jt.jpg)
+   6842 ![alt text](http://pbs.twimg.com/media/Bu9zJKeIIAAa4Jt.jpg)
 
-   6223 [alt text](http://pbs.twimg.com/media/Bu9bSPRCIAAnntQ.jpg)
+   6223 ![alt text](http://pbs.twimg.com/media/Bu9bSPRCIAAnntQ.jpg)
 
-   5998 [alt text](http://pbs.twimg.com/media/Bu-lkolCAAIwyN0.jpg)
+   5998 ![alt text](http://pbs.twimg.com/media/Bu-lkolCAAIwyN0.jpg)
 
-   5195 [alt text](http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg)
+   5195 ![alt text](http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg)
    
-#November Ferguson Collection
+# November Ferguson Collection
 
 Count:              7868540
 Users:              1761950
 User percentiles: █▂▁▁▁▁▁▁▁▁
                   [68, 9, 5, 4, 2, 2, 2, 2, 2, 2]
+                  
 Has hashtag:        4567256 (58.04%)
 Hashtags:            110097
 Hashtags percentiles: █▁▁▁▁▁▁▁▁▁
@@ -174,16 +175,16 @@ Top URLs:         █▇▅▃▃▃▂▂▁▁
    7028 http://bit.ly/1vFrMUx
    
 Top Image URLs:   █▇▇▆▅▅▄▄▃▁
-  11453 [alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)
-  10907 [alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)
-  10681 [alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)
-  10004 [alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)
-   9299 [alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)
-   9190 [alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)
-   8484 [alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)
-   7870 [alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)
-   7310 [alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)
-   5824 [alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)
+  11453 ![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)
+  10907 ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)
+  10681 ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)
+  10004 ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)
+   9299 ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)
+   9190 ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)
+   8484 ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)
+   7870 ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)
+   7310 ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)
+   5824 ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)
 
 
 From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering, where the heck are all those missing tweets?!,that's a damn good question--one that Ed Summers has tackled here and one that I plan to theorize more fully in later blog posts.
