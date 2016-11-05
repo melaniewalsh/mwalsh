@@ -98,6 +98,7 @@ Top Image URLs:   █▃▃▃▂▂▂▁▁▁
 # November Ferguson Collection
 
 Count:              7868540
+
 Users:              1761950
 User percentiles: █▂▁▁▁▁▁▁▁▁
                   [68, 9, 5, 4, 2, 2, 2, 2, 2, 2]
