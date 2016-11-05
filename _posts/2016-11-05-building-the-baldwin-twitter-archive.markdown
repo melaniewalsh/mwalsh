@@ -71,46 +71,28 @@ Top hashtags:     █▂▁▁▁▁▁▁▁▁
   31643 fergusonshooting
   
 Top URLs:         █▃▂▂▂▁▁▁▁▁
-  37917 http://new.livestream.com/accounts/9035483/events/3271930
-
-  12906 http://bzfd.it/VDlPH8
-
-  10773 http://thebea.st/1l8uDRK
-
-   9841 http://bbc.in/1uS3tSd
-
-   8276 http://www.livestream.com/activistworldnewsnow
-
-   7535 http://wapo.st/1sXk4Sj
-
-   7514 http://es.pn/1AvncY9
-
-   6771 https://vine.co/v/M3rWtqnrHi9
-
-   6366 http://ind.pn/1qjd6lO
-
-   5909 http://ow.ly/ADgCF
+  37917 [http://new.livestream.com/accounts/9035483/events/3271930]
+  12906 [http://bzfd.it/VDlPH8]
+  10773 [http://thebea.st/1l8uDRK]
+   9841 [http://bbc.in/1uS3tSd]
+   8276 [http://www.livestream.com/activistworldnewsnow]
+   7535 [http://wapo.st/1sXk4Sj]
+   7514 [http://es.pn/1AvncY9]
+   6771 [https://vine.co/v/M3rWtqnrHi9]
+   6366 [http://ind.pn/1qjd6lO]
+   5909 [http://ow.ly/ADgCF]
 
 Top Image URLs:   █▃▃▃▂▂▂▁▁▁
 
   21899 ![alt text](http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg)
-
   10486 ![alt text](http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg)
-
   10319 ![alt text](http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg)
-
    9029 ![alt text](http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg)
-
    7956 ![alt text](http://pbs.twimg.com/media/BvaPNHTIIAE6UIi.jpg)
-
    7586 ![alt text](http://pbs.twimg.com/media/BvYUwzIIMAAiH62.jpg)
-
    6842 ![alt text](http://pbs.twimg.com/media/Bu9zJKeIIAAa4Jt.jpg)
-
    6223 ![alt text](http://pbs.twimg.com/media/Bu9bSPRCIAAnntQ.jpg)
-
    5998 ![alt text](http://pbs.twimg.com/media/Bu-lkolCAAIwyN0.jpg)
-
    5195 ![alt text](http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg)
    
 # November Ferguson Collection
@@ -163,18 +145,19 @@ Top hashtags:     █▁▁▁▁▁▁▁▁▁
   45296 shutitdown
   
 Top URLs:         █▇▅▃▃▃▂▂▁▁
-  11592 http://cnn.it/1tAZkMJ
-  10644 http://nbcnews.to/12fXQ5f
-   9848 http://ble.ac/1B376rD
-   8609 http://invst.rs/7f2xJB
-   8535 http://nyp.st/1vjOX47
-   8097 http://cbsn.ws/1vzqR5B
-   7460 http://bit.ly/1d5qTtO
-   7396 http://vine.co/v/On1x6iUuwxK
-   7038 http://on.rt.com/80mggq
-   7028 http://bit.ly/1vFrMUx
+  11592 [http://cnn.it/1tAZkMJ]
+  10644 [http://nbcnews.to/12fXQ5f]
+   9848 [http://ble.ac/1B376rD]
+   8609 [http://invst.rs/7f2xJB]
+   8535 [http://nyp.st/1vjOX47]
+   8097 [http://cbsn.ws/1vzqR5B]
+   7460 [http://bit.ly/1d5qTtO]
+   7396 [http://vine.co/v/On1x6iUuwxK]
+   7038 [http://on.rt.com/80mggq]
+   7028 [http://bit.ly/1vFrMUx]
    
 Top Image URLs:   █▇▇▆▅▅▄▄▃▁
+
   11453 ![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)
   10907 ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)
   10681 ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)
