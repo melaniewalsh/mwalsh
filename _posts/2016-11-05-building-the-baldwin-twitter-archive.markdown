@@ -156,19 +156,24 @@ Top URLs:         █▇▅▃▃▃▂▂▁▁
    7038 [http://on.rt.com/80mggq]
    7028 [http://bit.ly/1vFrMUx]
    
-Top Image URLs:   █▇▇▆▅▅▄▄▃▁
+|Top Image URLs:   █▇▇▆▅▅▄▄▃▁ |
+|---|---|
+  |11453|![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)|
+  |10907 | ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)|
+  |10681 | ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)|
+  |10004 | ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)|
+   |9299 | ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)|
+   |9190 | ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)|
+   |8484 | ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)|
+   |7870 | ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)|
+   |7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
+   |5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
 
-  11453 ![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)
-  10907 ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)
-  10681 ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)
-  10004 ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)
-   9299 ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)
-   9190 ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)
-   8484 ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)
-   7870 ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)
-   7310 ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)
-   5824 ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)
-
+| Top Image URLs      |
+| ------------- |-------------| -----|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering, where the heck are all those missing tweets?!,that's a damn good question--one that Ed Summers has tackled here and one that I plan to theorize more fully in later blog posts.
 
