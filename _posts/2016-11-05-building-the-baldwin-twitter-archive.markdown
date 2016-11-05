@@ -190,12 +190,13 @@ Top hashtags:     █▁▁▁▁▁▁▁▁▁|
 |7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
 |5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
 {:.mbtablestyle}
-
+{:.mbtablestyle}
 | Top Image URLs      |
 | ------------- |-------------| -----|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+{:.mbtablestyle}
 
 From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering, where the heck are all those missing tweets?!,that's a damn good question--one that Ed Summers has tackled here and one that I plan to theorize more fully in later blog posts.
 
