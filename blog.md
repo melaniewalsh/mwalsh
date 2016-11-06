@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Blog
+title: Blog
 permalink: /blog/
 ---
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Building the Baldwin Tweet Archive: Part 1"
+title:  "Building the Baldwin Tweet Archive: Part 1 (twarc and twarc-report)"
 date:   2016-11-05 14:56:56 -0500
 categories: twitter, tweets
+comments: true
 ---
 
 So my project "Tweets of a Native Son" examines the way that Twitter conversations about Ferguson and the #BlackLivesMater movement invoke the literary author James Baldwin. What's my archive? How did I build it?
@@ -11,195 +12,194 @@ Tweets can be ephemeral little stinkers. Since Twitter's Search API only allows 
 
 So the first step in building my Baldwin Tweet archive was hydrating the Ferguson tweet collections from both August and November:
 
-```python
-mwalsh@ada:~/ferguson-tweet-ids/data$ gunzip ids.txt.gz
-mwalsh@ada:~/ferguson-tweet-ids/data$ nohup twarc.py --hydrate ids.txt > tweets.json &
-```
+
+    mwalsh@ada:~/ferguson-tweet-ids/data$ gunzip ids.txt.gz
+    mwalsh@ada:~/ferguson-tweet-ids/data$ nohup twarc.py --hydrate ids.txt > tweets.json &
+
+
 Since Twitter’s API rate limit only allows requests for up to 72,000 tweets per hour, this process took approximately 8 and 9 days, respectively. The utility ["twarc-report,"](https://github.com/pbinkley/twarc-report) created by Peter Binkley, allows me to generate a helpful, summarizing overview of these collections (# of tweets and users, top hashtags, top URLs, top images, etc.):
 
-```python
-mwalsh@ada:~/ferguson-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tweets.json
-mwalsh@ada:~/ferguson-indictment-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tweets.indictment.json
-```
 
-# August Ferguson Collection
-
-Count:             10441785
-Users:              1596104
-User percentiles: █▂▁▁▁▁▁▁▁▁
-                  [71, 10, 5, 3, 3, 2, 2, 2, 2, 2]
-Has hashtag:        6898701 (66.07%)
-Hashtags:             99695
-Hashtags percentiles: █▁▁▁▁▁▁▁▁▁
-                  [98, 1, 0, 0, 0, 0, 0, 0, 0, 0]
-Has URL:            3317445 (31.77%)
-URLs:                664691
-URLs percentiles: █▁▁▁▁▁▁▁▁▁
-                  [78, 6, 3, 2, 2, 2, 2, 2, 2, 2]
-Has Image URL:      1593403 (15.26%)
-Image URLs:          134431
-Image URLs percentiles: █▁▁▁▁▁▁▁▁▁
-                  [87, 4, 2, 1, 1, 1, 1, 1, 1, 1]
-Retweets:           7411799 (70.98%)
-Geo:                  74678 (0.72%)
-Earliest:         2014-08-10 22:44:43 UTC
-Latest:           2014-08-27 15:15:50 UTC
-Duration:         16 days, 16:31:07
-
-Top users:        █▅▄▄▃▃▃▂▂▁
-   5438 eprince1110
-   4516 kvayozone
-   4188 gerfingerpoken
-   4160 gerfingerpoken2
-   4131 MissouriSentina
-   4078 WarOnFerguson
-   3983 MCTV419
-   3641 carolynsbuddy
-   3608 kavn
-   3447 sierramike320
-
-Top hashtags:     █▂▁▁▁▁▁▁▁▁
-6422131 ferguson
- 583141 mikebrown
- 158552 michaelbrown
-  84061 justiceformikebrown
-  70702 tcot
-  70338 gaza
-  58662 stl
-  47126 handsupdontshoot
-  40091 darrenwilson
-  31643 fergusonshooting
-  
-Top URLs:         █▃▂▂▂▁▁▁▁▁
-  37917 [http://new.livestream.com/accounts/9035483/events/3271930]
-  12906 [http://bzfd.it/VDlPH8]
-  10773 [http://thebea.st/1l8uDRK]
-   9841 [http://bbc.in/1uS3tSd]
-   8276 [http://www.livestream.com/activistworldnewsnow]
-   7535 [http://wapo.st/1sXk4Sj]
-   7514 [http://es.pn/1AvncY9]
-   6771 [https://vine.co/v/M3rWtqnrHi9]
-   6366 [http://ind.pn/1qjd6lO]
-   5909 [http://ow.ly/ADgCF]
-
-Top Image URLs:   █▃▃▃▂▂▂▁▁▁
-
-  21899 ![alt text](http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg)
-  10486 ![alt text](http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg)
-  10319 ![alt text](http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg)
-   9029 ![alt text](http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg)
-   7956 ![alt text](http://pbs.twimg.com/media/BvaPNHTIIAE6UIi.jpg)
-   7586 ![alt text](http://pbs.twimg.com/media/BvYUwzIIMAAiH62.jpg)
-   6842 ![alt text](http://pbs.twimg.com/media/Bu9zJKeIIAAa4Jt.jpg)
-   6223 ![alt text](http://pbs.twimg.com/media/Bu9bSPRCIAAnntQ.jpg)
-   5998 ![alt text](http://pbs.twimg.com/media/Bu-lkolCAAIwyN0.jpg)
-   5195 ![alt text](http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg)
-   
-# November Ferguson Collection
-
-Count:              7868540
-
-Users:              1761950
-
-User percentiles: █▂▁▁▁▁▁▁▁▁
-                  [68, 9, 5, 4, 2, 2, 2, 2, 2, 2]
-                  
-                  
-Has hashtag:        4567256 (58.04%)
-
-Hashtags:            110097
-
-Hashtags percentiles: █▁▁▁▁▁▁▁▁▁
-                  [97, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-                  
-Has URL:            3514869 (44.67%)
-
-URLs:                927040
-
-URLs percentiles: █▁▁▁▁▁▁▁▁▁
-                  [73, 6, 3, 3, 3, 3, 3, 3, 3, 3]
-                  
-Has Image URL:      1465857 (18.63%)
-
-Image URLs:          191684
-
-Image URLs percentiles: █▁▁▁▁▁▁▁▁▁
-                  [83, 5, 3, 1, 1, 1, 1, 1, 1, 1]
-                  
-Retweets:           5004081 (63.60%)
-
-Geo:                  51007 (0.65%)
-
-Earliest:         2014-11-11 22:17:06 UTC
-
-Latest:           2014-12-10 05:15:31 UTC
-
-Duration:         28 days, 6:58:25
+    mwalsh@ada:~/ferguson-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tweets.json
+    mwalsh@ada:~/ferguson-indictment-tweet-ids/data$ ~/twarc-report/reportprofile.py -o text tweets.indictment.json
 
 
-Top users:        █▇▄▂▂▂▁▁▁▁|
-|---|---|
-   6351| gerfingerpoken
-   6031 |gerfingerpoken2
-   4783 |UnitePink
-   4193 |OwlsAsylum
-   4126 |Tigerfists88
-   3814 |deray
-   3804 |HotNostrilsrFun
-   3692 |staciemritchie
-   3619 |Ferguson_Now
-   3615 |surrealintel
+# **August Ferguson Collection**
+---
 
+|                        |                                  |
+|------------------------|----------------------------------|
+| Tweets:                  | 10,441,785                         |
+| Users:                  | 1,596,104                          |
+| User percentiles:       | █▂▁▁▁▁▁▁▁▁                       |
+|                        | [71, 10, 5, 3, 3, 2, 2, 2, 2, 2] |
+| | |
+| Has hashtag:            | 6,898,701 (66.07%)                 |
+| Hashtags:               | 99,695                            |
+| Hashtags percentiles:   | █▁▁▁▁▁▁▁▁▁                       |
+|                        | [98, 1, 0, 0, 0, 0, 0, 0, 0, 0]  |
+| | |
+| Has URL:                | 3,317,445 (31.77%)                 |
+| URLs:                   | 664,691                           |
+| URLs percentiles:       | █▁▁▁▁▁▁▁▁▁                       |
+|                        | [78, 6, 3, 2, 2, 2, 2, 2, 2, 2]  |
+| | |
+| Has Image URL:          | 1,593,403 (15.26%)                 |
+| Image URLs:             | 134,431                           |
+| Image URLs percentiles: | █▁▁▁▁▁▁▁▁▁                       |
+|                        | [87, 4, 2, 1, 1, 1, 1, 1, 1, 1]  |
+| | |
+| Retweets:               | 7,411,799 (70.98%)                 |
+| Geo:                    | 74,678 (0.72%)                    |
+| Earliest:               | 2014-08-10 22:44:33 UTC          |
+| Latest:                 | 2014-08-27 15:15:50 UTC          |
+| Duration:               | 16 days, 16:31:07                 |
 
-Top hashtags:     █▁▁▁▁▁▁▁▁▁|
-|---|---|
-3969513| ferguson
-188976| mikebrown
-178139| ericgarner
-151749| blacklivesmatter
-118405| fergusondecision
-105607| michaelbrown
-99477| tcot
-89154| darrenwilson
-89000| icantbreathe
-45296| shutitdown
-  
-  
-|Top URLs:         █▇▅▃▃▃▂▂▁▁ |
-|---|---|
-11592 |[http://cnn.it/1tAZkMJ]
-10644 |[http://nbcnews.to/12fXQ5f]
-9848 |[http://ble.ac/1B376rD]
-8609 |[http://invst.rs/7f2xJB]
-8535 |[http://nyp.st/1vjOX47]
-8097 |[http://cbsn.ws/1vzqR5B]
-7460 |[http://bit.ly/1d5qTtO]
-7396 |[http://vine.co/v/On1x6iUuwxK]
-7038 |[http://on.rt.com/80mggq]
-7028 |[http://bit.ly/1vFrMUx]
-   
-|Top Image URLs:   █▇▇▆▅▅▄▄▃▁ |
-|---|---|
-|11453|![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg)|
-|10907 | ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg)|
-|10681 | ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg)|
-|10004 | ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg)|
-|9299 | ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg)|
-|9190 | ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg)|
-|8484 | ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg)|
-|7870 | ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg)|
-|7310 | ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg)|
-|5824 | ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg)|
+|                                                             |         |
+|-------------------------------------------------------------|---------|
+| # Top hashtags:     █▂▁▁▁▁▁▁▁▁                                |         |
+|                                                             |         |
+| 1. ferguson                                                    | 6,422,131 |
+| 2. mikebrown                                                   | 583,141  |
+| 3. michaelbrown                                                | 158,552  |
+| 4. justiceformikebrown                                         | 84,061   |
+| 5. tcot                                                        | 70,702   |
+| 6. gaza                                                        | 70,338   |
+| 7. stl                                                         | 58,662   |
+| 8. handsupdontshoot                                            | 47,126   |
+| 9. darrenwilson                                                | 40,091   |
+| 10. fergusonshooting                                            | 31,643   |
+|                                                             |         |
+| # Top URLs:  █▃▂▂▂▁▁▁▁▁                                       |         |
+|                                                             |         |
+| 1. <http://new.livestream.com/accounts/9035483/events/3271930> | 37,917   |
+| 2. <http://bzfd.it/VDlPH8>                                     | 12,906   |
+| 3. <http://thebea.st/1l8uDRK>                                  | 10,773   |
+| 4. <http://bbc.in/1uS3tSd>                                   | 9,841    |
+| 5. <http://www.livestream.com/activistworldnewsnow>          | 8,276    |
+| 6. <http://wapo.st/1sXk4Sj>                                    | 7,535    |
+| 7. <http://es.pn/1AvncY9>                                      | 7,514    |
+| 8. <https://vine.co/v/M3rWtqnrHi9>                             | 6,771    |
+| 9. <http://ind.pn/1qjd6lO>                                     | 6,366    |
+| 10. <http://ow.ly/ADgCF>                                        | 5,909    |
+|                                                             |         |
+| Top Image URLs: █▃▃▃▂▂▂▁▁▁                                  |         |
+|                                                             |         |
+| 1. ![alt text](http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg) | 21,899   |
+| 2. ![alt text](http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg) | 10,486   |
+| 3. ![alt text](http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg) | 10,319   |
+| 4. ![alt text](http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg) | 9,029    |
+| 5. ![alt text](http://pbs.twimg.com/media/BvaPNHTIIAE6UIi.jpg) | 7,956    |
+| 6. ![alt text](http://pbs.twimg.com/media/BvYUwzIIMAAiH62.jpg) | 7,586    |
+| 7. ![alt text](http://pbs.twimg.com/media/Bu9zJKeIIAAa4Jt.jpg) | 6,842    |
+| 8. ![alt text](http://pbs.twimg.com/media/Bu9bSPRCIAAnntQ.jpg) | 6,223    |
+| 9. ![alt text](http://pbs.twimg.com/media/Bu-lkolCAAIwyN0.jpg) | 5,998    |
+| 10. ![alt text](http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg) | 5,195    |
 
-| Top Image URLs      |
-| ------------- |-------------| -----|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+<br>
 
+# **November Ferguson Collection**
+***
 
+|                        |                                 |
+|------------------------|---------------------------------|
+| Tweets:                  | 7,868,540                         |
+| Users:                  | 1,761,950                         |
+| User percentiles:       | █▂▁▁▁▁▁▁▁▁                      |
+|                        | [68, 9, 5, 4, 2, 2, 2, 2, 2, 2] |
+|                        |                                 |
+| Has hashtag:            | 4,567,256 (58.04%)                |
+| Hashtags:               | 110,097                          |
+| Hashtags percentiles:   | █▁▁▁▁▁▁▁▁▁                      |
+|                        | [97, 1, 1, 0, 0, 0, 0, 0, 0, 0] |
+| | |
+| Has URL:                | 3,514,869 (44.67%)                |
+| URLs:                   | 927,040                          |
+| URLs percentiles:       | █▁▁▁▁▁▁▁▁▁                      |
+|                        | [73, 6, 3, 3, 3, 3, 3, 3, 3, 3] |
+| | |
+| Has Image URL:          | 1,465,857 (18.63%)                |
+| Image URLs:             | 191,684                          |
+| Image URLs percentiles: | █▁▁▁▁▁▁▁▁▁                      |
+|                        | [83, 5, 3, 1, 1, 1, 1, 1, 1, 1] |
+| | |
+| Retweets:               | 5,004,081 (63.60%)                |
+| Geo:                    | 51,007 (0.65%)                   |
+| Earliest:               | 2014-11-11 22:17:06 UTC         |
+| Latest:                 | 2014-12-10 05:15:31 UTC         |
+| Duration:               | 28 days, 6:58:25                |
+
+|                                                             |         |
+|-------------------------------------------------------------|---------|
+| Top hashtags: █▁▁▁▁▁▁▁▁▁                                    |         |
+|                                                             |         |
+| 1. ferguson                                                    | 3,969,513 |
+| 2. mikebrown                                                   | 188,976  |
+| 3. ericgarner                                                  | 178,139  |
+| **4. blacklivesmatter**                                           | **151,749**  |
+| 5. fergusondecision                                            | 118,405  |
+| 6. michaelbrown                                                | 105,607  |
+| 7. tcot                                                        | 99,477   |
+| 8. darrenwilson                                                | 89,154   |
+| 9. icantbreathe                                                | 89,000   |
+| 10. shutitdown                                                  | 45,296   |
+|                                                             |         |
+|                                                             |         |
+| Top URLs: █▇▅▃▃▃▂▂▁▁                                        |         |
+|                                                             |         |
+| 1. <http://cnn.it/1tAZkMJ>                                     | 11,592   |
+| 2. <http://nbcnews.to/12fXQ5f>                                 | 10,644   |
+| 3. <http://ble.ac/1B376rD>                                     | 9,848    |
+| 4. <http://invst.rs/7f2xJB>                                    | 8,609    |
+| 5. <http://nyp.st/1vjOX47>                                     | 8,535    |
+| 6. <http://cbsn.ws/1vzqR5B>                                    | 8,097    |
+| 7. <http://bit.ly/1d5qTtO>                                     | 7,460    |
+| 8. <http://vine.co/v/On1x6iUuwxK>                              | 7,396    |
+| 9. <http://on.rt.com/80mggq>                                   | 7,038    |
+| 10. <http://bit.ly/1vFrMUx>                                     | 7,028    |
+|                                                             |         |
+| Top Image URLs: █▇▇▆▅▅▄▄▃▁                                  |         |
+|                                                             |         |
+| 1. ![alt text](http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg) | 11,453   |
+| 2. ![alt text](http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg) | 10,907   |
+| 3. ![alt text](http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg) | 10,681   |
+| 4. ![alt text](http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg) | 10,004   |
+| 5. ![alt text](http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg) | 9,299    |
+| 6. ![alt text](http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg) | 9,190    |
+| 7. ![alt text](http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg) | 8,484    |
+| 8. ![alt text](http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg) | 7,870    |
+| 9. ![alt text](http://pbs.twimg.com/media/B3pa9UrIEAAhrmj.jpg) | 7,310    |
+| 10. ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg) | 5,824    |
+
+<br>
 From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering, where the heck are all those missing tweets?!,that's a damn good question--one that Ed Summers has tackled here and one that I plan to theorize more fully in later blog posts.
 
-For now, however, I'll conclude by saying that twarc-report is a terrific little tool for getting a sense of the contours of one's dataset and can help reveal key patterns. For instance, from this summary alone we can start to see the #BlackLivesMatter emerging into the mainstream Ferguson conversation. From August 10, 2014 to August 27, 2014, roughly the two weeks after Michael Brown’s shooting, the hashtag #BlackLivesMatter doesn't even appear in the Top 10 most frequent hashtags, but by November 11, 2014 to December 10, 2014, roughly the month after Darren Wilson’s non-indictment, #BlackLivesMatter emerges as the fourth most popular hashtag, indicating its gaining strength and circulation.
+For now, however, I'll conclude this post (Part 1) by saying that twarc-report is a terrific little tool for getting a sense of the contours of one's dataset, and can help reveal key patterns and critical insights right off the bat. For instance, from this summary alone, we start to see #BlackLivesMatter emerging into the mainstream Ferguson conversation. From August 10, 2014 to August 27, 2014, roughly the two weeks after Michael Brown’s shooting, the hashtag #BlackLivesMatter doesn't even make the Top 10. But but by November 11, 2014 to December 10, 2014, roughly the month after Darren Wilson’s non-indictment, #BlackLivesMatter has emerged as the fourth most popular hashtag in the collection. The fourth months between August 10 and December 10, then, represent a crucial moment in the rise and circulation of the #BlackLivesMatter movement, as has been suggested by scholars and activists elsewhere.
+
+In the next post (Part 2), I will discuss how I narrowed these collections to just the tweets that mention James Baldwin (using jq and regular expressions).
+
+ {% if page.comments %} 
+ <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = melaniewalsh.org;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//melaniewalsh.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+  {% endif %} 
 
 
