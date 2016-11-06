@@ -70,7 +70,7 @@ Since Twitter’s API rate limit only allows requests for up to 72,000 tweets pe
 | 9. darrenwilson                                                | 40,091   |
 | 10. fergusonshooting                                            | 31,643   |
 |                                                             |         |
-| # Top URLs:  █▃▂▂▂▁▁▁▁▁                                       |         |
+|  Top URLs:  █▃▂▂▂▁▁▁▁▁                                       |         |
 |                                                             |         |
 | 1. <http://new.livestream.com/accounts/9035483/events/3271930> | 37,917   |
 | 2. <http://bzfd.it/VDlPH8>                                     | 12,906   |
@@ -172,11 +172,11 @@ Since Twitter’s API rate limit only allows requests for up to 72,000 tweets pe
 | 10. ![alt text](http://pbs.twimg.com/media/B3SlDtxIIAARDT1.jpg) | 5,824    |
 
 <br>
-From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering, where the heck are all those missing tweets?!,that's a damn good question--one that Ed Summers has tackled here and one that I plan to theorize more fully in later blog posts.
+From the 13,480,000 ids in the August collection, I was able to hydrate 10,441,785 tweets. From the 15,080,078 ids in the November collection, I was able to hydrate 7,868,540 tweets. If you're wondering where the heck all those missing tweets went, so am I. If a Twitter user deletes his/her tweets between the tweet publication and the time of hydration, then that tweet gets lost forever. Ed Summers thinks this is a [lowkey ethical move](https://medium.com/on-archivy/on-forgetting-e01a2b95272#.jlm9fifcj) on Twitter's part, allowing users the right to be forgotten, even though they don't state this outright. Still, 7,868,540 is a heckuva lot of missing tweets, and I hope to theorize these silences and disappearances more fully in later posts.
 
-For now, however, I'll conclude this post (Part 1) by saying that twarc-report is a terrific little tool for getting a sense of the contours of one's dataset, and can help reveal key patterns and critical insights right off the bat. For instance, from this summary alone, we start to see #BlackLivesMatter emerging into the mainstream Ferguson conversation. From August 10, 2014 to August 27, 2014, roughly the two weeks after Michael Brown’s shooting, the hashtag #BlackLivesMatter doesn't even make the Top 10. But but by November 11, 2014 to December 10, 2014, roughly the month after Darren Wilson’s non-indictment, #BlackLivesMatter has emerged as the fourth most popular hashtag in the collection. The fourth months between August 10 and December 10, then, represent a crucial moment in the rise and circulation of the #BlackLivesMatter movement, as has been suggested by scholars and activists elsewhere.
+For now, however, I'll conclude Part 1 by saying that twarc is an awesome tool for creating Twitter archives if you know even a little bit about Python/the command line (though I should mention that Ed Summers is currently leading a project called ["Documenting the Now"](http://www.docnow.io/) which aims to develop an even easier-to-use tool that requires no programming skills whatsoever) and twarc-report is a small but powerful utility for getting a sense of the contours of one's dataset, and it can even reveal key patterns and critical insights on its own . For instance, from the twarc-report summaries alone, we can see #BlackLivesMatter emerging into the mainstream Ferguson conversation. From August 10, 2014 to August 27, 2014, roughly the two weeks after Michael Brown’s shooting, the hashtag #BlackLivesMatter doesn't even make the Top 10, but by November 11, 2014 to December 10, 2014, roughly the month after Darren Wilson’s non-indictment, #BlackLivesMatter has rocketed to No. 4. These reports indicate that the fourth months between August 10 and December 10 represent a crucial moment in the rise and circulation of the #BlackLivesMatter movement, as has been suggested by scholars and activists elsewhere.
 
-In the next post (Part 2), I will discuss how I narrowed these collections to just the tweets that mention James Baldwin (using jq and regular expressions).
+In Part 2, I will discuss how I narrowed these collections to only the tweets that mention James Baldwin (using jq and regular expressions) and what the twarc-reports of these smaller James Baldwin collections reveal.
 
  {% if page.comments %} 
  <div id="disqus_thread"></div>
