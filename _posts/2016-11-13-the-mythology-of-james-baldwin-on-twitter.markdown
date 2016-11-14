@@ -26,7 +26,7 @@ Second, Twitter holds particular significance for my study of Baldwin because it
 
 |          |    |   |
 |------------------------|----------------------------------|------|
-| | **August** | |**November**
+| | **August 2014** | |**November 2014**
 | | | |
 | **Tweets:**                  | 10,441,785         | |7,868,540  
 | **Users:**                  | 1,596,104            | |1,761,950 
