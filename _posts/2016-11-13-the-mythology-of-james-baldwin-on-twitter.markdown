@@ -60,7 +60,7 @@ So why does Baldwin appear so much more frequently than other black writers? Wha
 
 <b>
 	
-#**Top 10 August Retweets:**
+# **Top 10 August Retweets:**
 
 <b>
 
@@ -100,7 +100,7 @@ So why does Baldwin appear so much more frequently than other black writers? Wha
 
 <b>
 
-#**Top 10 November Retweets:**
+# **Top 10 November Retweets:**
 
 <b>
 
@@ -202,7 +202,7 @@ Third, and perhaps most important, these readers clearly invoke Baldwin’s rage
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bill T. Jones <a href="https://twitter.com/NewYorkLiveArts">@NewYorkLiveArts</a>: James Baldwin loved America. He just wanted it to make good on its promises <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> <a href="http://t.co/MVMmMOSeNC">http://t.co/MVMmMOSeNC</a></p>&mdash; CBCSundayEdition (@CBCSunday) <a href="https://twitter.com/CBCSunday/status/538880647930994688">November 30, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-This is angry Baldwin. By manipulating the sentence’s conclusion from the more open-ended and cautious “in a rage almost all the time” to the more permanent, climactic “constant state of rage,” these readers place even more emphasis on “rage.” And this is where I think Baldwin’s literary and intellectual mythos most comes into play, the reason Twitter users respond to this quote in particular and why they retain his attribution even when they change his words. 
+This is angry Baldwin. By manipulating the sentence’s conclusion from the more open-ended and cautious “in a rage almost all the time” to the more permanent, climactic “constant state of rage,” these readers place special emphasis on “rage.” And this is where I think Baldwin’s literary and intellectual mythos most comes into play, the reason Twitter users respond to this quote in particular and why they retain his attribution even when they change his words. 
 
 Because the collective outrage over Michael Brown’s shooting and Darren Wilson’s non-indictment---and the protests happening in the streets across the country---was being dismissed and criminalized as "rioting" and "thuggish," as unwarranted and overblown. These Twitter users are thus historicizing, legitimizing, and giving license to their own rage by invoking it through Baldwin, an eloquent, elite artist recognized by the establishment. This is not the anger of rioting thugs; this is the anger of an articulate, textually-deft, and conscious movement. One Twitter user expressed frustration about the movement's gravitation toward James Baldwin as model and muse, pointing out the potential dissonance between the language and experiences of James Baldwin and that of everyday black teenagers in Ferguson:
 
@@ -221,6 +221,6 @@ ___
 
 [^2]: These [openly available archives](https://archive.org/details/ferguson-tweet-ids) were collected by Ed Summers, Molly Loyd, Gregory Coleman, Kimberly Lamke, and Benjamin Sugar, and this project is indebted to their foresight in collecting these tweets and their intellectual generosity in sharing them. Twitter’s Terms of Service does not allow bulk distribution of Twitter data, but it does allow the distribution of tweet “ids,” unique identifiers assigned to every tweet which can be used to retroactively access the full tweet metadata from the Twitter API using a tool like twarc, which was also created by Ed Summers. This process is called “hydrating.” Because “hydrating” these tweets comes after the fact, however, any tweet that has been deleted between the time of its original publication and the time of hydration disappears entirely. From the 13,480,000 ids in the first collection, I was able to “hydrate” 10,441,785 tweets, a process that took approximately 8 days (since the Twitter’s API rate limit only allows requests for up to 72,000 tweets per hour). From the 15,080,078 ids in the second collection, I was able to “hydrate” 7,868,540 tweets, which reveals a surprising number of missing/deleted tweets that I would like to more fully theorize and speculate about in the future.
 
-[^3]: For more on how I used twarc and hydration, see ["Part 1: Building the 'Tweets of a Native Son' Archive (twarc and twarc-report)"](/2016-11-05-building-tweets-of-a-native-son-part1)
+[^3]: For more on how I used twarc and hydration, see ["Part 1: Building the 'Tweets of a Native Son' Archive (twarc and twarc-report)"](http://melaniewalsh.org/2016/11/05/building-tweets-of-a-native-son-part1.html)
 
-[^4]: For more on how I reshaped this JSON  data, see ["Part 2: Building the 'Tweets of a Native Son' Archive (jq and regular expressions)"]()
+[^4]: For more on how I reshaped the JSON  data, see ["Part 2: Building the 'Tweets of a Native Son' Archive (jq and regular expressions)"](http://melaniewalsh.org/2016/11/07/building-tweets-of-a-native-son-part2.html)

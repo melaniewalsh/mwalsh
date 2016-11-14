@@ -6,7 +6,7 @@ categories:
 comments: true
 ---
 
-In Part 1, I explained how I "hydrated" 17 million tweets that mentioned "Ferguson" from August and November of 2014 by using [twarc](https://github.com/DocNow/twarc) and how I generated summaries for these collections (# of tweets and users, top hashtags, top URLs, top image URLS, etc.) using [twarc-report](https://github.com/pbinkley/twarc-report). But where and how does James Baldwin fit into the picture?
+In [Part 1](http://melaniewalsh.org/2016/11/05/building-tweets-of-a-native-son-part1.html), I explained how I "hydrated" 17 million tweets that mentioned "Ferguson" from August and November 2014 by using [twarc](https://github.com/DocNow/twarc) and how I generated summaries for these collections (# of tweets and users, top hashtags, top URLs, top image URLS, etc.) using [twarc-report](https://github.com/pbinkley/twarc-report). But how and where does James Baldwin fit into the picture?
 
 In this post, I'm going to talk about what Twitter metadata looks like (spoiler alert: it's pretty kooky) and how I reshaped the metadata to find only tweets that mentioned James Baldwin by using [jq](https://stedolan.github.io/jq/), a command-line utility for filtering JSON data.
 
@@ -57,7 +57,7 @@ Yet the James Baldwin conversation represents less than **one-percent** of the t
 
 But why? Why does Baldwin appear so much more frequently than other black writers? What about his style, insights, or legacy resonates in this particular historical moment and on this particular platform?
 
-These are the literary questions that I will seek to answer in future posts through close-reading and further investigation of the data. But for now, I'll just share an overview of the Ferguson-Baldwin data, produced using the twarc utilities and  like to share a broad overview of these archives. Check out the most popular retweets, hashtags, URLs, and image URLs below.
+These are the literary questions that I will seek to answer in future posts through close-reading and further investigation of the data. But for now, I'll just share an overview of the Ferguson-Baldwin data produced using some twarc utilities and twarc-report. Check out the most popular retweets, hashtags, URLs, and image URLs below.
 
 
 # **August Baldwin Tweet Archive**
@@ -181,14 +181,6 @@ These are the literary questions that I will seek to answer in future posts thro
 | 9. 	![alt text](http://pbs.twimg.com/media/BvVH43QIQAA80d-.jpg)  | 1    |                                      
 | 10. 	![alt text](http://pbs.twimg.com/media/BvVgszMIgAAsEUz.jpg) | 1    |                                       
 
-
-|---:|---:|---:|
-| **Top Image URLs**:  |   |                                                                                                 |      |
-|      |
-| 1.	![alt text](http://pbs.twimg.com/media/Bv5Mng5CIAAdKqx.jpg) |   3. 	[![alt text](http://pbs.twimg.com/media/BvSVjOhCYAAp4HO.jpg)](http://pbs.twimg.com/media/BvSVjOhCYAAp4HO.jpg)  |4. 	![alt text](http://pbs.twimg.com/media/BvsNlfPCAAEE-4I.jpg)    |                             
-|5. ![alt text](http://pbs.twimg.com/media/BvdepJJCIAASmnF.jpg) |                                     6. 	![alt text](http://pbs.twimg.com/media/BvfXPJ6CMAET-7x.jpg) | 7. 	![alt text](http://pbs.twimg.com/media/Bv5hrs5IAAEJ-j9.png) |                                       
-| 8. ![alt text](http://pbs.twimg.com/media/Bu_9kkZIgAAQr4J.jpg)|   9. 	![alt text](http://pbs.twimg.com/media/BvVH43QIQAA80d-.jpg)  | 10. 	![alt text](http://pbs.twimg.com/media/BvVgszMIgAAsEUz.jpg) |   
-         
 <br>
 
 # **November Baldwin Archive**
@@ -222,6 +214,8 @@ These are the literary questions that I will seek to answer in future posts thro
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 | **Total Duration**:                         | 27 days, 22:29:12     |
+
+<b>
 
 **Top 10 Retweets:**
 
@@ -258,6 +252,7 @@ These are the literary questions that I will seek to answer in future posts thro
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <b>
+
 |                              |                                                                                                                                 |     |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------|-----|
 | |
