@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Introduction: Tweets of a Native Son"
+title:  "Introduction: \"Tweets of a Native Son\""
 date:   2016-11-05 14:56:56 -0500
-categories: twitter, tweets
+categories: 
 comments: true
 ---
 
-I started this blog largely because I wanted to start sharing some thoughts and updates about my project (tentatively titled) "Tweets of a Native Son," a large-scale computational analysis of tweets that mention "James Baldwin" in relationship to Ferguson and the #BlackLivesMatter movement.
+I started this blog largely because I wanted to start sharing some thoughts and updates about my project "Tweets of a Native Son," a large-scale computational analysis of tweets that mention "James Baldwin" in relationship to Ferguson and the #BlackLivesMatter movement.
 
 Like many other Americans, I was glued to my Twitter feed in August, 2014 as I watched the protests unfold in Ferguson, MO, just miles away from my home and university in St. Louis. The weeks and months following Michael Brown's shooting revealed a rapidly developing relationship between social media, especially Twitter, and racial justice, as it provided new platfroms for organization, counternarrative, and conversation. As a literary scholar, I was particularly interested in the ways that people were invoking and quoting literature in their tweets about Ferguson and #BlackLivesMatter, particularly when they were invoking and quoting James Baldwin, which seemed frequently.
 
@@ -14,35 +14,8 @@ Like many other Americans, I was glued to my Twitter feed in August, 2014 as I w
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <b>
 
-What about Baldwin seems to resonate with our particular historical moment and this particular platform? Which of Baldwin’s texts and which kinds of texts—fiction, non-fiction, interviews, etc.—are being most frequently cited? What might this tell us about how Baldwin's legacy is being constructed and used by readers? My project seeks to answer these questions and more by conducting a large-scale computational analysis of tweets about Ferguson and the #BlackLivesMatter movement, combined with a careful close reading of individual tweets and narrative patterns.
+What about Baldwin seems to resonate with our particular historical moment and this particular platform? Which of Baldwin’s texts and which kinds of texts—fiction, non-fiction, interviews, etc.—are being most frequently cited? What might this tell us about how Baldwin's legacy is being constructed and used by readers? My project seeks to answer these questions and more by conducting a large-scale computational analysis of tweets about Ferguson and the #BlackLivesMatter movement, as well as a careful close reading of individual tweets and narrative patterns.
 
-The project is still very much in-progress, but I'm sharing my findings, thoughts, and continuing questions in this space. If you decide to follow along, I'd really appreciate  feedback and input. Feel free to leave a comment below, email me at melanie.walsh@wustl.edu, or tweet me at [@mellymeldubs](https://twitter.com/MellyMeldubs).
-
-
- {% if page.comments %} 
- <div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-/*
-var disqus_config = function () {
-this.page.url = melaniewalsh.org;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-*/
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//melaniewalsh.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                                
-  {% endif %} 
-
-
+The project is still very much in-progress, but I'm sharing my findings, thoughts, and continuing questions in this space. If you decide to follow along, I'd really appreciate  feedback, so feel free to leave a comment below, email me at melanie.walsh@wustl.edu, or tweet me at [@mellymeldubs](https://twitter.com/MellyMeldubs).
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: blog
 permalink: /blog/
 ---
 
@@ -19,4 +19,7 @@ permalink: /blog/
     {% endfor %}
   </ul>
 
+
 </div>
+
+  

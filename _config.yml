@@ -21,12 +21,14 @@ url: "https://melaniewalsh.org"
 cover: "/assets/ginkgo.jpg"
 twitter_username: mellymeldubs
 github_username:  melaniewalsh
+disqus_shortname: melaniewalsh
 
 # Build settings
 markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jemoji
 exclude:
   - Gemfile
   - Gemfile.lock
