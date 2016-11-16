@@ -217,7 +217,7 @@ ___
 
 <b>
 
-[^1]: [“The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics”](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
+[^1]: Lev Manovich, [“The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics”](http://culturalanalytics.org/2016/05/the-science-of-culture-social-computing-digital-humanities-and-cultural-analytics/)
 
 [^2]: These [openly available archives](https://archive.org/details/ferguson-tweet-ids) were collected by Ed Summers, Molly Loyd, Gregory Coleman, Kimberly Lamke, and Benjamin Sugar, and this project is indebted to their foresight in collecting these tweets and their intellectual generosity in sharing them. Twitter’s Terms of Service does not allow bulk distribution of Twitter data, but it does allow the distribution of tweet “ids,” unique identifiers assigned to every tweet which can be used to retroactively access the full tweet metadata from the Twitter API using a tool like twarc, which was also created by Ed Summers. This process is called “hydrating.” Because “hydrating” these tweets comes after the fact, however, any tweet that has been deleted between the time of its original publication and the time of hydration disappears entirely. From the 13,480,000 ids in the first collection, I was able to “hydrate” 10,441,785 tweets, a process that took approximately 8 days (since the Twitter’s API rate limit only allows requests for up to 72,000 tweets per hour). From the 15,080,078 ids in the second collection, I was able to “hydrate” 7,868,540 tweets, which reveals a surprising number of missing/deleted tweets that I would like to more fully theorize and speculate about in the future.
 
