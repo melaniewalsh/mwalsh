@@ -2,9 +2,12 @@
 layout: page
 permalink: /presidents_great_things/
 ---
+
+---
+
 # **Things That The U.S. Presidents Described as "Great" in Their Inaugural Addresses**
 
-For the February 2017 meeting of the Digital Approaches Reading Group (DARG) that I co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset---in the hopes of showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word "great."
+For the February 2017 meeting of the Digital Approaches Reading Group (DARG) that I co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset---in the hopes of showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: "great."
 
 President Trump concluded his 2017 Inaugural Address with the trademark phrase "Make America Great Again." The adjective "great" is indeed one of the cornerstones of Trump's rhetorical style, showing up in speeches and tweets to describe things as various as policy meetings, The Apprentice, the threat of CNN, and the proposed Mexican border wall:
 
