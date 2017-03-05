@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /presidents_great_things/
----
+
 
 ---
 

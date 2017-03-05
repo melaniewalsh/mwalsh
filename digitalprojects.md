@@ -2,6 +2,7 @@
 layout: page
 title: digital projects
 permalink: /digitalprojects/
+
 ---
 
 ["Tweets of a Native Son."](/tweets-of-a-native-son/) A large-scale computational analysis of tweets that invoke James Baldwin in relationship to Ferguson and the #BlackLivesMatter movement.
