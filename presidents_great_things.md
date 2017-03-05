@@ -85,7 +85,9 @@ I played around with visualizing this data in a number of ways, which included a
 
 ![Alt text](/images/sunburst.svg)
 
-But I also wanted to create a semantic network to more clearly understand which "great" things were connecting which Presidents. So I used NetworkX, Gephi, and the Sigma.JS plugin to create this [interactive force-directed network](/network/index.html). Some strange and surprising insights come to light through the data and visualizations.
+But I also wanted to create a semantic network to more clearly understand which "great" things were connecting which Presidents. So I used NetworkX, Gephi, and the Sigma.JS plugin to create this force-directed network and this accompanying [interactive web version](/network/index.html). Some strange and surprising insights come to light through the data and visualizations.
+
+![Alt text](/images/gephi_network.svg)
 
 For instance, Donald Trump is the only President who described "America" as "great" (at least immediately before or after the word "America") which suggests that his trademark slogan is a relatively unique coinage. It was much more common to refer to the "nation" or "people" or "republic" as "great" than to refer to "America" as "great." What does this change mean? To speculate only briefly, I suspect the new specificity of "America" might have something to do with our increasingly globalized moment, in which distinguishing "America" from the rest of the world is a necessity and, to some, an intense anxiety.
 
