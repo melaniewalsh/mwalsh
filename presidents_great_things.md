@@ -7,9 +7,9 @@ permalink: /presidents_great_things/
 
 # **Things That The U.S. Presidents Described as "Great" in Their Inaugural Addresses**
 
-For the February 2017 meeting of the Digital Approaches Reading Group (DARG) that I co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset---in the hopes of showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: "great."
+For the February 2017 meeting of the Digital Approaches Reading Group (DARG) that I co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset in the hopes of showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word "great."
 
-President Trump concluded his 2017 Inaugural Address with the trademark phrase "Make America Great Again." The adjective "great" is indeed one of the cornerstones of Trump's rhetorical style, showing up in speeches and tweets to describe things as various as policy meetings, The Apprentice, the threat of CNN, and the proposed Mexican border wall:
+President Trump concluded his 2017 Inaugural Address with the trademark phrase "Make America Great Again." The adjective "great" is one of the cornerstones of Trump's rhetorical style, showing up in speeches and tweets to describe things as various as policy meetings, The Apprentice, the threat of CNN, and the proposed Mexican border wall:
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great meeting with CEOs of leading U.S. health insurance companies who provide great healthcare to the American people. <a href="https://t.co/s2NMVMvQq3">pic.twitter.com/s2NMVMvQq3</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/836261209540288513">February 27, 2017</a></blockquote>
@@ -26,7 +26,7 @@ President Trump concluded his 2017 Inaugural Address with the trademark phrase "
 
 I wanted to explore how previous Presidents had used the word "great" before him. Could I find a historical precedent for this adjective and/or a trajectory of its shifting ideological value?
 
-#Methodology
+# Methodology
 
 I used the Python module TextBlob, specifically its part-of-speech tagger and ngrams function, to isolate all the nouns that came immediately before or after the word "great" in every speech. Here are the top 10 things that were most commonly described as "great" across all inaugural addresses and the top Presidents who used the word:
 
@@ -91,5 +91,5 @@ For instance, Donald Trump is the only President who described "America" as "gre
 
 There are also some surprising connections between the Presidents themselves. Donald Trump and George H. W. Bush are connected by the word "men." Ronald Reagan and Ulysses S. Grant are connected by "honor." Dwight D. Eisenhower, James Buchanan, and Andrew Garfield are all connected by "evil" (Buchanan also dropped the plural "great evils"). William McKinley, George W. Bush, and Richard Nixon are all connected by "responsibilities." James Monroe and John Adams are connected by "satisfaction." And Harry S. Truman, Bill Clinton, and George Washington aren't connected to anyone at all! 
 
-Please feel free to explore the network and see what else you can find!
+Please feel free to explore the network and see what else you can find. Check out all the source code for this project [here](https://github.com/melaniewalsh/inaugural_addresses).
   
