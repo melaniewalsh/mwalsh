@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /august/
-
 ---
 
 # **August Baldwin Tweet Archive**
