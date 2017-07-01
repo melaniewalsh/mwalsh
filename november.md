@@ -1,6 +1,8 @@
 ---
 layout: page
+title: 
 permalink: /november/
+
 ---
 
 # **November Baldwin Archive**
