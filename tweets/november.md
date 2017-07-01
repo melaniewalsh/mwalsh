@@ -5,7 +5,7 @@ permalink: /november/
 
 ---
 
-# **November Baldwin Archive**
+ **November Baldwin Archive**
 ***
 
 |                                  |               |    |        |

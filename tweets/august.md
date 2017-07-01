@@ -5,8 +5,8 @@ permalink: /august/
 
 ---
 
-# **August Baldwin Tweet Archive**
----
+ **August Baldwin Tweet Archive**
+
 
 |                                          |               |    |        |
 |------------------------------------------|---------------|----|--------|
