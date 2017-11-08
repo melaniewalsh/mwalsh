@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature at Washington University in St. Louis. I'm working on a dissertation that follows postwar American literature as it's been recirculated by networks of readers in the 21st century, tentatively titled *Postwar Redux*. My first chapter, "Tweets of a Native Son," follows on the quotation and circulation of James Baldwin during the #Ferguson protests. You can check out some of my work-in-progress for this chapter [here](/tweets-of-a-native-son/).
+I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature at Washington University in St. Louis. I'm working on a dissertation that follows postwar American literature as it's been recirculated by networks of readers in the 21st century, tentatively titled *Postwar Redux*. My first chapter, "Tweets of a Native Son," follows the quotation and circulation of James Baldwin during the #Ferguson protests. You can check out some of my work-in-progress for this chapter [here](/tweets-of-a-native-son/).
 
 Other things I'm excited about right now include teaching a [300-level literature course about social media and the contemporary American novel](https://afsma17.com/) and co-convening the [Digital Approaches Reading Group](https://sites.wustl.edu/darg/).
 
