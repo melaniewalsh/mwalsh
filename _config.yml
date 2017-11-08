@@ -25,10 +25,12 @@ disqus_shortname: melaniewalsh
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
-  - jemoji
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock

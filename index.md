@@ -5,6 +5,9 @@
 layout: home
 ---
 
-Hi! I'm a PhD candidate in 20th/21st century American literature at Washington University in St. Louis. I'm interested in networks, new media, and the digital humanities. I like big novels, but I also think tweets are beautiful, and I spend a lot of my time thinking about how these things aren't incompatibile.
+I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature at Washington University in St. Louis. I'm working on a dissertation that follows postwar American literature as it's been recirculated by networks of readers in the 21st century, tentatively titled *Postwar Redux*. You can check out some of my work-in-progress on the quotation and circulation of James Baldwin during the #Ferguson protests, ["Tweets of a Native Son."](/tweets-of-a-native-son/).
 
-I built this website (using [Jekyll](https://jekyllrb.com/ "yeah Jekyll rules") and [GitHub Pages](https://pages.github.com/ "also lovely")) so I could start sharing my projects publicly and so I could learn from people smarter than me. Check out my [blog](/blog/) or my [projects](/digitalprojects/) if you'd like to see what I'm working on and nerd along!
+Other things I'm excited about right now include teaching a [300-level literature course about social media and the contemporary American novel](https://afsma17.com/) and co-convening the [Digital Approaches Reading Group](https://sites.wustl.edu/darg/).
+
+In my spare time, I also play shooting guard for a nerdy-as-heck intramural basketball team called Negative Capability, under the mash-up moninker Eyre Jordan, and I occasionally make [Twitter bots about Kanye West](https://twitter.com/SongOfKanye).
+

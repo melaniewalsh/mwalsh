@@ -15,6 +15,11 @@ BA, English, Washington University in St. Louis, 2013, summa cum laude
 
 Conferences, Presentations, & Workshops
 ---
+
+"Stories of Dissent: Rereading #Ferguson." American Studies Association. Chicago, IL. Fall 2017
+
+*Access*. NovelTM Workshop. Montreal, QC. Fall 2017.
+
 "Tweets of a Native Son: James Baldwin's New Media Readers." MSU Global DH Symposium. East Lansing, MI. Spring 2017.
 
 “Tweets of a Native Son: The Mythology of James Baldwin on Twitter.” Post45 Graduate Symposium. Berkeley, CA. Spring 2017.
@@ -63,7 +68,7 @@ Tutor, “Creative Writing Club,” North Campus Learning Center,               
 
 Teaching
 ---
-
+Instructor, [American Fiction in the Social Media Age](https://afsma17.com/), Washington University, Fall 2017.
 
 Instructor, College Writing 1, Washington University, Fall 2015, Spring 2016.
 
@@ -74,7 +79,7 @@ Teaching Assistant, American Fiction From 1945 to the Present, Washington Univer
 Technical Skills
 ---
 
-Experience with Python, programming language
+Working knowledge of Python, programming language
 
 Experience with D3.js, JavaScript visualization library
 
