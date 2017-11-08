@@ -16,7 +16,7 @@ BA, English, Washington University in St. Louis, 2013, summa cum laude
 Conferences, Presentations, & Workshops
 ---
 
-"Stories of Dissent: Rereading #Ferguson." American Studies Association. Chicago, IL. Fall 2017
+"Stories of Dissent: Rereading #Ferguson." American Studies Association. Chicago, IL. Fall 2017.
 
 *Access*. NovelTM Workshop. Montreal, QC. Fall 2017.
 
