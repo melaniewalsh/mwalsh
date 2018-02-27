@@ -64,26 +64,35 @@ So why does Baldwin appear so much more frequently than other black writers? Wha
 
 <b>
 
-**1**
-{% twitter https://twitter.com/zellieimani/status/499871572023586816 %}
-**2**
-{% twitter https://twitter.com/c_kayiza/status/498832276667793408 maxwidth=550 %}
-**3**
-{% twitter https://twitter.com/Okwonga/status/500008972016156672 maxwidth=550 %}
-**4** 
-{% twitter https://twitter.com/joseiswriting/status/501231389333667842 maxwidth=550 %}
-**5** 
-{% twitter https://twitter.com/nprbooks/status/501866250973478912 maxwidth=550 %}
-**6**
-{% twitter https://twitter.com/drineee/status/503726050258325505 maxwidth=550 %}
-**7**
-{% twitter https://twitter.com/JoyceCarolOates/status/503278563056156673 maxwidth=550 %}
-**8**
-{% twitter https://twitter.com/splcenter/status/503947612299755520 maxwidth=550 %}
-**9**
-{% twitter https://twitter.com/salamishah/status/502105003033894912 maxwidth=550 %}
-**10**
-{% twitter https://twitter.com/salamishah/status/502104900164386816 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be Black and conscious in America is to be in a constant state of rage.&quot; - James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; zellie (@zellieimani) <a href="https://twitter.com/zellieimani/status/499871572023586816">August 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.&quot; —James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Crystal Kayiza (@c_kayiza) <a href="https://twitter.com/c_kayiza/status/498832276667793408">August 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>                  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My new article on <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a>, <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a>, systemic racism and James Baldwin; if of interest, please share.<a href="http://t.co/DxhX3gCnnF">http://t.co/DxhX3gCnnF</a></p>&mdash; Musa Okwonga (@Okwonga) <a href="https://twitter.com/Okwonga/status/500008972016156672">August 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">if you&#39;re following <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a>, watch this essential <a href="https://twitter.com/hashtag/JamesBaldwin?src=hash">#JamesBaldwin</a> testimony in June 1963: <a href="https://t.co/EVTTXgp82s">https://t.co/EVTTXgp82s</a></p>&mdash; Jose Antonio Vargas (@joseiswriting) <a href="https://twitter.com/joseiswriting/status/501231389333667842">August 18, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;This fight begins in the heart&quot;: <a href="https://twitter.com/LailaLalami">@LailaLalami</a> on reading James Baldwin as Ferguson seethes: <a href="http://t.co/pwErhUga3Z">http://t.co/pwErhUga3Z</a></p>&mdash; NPR Books (@nprbooks) <a href="https://twitter.com/nprbooks/status/501866250973478912">August 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">‘Not everything that is faced can be changed, but nothing can be changed until it is faced.’ - James Baldwin <a href="https://twitter.com/hashtag/FERGUSON?src=hash">#FERGUSON</a></p>&mdash; sandrine. (@drineee) <a href="https://twitter.com/drineee/status/503726050258325505">August 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="http://t.co/mFvaZuMAIw">http://t.co/mFvaZuMAIw</a> Teju Cole&#39;s beautiful &amp; lacerating piece on James Baldwin, the &quot;black body&quot; &amp; the white gaze, <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> &amp; beyond.</p>&mdash; Joyce Carol Oates (@JoyceCarolOates) <a href="https://twitter.com/JoyceCarolOates/status/503278563056156673">August 23, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A quote from James Baldwin in a PSA on <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> that aired during last night’s <a href="https://twitter.com/hashtag/VMAs?src=hash">#VMAs</a> WATCH: <a href="http://t.co/X0Q7Zs2z3y">http://t.co/X0Q7Zs2z3y</a> <a href="http://t.co/VyMthSXw6c">pic.twitter.com/VyMthSXw6c</a></p>&mdash; SPLC (@splcenter) <a href="https://twitter.com/splcenter/status/503947612299755520">August 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;But black people raise their children as a rehearsal for danger.” -James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Salamishah Tillet (@salamishah) <a href="https://twitter.com/salamishah/status/502105003033894912">August 20, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;White people think that childhood is a rehearsal for success. White people think of themselves as safe.&quot; -James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Salamishah Tillet (@salamishah) <a href="https://twitter.com/salamishah/status/502104900164386816">August 20, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <b>
 
@@ -95,28 +104,33 @@ So why does Baldwin appear so much more frequently than other black writers? Wha
 
 <b>
 
+[Tweet deleted]
 
-**1**
-{% twitter https://twitter.com/mollycrabapple/status/537045590300188672 %}
-**2**
-{% twitter https://twitter.com/courteroy_/status/537077232599330816 maxwidth=550 %}
-**3**
-{% twitter https://twitter.com/joseiswriting/status/537136943318831105 maxwidth=550 %}
-**4** 
-{% twitter https://twitter.com/GbengaAkinnagbe/status/537130288787517442 maxwidth=550 %}
-**5** 
-{% twitter https://twitter.com/Okwonga/status/537188928923918336 maxwidth=550 %}
-**6**
-{% twitter https://twitter.com/RahielT/status/537122331597225984 maxwidth=550 %}
-**7**
-{% twitter https://twitter.com/c_kayiza/status/498832276667793408 maxwidth=550 %}
-**8**
-{% twitter https://twitter.com/nikhilgoya_l/status/537071543579594753 maxwidth=550 %}
-**9**
-{% twitter https://twitter.com/Ketchcast/status/537074466262507520 maxwidth=550 %}
-**10**
-{% twitter https://twitter.com/BlkHistStudies/status/538014453934333952 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be black in America is to be in a constant state of rage.&quot;<br><br>-James Baldwin <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a> <a href="https://twitter.com/hashtag/FergusonTheRoot?src=hash">#FergusonTheRoot</a> <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Courtney Thornton (@courteroy_) <a href="https://twitter.com/courteroy_/status/537077232599330816">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We live in &quot;a civilization which has always glorified violence--unless the Negro had the gun.&quot;--James Baldwin circa 1963 <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Jose Antonio Vargas (@joseiswriting) <a href="https://twitter.com/joseiswriting/status/537136943318831105">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be black and conscious in america is a constant state of rage&quot; - James Baldwin<a href="https://twitter.com/hashtag/noblackjusticenoblackfriday?src=hash">#noblackjusticenoblackfriday</a><a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Gbenga Akinnagbe (@GbengaAkinnagbe) <a href="https://twitter.com/GbengaAkinnagbe/status/537130288787517442">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My article on <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> and <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a>, with an important quote from James Baldwin. If of interest, please share.  <a href="http://t.co/S5DsNyJAmG">http://t.co/S5DsNyJAmG</a></p>&mdash; Musa Okwonga (@Okwonga) <a href="https://twitter.com/Okwonga/status/537188928923918336">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">James Baldwin&#39;s prophetic words in 1960<a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> <a href="https://twitter.com/hashtag/BlackLivesMatter?src=hash">#BlackLivesMatter</a> <a href="https://twitter.com/hashtag/FergusionDecision?src=hash">#FergusionDecision</a> <a href="http://t.co/G4KX6bRdfF">pic.twitter.com/G4KX6bRdfF</a></p>&mdash; Rahiel Tesfamariam (@RahielT) <a href="https://twitter.com/RahielT/status/537122331597225984">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.&quot; —James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Crystal Kayiza (@c_kayiza) <a href="https://twitter.com/c_kayiza/status/498832276667793408">August 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Tweet deleted]
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time. ” – James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Yasiel Plug (@Ketchcast) <a href="https://twitter.com/Ketchcast/status/537074466262507520">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.&quot; - James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; BlackHistoryStudies (@BlkHistStudies) <a href="https://twitter.com/BlkHistStudies/status/538014453934333952">November 27, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <b>
 
 ---
@@ -126,9 +140,11 @@ So why does Baldwin appear so much more frequently than other black writers? Wha
 These lists immediately reveal that users most often invoke Baldwin through quotation. In fact, Twitter users even appear to have a meta-awareness of the influx of Baldwin quotations in the Ferguson conversation:
 	 
 
-{% twitter https://twitter.com/heLLobrOOklyn/status/499767201826869249 maxwidth=550 %}
-
-{% twitter https://twitter.com/_APowPow/status/498925415025872896 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">*insert James Baldwin quote* <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; jefe💙🇭🇹 (@heLLobrOOklyn) <a href="https://twitter.com/heLLobrOOklyn/status/499767201826869249">August 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m really need ppl to chill with these James Baldwin quotes. I have no interest in being that woke right now <a href="https://twitter.com/hashtag/ferguson?src=hash">#ferguson</a></p>&mdash; Ashley Powell (@_APowPow) <a href="https://twitter.com/_APowPow/status/498925415025872896">August 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 These lists also reveal that the Baldwin users overwhelmingly invoke is the social critic James Baldwin, not the fiction writer James Baldwin. His essays, interviews, and debates are far and away the most referenced and quoted works, and in fact no quotations from his fiction appear in these lists. But I want to argue that Baldwin’s literary legacy is not unremembered. Instead I believe that Baldwin’s literary legacy is essential to his role as muse for the #BlackLivesMatter movement, and that his intellectual hybridity as both artist and activist is what makes him particularly attractive. Baldwin’s mythos as an imaginative novelist and artistic genius infuses his more aphoristic, more incisive, and thus more tweetable social criticism. 
 
@@ -136,21 +152,26 @@ Looking at which Baldwin quotes get retweeted most can give us a sense of how Ba
 
 This quote was originally excerpted from <a href="https://youtu.be/jNpitdJSXWY?t=43s">"The Negro in American Culture,"</a> a group discussion between Baldwin, Langston Hughes, Lorraine Hansberry, Emile Capouya, and Alfred Kazin that aired on the New York radio station WBAI-FM in January of 1961 and was later transcribed in the journal _CrossCurrents_ the following summer: “Well, the first difficulty is really so simple it’s usually overlooked: to be a Negro in this country and to be relatively conscious, is to be in a rage almost all the time.” The very first tweet that appears in the archive quotes from “The Negro in American Culture” verbatim, or at least directly from the transcript:
 	
-{% twitter https://twitter.com/cjfluker/status/498684414483001344 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time. ” ― James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Renaissance Man (@cjfluker) <a href="https://twitter.com/cjfluker/status/498684414483001344">August 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This accurate transcription of the quote appears as the second most popular tweet in the August archive, clearly resonating with Twitter users:
 
-{% twitter https://twitter.com/c_kayiza/status/498832276667793408 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be a Negro in this country and to be relatively conscious is to be in a rage almost all the time.&quot; —James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Crystal Kayiza (@c_kayiza) <a href="https://twitter.com/c_kayiza/status/498832276667793408">August 11, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 But an inaccurate version of this quote is, astonishingly, over four times more popular than the accurate transcription of Baldwin’s words, making it the most popular tweet in the August archive: 
 
-{% twitter https://twitter.com/zellieimani/status/499871572023586816 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be Black and conscious in America is to be in a constant state of rage.&quot; - James Baldwin <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; zellie (@zellieimani) <a href="https://twitter.com/zellieimani/status/499871572023586816">August 14, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The most popular James Baldwin quote being invoked in the wake of Michael Brown’s death was thus never actually spoken by James Baldwin. Tellingly, the changes, omissions, and additions made to Baldwin’s words are not announced by brackets, ellipses, or paraphrase, but are instead smoothly and subtly elided. Even more evolutions appear in the November archive, again surpassing the original form in popularity.
 
-{% twitter https://twitter.com/courteroy_/status/537077232599330816 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be black in America is to be in a constant state of rage.&quot;<br><br>-James Baldwin <a href="https://twitter.com/hashtag/MikeBrown?src=hash">#MikeBrown</a> <a href="https://twitter.com/hashtag/FergusonTheRoot?src=hash">#FergusonTheRoot</a> <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Courtney Thornton (@courteroy_) <a href="https://twitter.com/courteroy_/status/537077232599330816">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% twitter https://twitter.com/GbengaAkinnagbe/status/537130288787517442 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;To be black and conscious in america is a constant state of rage&quot; - James Baldwin<a href="https://twitter.com/hashtag/noblackjusticenoblackfriday?src=hash">#noblackjusticenoblackfriday</a><a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Gbenga Akinnagbe (@GbengaAkinnagbe) <a href="https://twitter.com/GbengaAkinnagbe/status/537130288787517442">November 25, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 There’s a temptation to dismiss these misquotations as characteristic of the worst follies of Internet culture, evidence of how easily lies and inaccuracies can spread throughout social media networks, proof of sloppy, irresponsible, and perhaps even sub-literary desecration—“bad readers,” as my colleague Meredith Kelling might say. The recent election cycle has indeed made it clear that social media networks and algorithms are guilty of many of these things, and they often act as echo chambers for preconceived beliefs that cordon off ideological communities of like-minded people and get further and further away from facts. But it is precisely for this reason that I believe studying these misquotations and, more broadly, studying the way that Internet communities make meaning and narratives is so urgently important.
 
@@ -170,17 +191,20 @@ Second, these readers champion Baldwin’s intellectuality and systemic understa
 
 Third, and perhaps most important, these readers clearly invoke Baldwin’s rage. Tellingly, what remains the same throughout every single evolution of this quote is the word rage. This is not loving Baldwin, who we see invoked elsewhere in the archive:
 
-{% twitter https://twitter.com/nprbooks/status/501866250973478912 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;This fight begins in the heart&quot;: <a href="https://twitter.com/LailaLalami">@LailaLalami</a> on reading James Baldwin as Ferguson seethes: <a href="http://t.co/pwErhUga3Z">http://t.co/pwErhUga3Z</a></p>&mdash; NPR Books (@nprbooks) <a href="https://twitter.com/nprbooks/status/501866250973478912">August 19, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% twitter https://twitter.com/miheekimkort/status/500618364524691456 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Love takes off the masks that we fear we cannot live without and know we cannot live within. + <a href="https://twitter.com/hashtag/jamesbaldwin?src=hash">#jamesbaldwin</a> <a href="https://twitter.com/hashtag/NMOS14?src=hash">#NMOS14</a> <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a></p>&mdash; Mihee Kim-Kort (@miheekimkort) <a href="https://twitter.com/miheekimkort/status/500618364524691456">August 16, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% twitter https://twitter.com/CBCSunday/status/538880647930994688 maxwidth=550 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Bill T. Jones <a href="https://twitter.com/NewYorkLiveArts">@NewYorkLiveArts</a>: James Baldwin loved America. He just wanted it to make good on its promises <a href="https://twitter.com/hashtag/Ferguson?src=hash">#Ferguson</a> <a href="http://t.co/MVMmMOSeNC">http://t.co/MVMmMOSeNC</a></p>&mdash; CBCSundayEdition (@CBCSunday) <a href="https://twitter.com/CBCSunday/status/538880647930994688">November 30, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is angry Baldwin. By manipulating the sentence’s conclusion from the more open-ended and cautious “in a rage almost all the time” to the more permanent, climactic “constant state of rage,” these readers place special emphasis on “rage.” And this is where I think Baldwin’s literary and intellectual mythos most comes into play, the reason Twitter users respond to this quote in particular and why they retain his attribution even when they change his words. 
 
 Because the collective outrage over Michael Brown’s shooting and Darren Wilson’s non-indictment---and the protests happening in the streets across the country---was being dismissed and criminalized as "rioting" and "thuggish," as unwarranted and overblown. These Twitter users are thus historicizing, legitimizing, and giving license to their own rage by invoking it through Baldwin, an eloquent, elite artist recognized by the establishment. This is not the anger of rioting thugs; this is the anger of an articulate, textually-deft, and conscious movement. One Twitter user expressed frustration about the movement's gravitation toward James Baldwin as model and muse, pointing out the potential dissonance between the language and experiences of James Baldwin and that of everyday black teenagers in Ferguson:
 
-{% twitter https://twitter.com/PenofUmar/status/501611944835444736 maxwidth=550 %}
+[Tweet deleted]
 
 But this tweet reveals that that’s precisely why Baldwin is being invoked and mythologized, as a pronouncement that this movement cannot be reduced only to felons with bad credit, as a way of pulling Baldwin closer to West Florissant. In short, I believe these tweets represent a complex, collective reader response, an affiliation that is being built through and around an established literary figure. Perhaps most crucially, this literary network is _not_ happening in a university classroom or at an academic conference, but rather it's happening organically on Twitter, and I think literary scholars should be paying attention.
 
