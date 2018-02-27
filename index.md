@@ -5,9 +5,9 @@
 layout: home
 ---
 
-I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature at Washington University in St. Louis. I'm working on a dissertation that follows postwar American literature as it's been recirculated by networks of readers in the 21st century, tentatively titled *Postwar Redux*. My first chapter, "Tweets of a Native Son," follows the quotation and circulation of James Baldwin in relationship to the #BlackLivesMatter movement during 2014 and 2015. You can check out some of [my work-in-progress for this chapter here](/tweets-of-a-native-son/).
+I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature at [Washington University in St. Louis](https://english.artsci.wustl.edu/people/melanie-walsh). I'm working on a dissertation that follows postwar American literature as it's been recirculated by networks of readers in the 21st century, tentatively titled *Postwar Redux*. My first chapter, "Tweets of a Native Son," follows the quotation and circulation of James Baldwin in relationship to the #BlackLivesMatter movement during 2014 and 2015. You can check out some of [my work-in-progress for this chapter here](/tweets-of-a-native-son/).
 
-Other things I'm excited about include the [300-level literature course about social media and the contemporary American novel](https://afsma17.com/) that I taught last fall and that I get to teach again next summer. I also have a blast co-convening the [Digital Approaches Reading Group](https://sites.wustl.edu/darg/) on campus.
+Other things I'm excited about include the [300-level literature course about social media and the contemporary American novel](https://afsma17.com/) which I taught last fall and which I'm teaching again next summer. I also have a blast co-convening the [Digital Approaches Reading Group](https://sites.wustl.edu/darg/) on campus.
 
-In my spare time, I play shooting guard for our English department intramural basketball team under the mash-up moniker "Eyre Jordan," and sometimes I make literary Twitter bots about [Kanye West/Walt Whitman](https://twitter.com/SongOfKanye) and [William Carlos Williams](https://twitter.com/sosweetbot).
+In my spare time, I play shooting guard for the English department intramural basketball team ("Eyre Jordan"), and sometimes I make Twitter bots about literary figures like [Kanye West/Walt Whitman](https://twitter.com/SongOfKanye) or memed-out [William Carlos Williams](https://twitter.com/sosweetbot).
 
