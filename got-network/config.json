@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Melanie Walsh"
+  },
+  "text": {
+    "more": "Edge weights were calculated based on how many times two characters\u0027 names appeared within 15 words of one another in the novel. This data was originally compiled by A. Beveridge and J. Shan, \"Network of Thrones,\" Math Horizons Magazine , Vol. 23, No. 4 (2016), pp. 18-22\n",
+    "intro": "This network visualizes character relationships within George R. R. Martin\u0027s  A Storm of Swords, the third novel in his series *A Song of Ice and Fire*",
+    "title": "Game of Thrones Network"
+  },
+  "legend": {
+    "edgeLabel": "Edges \u003d coappearances of names",
+    "colorLabel": "Colored by modularity class",
+    "nodeLabel": "Nodes \u003d character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Id",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 0,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 30
+    },
+    "graphProperties": {
+      "maxEdgeSize": 3,
+      "minEdgeSize": 1,
+      "minNodeSize": 5,
+      "maxNodeSize": 25
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
