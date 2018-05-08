@@ -10,6 +10,7 @@
         <link rel="stylesheet" href="css/qgis2web.css">
         <link rel="stylesheet" href="css/MarkerCluster.css">
         <link rel="stylesheet" href="css/MarkerCluster.Default.css">
+        <link rel="stylesheet" href="css/leaflet-search.css">
         <style>
         html, body, #map {
             width: 100%;
@@ -33,6 +34,7 @@
         <script src="js/labelgun.min.js"></script>
         <script src="js/labels.js"></script>
         <script src="js/leaflet.markercluster.js"></script>
+        <script src="js/leaflet-search.js"></script>
         <script src="data/PrizeCategory_0.js"></script>
         <script>
         var map = L.map('map', {
@@ -54,7 +56,8 @@
         function pop_PrizeCategory_0(feature, layer) {
             var popupContent = '<table>\
                     <tr>\
-                        <td colspan="2"><strong>name</strong><br />' + (feature.properties['name'] !== null ? Autolinker.link(String(feature.properties['name'])) : '') + '</td>\
+                        <th scope="row">name</th>\
+                        <td>' + (feature.properties['name'] !== null ? Autolinker.link(String(feature.properties['name'])) : '') + '</td>\
                     </tr>\
                     <tr>\
                         <th scope="row">born</th>\
@@ -270,6 +273,11 @@
         var baseMaps = {};
         L.control.layers(baseMaps,{'Prize Category<br /><table><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_chemistry0.png" /></td><td>chemistry</td></tr><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_economics1.png" /></td><td>economics</td></tr><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_literature2.png" /></td><td>literature</td></tr><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_medicine3.png" /></td><td>medicine</td></tr><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_peace4.png" /></td><td>peace</td></tr><tr><td style="text-align: center;"><img src="legend/PrizeCategory_0_physics5.png" /></td><td>physics</td></tr></table>': cluster_PrizeCategory_0,},{collapsed:false}).addTo(map);
         setBounds();
+        map.addControl(new L.Control.Search({
+            layer: cluster_PrizeCategory_0,
+            initial: false,
+            hideMarkerOnCollapse: true,
+            propertyName: 'name'}));
         </script>
     </body>
 </html>
