@@ -21,9 +21,9 @@ Conferences, Presentations, & Workshops
 
 *Access*. NovelTM Workshop. Montreal, QC. Fall 2017.
 
-"Tweets of a Native Son: James Baldwin's New Media Readers." MSU Global DH Symposium. East Lansing, MI. Spring 2017.
+"James Baldwin's New Media Readers." MSU Global DH Symposium. East Lansing, MI. Spring 2017.
 
-“Tweets of a Native Son: The Mythology of James Baldwin on Twitter.” Post45 Graduate Symposium. Berkeley, CA. Spring 2017.
+“The Mythology of James Baldwin on Twitter.” Post45 Graduate Symposium. Berkeley, CA. Spring 2017.
 
 Archives Unleashed 3.0. Web Archiving Workshop for Researchers. Internet Archive.
  San Francisco, CA. Spring 2017
@@ -35,7 +35,7 @@ Introduction to Gephi, Network Visualization Software. Humanities Digital Worksh
 
 Awards & Fellowships
 ---
-The Lilly Library Everett Helm Visiting Fellowship, Spring 2018.
+Everett Helm Visiting Fellowship, The Lilly Library, Spring 2018.
 
 Network Analysis Research Assistantship for Matt Erlin and NovelTM Project, Spring 2017.
 
