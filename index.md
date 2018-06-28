@@ -11,3 +11,4 @@ Other things I'm excited about include the [300-level literature course about so
 
 In my spare time, I play shooting guard for the English department intramural basketball team ("Eyre Jordan"), and sometimes I make Twitter bots about literary figures like [Kanye West/Walt Whitman](https://twitter.com/SongOfKanye) or memed-out [William Carlos Williams](https://twitter.com/sosweetbot).
 
+Slides for my [DH 2018 talk are available here](http://melaniewalsh.org/dh-2018-slides).
