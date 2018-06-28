@@ -1,5 +1,5 @@
+
  <section data-menu-title="Title:  James Baldwin, #BlackLivesMatter, and Networks of Textual Recirculation"></section>
- <br>
  <br>
  <br>
  <span style="font-size:1.3em">James Baldwin, #BlackLivesMatter,
@@ -7,13 +7,16 @@
 <br>
 <br>
  <small>by [Melanie Walsh](http://melaniewalsh.org/) / [@mellymeldubs](https://twitter.com/mellymeldubs) </small>
+<small style="text-align:center; float:none;bottom:0px;font-size:.5em;margin-top:100px;">To navigate this slideshow, press the arrows <i class="em em-arrow_right"></i> <i class="em em-arrow_down"></i> or click the <i class="em em-hamburger"></i> menu in the bottom left corner
 <br>
 <br>
-<small style="text-align:center; float:none;bottom:0px;font-size:.5em;margin-top:100px;">To navigate this slideshow, press the <i class="em em-arrow_right"></i> and <i class="em em-arrow_down"></i> arrows, or click the <i class="em em-hamburger"></i> menu in the bottom left corner.
-<br>
-<br>
-To access a version of this slideshow that has been translated into Spanish, see [link]().
+For translations, select another language below:
 </small>
+<div id="google_translate_element" ></div><script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-86905362-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 ---
 
@@ -31,7 +34,7 @@ WBAI-FM | January 1961
 
 ---
 
-<section data-menu-title="#BlackLivesMatter Tweet"></section>
+<section data-menu-title="#BlackLivesMatter tweet"></section>
 
 <br>
 
@@ -48,19 +51,19 @@ WBAI-FM | January 1961
 
 ---
 
-### Basic Outline
+### Basic outline
 
-* [Data & Methods](#/5)
+* [Data & Methods](#/4)
 
-* [#BlackLivesMatter-Baldwin Findings](#/6)
+* [#BlackLivesMatter-Baldwin Findings (So Far)](#/5)
 
-* [Looking Forward: Social Media Data, Readership/Reception, Networks of Textual Recirculation](#/7)
+* [Next Steps](#/6)
 
 ---
 
-### Data and Methods
+### Data and methods
 
-
+<i class="em em-arrow_down"></i>
 
 --
 
@@ -116,28 +119,38 @@ twarc hydrate bth_ids.txt > bth_tweets.jsonl
 jq -c "select(.text | test(\"James ?Baldwin\";\"i\"))" bth_tweets.jsonl > bth_jamesbaldwin.jsonl
 ```
 
-<iframe style="height:400px;width:500px;align:left;" src="https://stedolan.github.io/jq/"></iframe>
+<iframe style="height:350px;width:500px;align:left;" src="https://stedolan.github.io/jq/"></iframe>
 
 
 ---
 
-### #BlackLivesMatter-Baldwin Findings
+### #BlackLivesMatter-Baldwin Findings (So Far)
+
+<i class="em em-arrow_down"></i>
 
 
 --
 
-<span style="display:none;"> What kind of tweets? </span>
+<span style="display:none;"> How often were people mentioning Baldwin? </span>
 
-What kind of tweets?
+How often were people mentioning Baldwin in comparison to other African American writers?
 
-<img width="600" data-src="img/retweet-proportion.jpg">
-
+- Barack Obama (126,870)
+- Martin Luther King (34,608)
+- Malcolm X (29,093)
+- <b>James Baldwin (7,326)</b>
+- Audre Lorde (1,634)
+- Langston Hughes (1,401)
+- Maya Angelou (1,236)
+- Toni Morrison (843)
+- Gil Scott-Heron (583)
+- Claudia Rankine (556)
 
 --
 
-<span style="display:none;"> How was Baldwin invoked? </span>
+<span style="display:none;"> How were people talking about Baldwin? </span>
 
-How was Baldwin invoked?
+How were people talking about Baldwin?
 
 <img width="600" data-src="img/quotation-other.jpg">
 
@@ -146,18 +159,63 @@ How was Baldwin invoked?
 
 <span style="display:none;"> Which kinds of texts were quoted from? </span>
 
-Which kinds of texts were quoted from...?
+Which kinds of texts were quoted from?
 
 <img width="700" data-src="img/genre-bar-chart.jpg">
 
 
 --
 
-<span style="display:none;"> ...and from what part of Baldwin's career? </span>
+<span style="display:none;"> From what part of Baldwin's career? </span>
 
-...and from which parts of Baldwin's career?
+From which parts of Baldwin's career?
 
 <img width="700" data-src="img/source-date-timeline.jpg">
 
 
 --
+
+<span style="display:none;"> Which quotes were most popular? Why? </span>
+
+Which quotes were most popular? Why?
+
+<br>
+<small>
+20% of all tweets contained a variation of these words:
+<br>
+"To be <span style="color:  rgb(255, 11, 11)">black </span> a[nd] conscious in America is to be in a <span style="color:  rgb(255, 11, 11)"> constant state of </span> rage" </small>
+
+<br>
+
+<blockquote class="twitter-tweet" data-lang="en" align="center" width="550px" height="500px"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/MikeBrown?src=hash&amp;ref_src=twsrc%5Etfw">#MikeBrown</a> &amp; <a href="https://twitter.com/hashtag/EricGarner?src=hash&amp;ref_src=twsrc%5Etfw">#EricGarner</a>&#39;s death speak to James Baldwin&#39;s quote; &quot;to be black a conscious in America is to be in a constant state of rage&quot;</p>&mdash; Kim Moore (@SoulRevision) <a href="https://twitter.com/SoulRevision/status/498298410299318273?ref_src=twsrc%5Etfw">August 10, 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+--
+
+<span style="display:none;">tweetsofanativeson.com</span>
+
+[tweetsofanativeson.com](http://tweetsofanativeson.com)
+
+<iframe style="height:400px;width:500px;align:left;" src="http://tweetsofanativeson.com"></iframe>
+
+
+---
+
+<span style="display:none;">Next Steps</span>
+
+### Next Steps
+
+<i class="em em-arrow_down"></i>
+
+--
+
+<span style="display:none;"> Future questions </span>
+
+- Can we computationally identify what makes "protest" literature? <!-- .element: class="fragment" -->
+
+- Can we computationally identify text mutations? <!-- .element: class="fragment" -->
+
+- Can we operationalize the identification of quotes from a corpus of Baldwin texts? <!-- .element: class="fragment" -->
+
+- Can we use the networked structure of Twitter data to think about how texts travel between networks of people? <!-- .element: class="fragment" -->
