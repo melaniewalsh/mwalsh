@@ -4,99 +4,144 @@ title: cv
 permalink: /cv/
 ---
 
+Research Interests
+---
+Digital humanities, new media studies, twentieth- and twenty-first-century American literature, 
+network analysis, readership and reception studies.
+
 Education
 ---
+Ph.D. candidate in English, Washington University in St. Louis, MO, 2013 – Present
 
-Ph.D. candidate, American Literature, Washington University in St. Louis, 2013 - Present
- 
-BA, English, Washington University in St. Louis, 2013, summa cum laude
+Dissertation: “Postwar Redux: How Twenty-First-Century Networked Readers Recirculated, Remediated, and Redefined Postwar American Fiction”  
+Advisor: William J. Maxwell
 
- 
+M.A., English, Washington University in St. Louis, MO, 2015  
+
+B.A., English, Washington University in St. Louis, MO, 2013  
+*summa cum laude*
+
+
 Peer-Reviewed Publications
 ---
-“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,” forthcoming in *American Quarterly*, 70, no. 3 (September 2018)
+“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,” forthcoming in *American Quarterly*, 70, no. 3 (September 2018).
 
-
-
-Conferences, Presentations, & Workshops
+Digital Publications
 ---
-“Kurt Vonnegut Unstuck in Time for $1.99: Amazon Kindle Worlds and the Readerly Reimagination of Postwar American Fiction,” Post45 Graduate Symposium, New Haven, CT, March 2018.
 
-“Stories of Dissent: Rereading #Ferguson,” Panel Organizer and Presenter, American Studies Association, Chicago, IL, November 2017.
-
-“Access,” Discussant, NovelTM Workshop, Montreal, QC, October 2017.
-
-“James Baldwin’s New Media Readers,” Global DH Symposium, East Lansing, MI, March 2017.
-
-“The Mythology of James Baldwin on Twitter,” Post45 Graduate Symposium, Berkeley, CA, February 2017.
-
-Archives Unleashed, Web Archiving Workshop for Researchers, Internet Archive,
- San Francisco, CA, February 2017.
-
-“Tweets of a Native Son: James Baldwin and the Literary-Critical Use of a Social Media Archive,” Midwest Modern Language Association, St. Louis, MO, November 2016.
-
-
+*Tweets of a Native Son*, [www.TweetsofaNativeSon.com](http://tweetsofanativeson.com/), a website featuring interactive data
+visualizations about James Baldwin’s digital afterlives.
 
 Awards & Fellowships
 ---
-Center for the Humanities Reading Group Grant, Digital Approaches, 2015-2018.
 
-William J. Hill Visiting Researcher Travel Grant, Wittliff Collections, May 2017.                         
+Dissertation Fellowship, Center for the Humanities, Washington University in St. Louis, 2018. Awarded annually to six doctoral candidates in the humanities in support of the dissertation.
 
-Everett Helm Visiting Fellowship, The Lilly Library, January 2017.
+Digital Humanities 2018 Bursary Scholarship, The Association for Computers and the
+Humanities (ACH), June 2018. Awarded to ten early career scholars in support of travel to the Digital Humanities 2018 Conference in Mexico City, Mexico.
 
-NovelTM Research Assistant Fellowship, Spring 2017.
+Digital Humanities Summer Institute Tuition Scholarship, June 2018. Awarded to
+support tuition for the Digital Humanities Summer Institute course, “The Frontend: Modern JavaScript & CSS Development” at the University of Victoria in Victoria, BC.
 
-National Science Foundation Travel Grant, Archives Unleashed, February 2017.
+Digital Approaches Reading Group Grant, Center for the Humanities, Washington
+University, 2015-2018. Awarded to support the Digital Humanities Reading Group, an interdisciplinary community of Washington University in St. Louis graduate students and faculty that meet to discuss readings, workshop articles, and collaborate on small projects broadly related to “digital approaches.”
 
-Humanities Digital Workshop Summer Fellowship, 2015, 2016, 2017.
+William J. Hill Visiting Researcher Travel Grant, Wittliff Collections, Texas State University, May 2018. Awarded to support dissertation research of the Sandra Cisneros Papers.
 
-HASTAC (Humanities, Arts, Science, and Technology Alliance and Collaboratory) Scholar, 2016-2018.
+Everett Helm Visiting Fellowship, The Lilly Library, Indiana University, January 2018. Awarded
+to support dissertation research of the Vonnegut mss.
 
-Harriet Schwenk Kluver Prize for Excellence in Writing, 2010.
-	
+Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC) Scholar,
+2016-2018. A multi-university fellowship, mentorship, and networking program for graduate students.
 
+Humanities Digital Workshop Summer Fellowship, Washington University in St. Louis, 2015,
+2016, 2017. A summer fellowship program where students collaborate with faculty on digital humanities projects.
 
-Service
+Research Assistantship, Text Mining the Novel (NovelTM), Spring 2017. A semester-long
+research assistantship with Professor Matt Erlin focused on the computational network analysis of German Enlightenment periodicals. Part of the multi-university, digital humanities partnership, NovelTM, and funded by the Social Sciences and Humanities Research Council (SSHRC).
+
+National Science Foundation Travel Grant, “Archives Unleashed,” Internet Archive, San
+Francisco, CA, February 2017. Awarded to thirty researchers to support travel to “Archives Unleased,” a web archiving workshop for developing open-source tools and approaches to web archives.
+
+Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010. Awarded annually to
+two freshmen for excellence in writing.
+
+Conferences, Presentations, & Workshops
 ---
-Convener, [Graduate Advisory Panel](https://english.artsci.wustl.edu/graduate/student_resources), English Department, 2017 - 2018.
+“Between Readers: A Short Methodological History of Networked Reading,” MLA
+Annual Convention, Chicago, IL, upcoming January 2019.
 
-Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities Digital Workshop, 2017-2018.
+“James Baldwin, #BlackLivesMatter, and Networks of Textual Recirculation,” DH 2018
+Conference, Mexico City, Mexico, June 2018.
 
-Co-Convener and Co-Founder, [Digital Approaches Reading Group](https://sites.wustl.edu/darg/), 2015 - 2018.
- 
-Coordinator, “Responsible Teaching Under a Trump Administration,” November 2017.
+“Kurt Vonnegut Unstuck in Time for $1.99: Amazon Kindle Worlds and the Readerly
+Reimagination of Postwar American Fiction,” Post45 Graduate Symposium, New Haven, CT, March 2018.
 
-Member, Faculty Search Committee, Assistant Professor in English Literature with Specialty in Computational Approaches, 2015-2016.
+“Stories of Dissent: Rereading #Ferguson,” Panel Organizer and Presenter, American Studies
+Association, Chicago, IL, November 2017.
 
-Peer Mentor, English Department, 2014-2016.
+“Access,” Discussant, Text Mining the Novel (NovelTM) Workshop, Montreal, Canada, October
+2017.
 
+“Cultural Analytics,” Discussant, Computational and Data-Intensive Cultural Studies Symposium,
+South Bend, IN, May 2017.
 
+“James Baldwin’s New Media Readers,” Global DH Symposium, East Lansing, MI, March 2017.
+
+“The Mythology of James Baldwin on Twitter,” Post45 Graduate Symposium, Berkeley, CA,
+February 2017.
+
+“Archives Unleashed,” Participant, Web Archiving Workshop for Researchers, Internet Archive,
+San Francisco, CA, February 2017.
+
+“Tweets of a Native Son: James Baldwin and the Literary-Critical Use of a Social Media
+Archive,” Midwest Modern Language Association, St. Louis, MO, November 2016.
 
 Teaching
 ---
-Co-Instructor, Humanities By the Numbers: Essential Readings in the Digital Humanities, Washington University, Co-Taught with Matt Erlin, Spring 2018.
+INSTRUCTOR:
 
-Instructor, [American Fiction in the Social Media Age](https://afsma17.com/), Washington University, Fall 2017.
+“Humanities by the Numbers: Essential Readings in the Digital Humanities,” Co-designed and
+co-taught with Professor Matt Erlin, Spring 2018, Washington University.
 
-Instructor, College Writing 1, Washington University, Spring 2016.
+"[American Fiction in the Social Media Age](https://afsma17.com/)", Fall 2017, Washington University.
 
-Teaching Assistant, American Fiction From 1945 to the Present, Washington University,		 Fall 2016.
+“College Writing 1,” Spring 2016 and Fall 2015, Washington University.
 
-Instructor, College Writing 1, Washington University, Fall 2015.
-							
+TEACHING ASSISTANT:
+
+“American Fiction From 1945 to the Present,” with Professor Long Le-Khac, Fall 2016,
+Washington University.
+
 
 Technical Skills
 ---
 
-Working knowledge of Python, programming language
 
-Experience building and maintaining websites using the static-site generator Jekyll
+Python, programming language
 
-Experience with Gephi, Adobe Photoshop, Tableau, OpenRefine
+Website development and maintenance with raw HTML & CSS (web design languages), static-site generators (Jekyll), and content management systems (WordPress)
 
+Experience with the software packages Gephi (network analysis and visualization), Tableau (data visualization), QGIS (mapping), OpenRefine (data cleanup), and Adobe Photoshop
+
+Some experience with JavaScript, programming language, and D3.js (JavaScript data visualization library)
+
+Service
+---
+Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities
+Digital Workshop, 2017-2018.
+
+Convener, [Graduate Advisory Panel](https://english.artsci.wustl.edu/graduate/student_resources), English Department, 2017-2018.
+
+Co-Convener and Co-Founder, [Digital Approaches Reading Group](https://sites.wustl.edu/darg/), 2015-2018.
+
+Co-Coordinator, “Responsible Teaching Under a Trump Administration,” November 2017.
+
+Member, Faculty Search Committee, Assistant Professor in English Literature with Specialty in
+Computational Approaches, 2015-2016.
+
+Peer Mentor, English Department, 2014-2016.
 
 Languages
 ---
-Spanish (reading – competent, speaking and writing – basic)
-
+Spanish (advanced reading and writing, basic speaking)

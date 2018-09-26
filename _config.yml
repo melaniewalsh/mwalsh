@@ -22,6 +22,7 @@ cover: "/assets/ginkgo.jpg"
 twitter_username: mellymeldubs
 github_username:  melaniewalsh
 disqus_shortname: melaniewalsh
+google_analytics:"UA-86905362-1"
 
 # Build settings
 markdown: kramdown
@@ -37,3 +38,4 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - dh-2018-slides/

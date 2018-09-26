@@ -5,7 +5,7 @@ permalink: /digitalprojects/
 
 ---
 
-["Tweets of a Native Son."](/tweets-of-a-native-son/) A large-scale computational analysis of tweets that invoke James Baldwin in relationship to Ferguson and the #BlackLivesMatter movement.
+["Tweets of a Native Son."](http://tweetsofanativeson.com/) A large-scale computational analysis of tweets that invoke James Baldwin in relationship to #Ferguson and the #BlackLivesMatter movement.
 
 [Song of Kanye Bot.](https://twitter.com/SongOfKanye) A Twitterbot that tweets Walt Whitman's "Song of Myself" from Kanye West's perspective, line-by-line, twice every day. Check out the source code on [GitHub](https://github.com/melaniewalsh/song-of-kanye-bot).
 
