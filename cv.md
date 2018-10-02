@@ -24,13 +24,18 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 Peer-Reviewed Publications
 ---
-“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,” forthcoming in *American Quarterly*, 70, no. 3 (September 2018).
+[“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](( http://muse.jhu.edu/article/704336)) *American Quarterly*, 70, no. 3 (2018).
 
 Digital Publications
 ---
 
 *Tweets of a Native Son*, [www.TweetsofaNativeSon.com](http://tweetsofanativeson.com/), a website featuring interactive data
 visualizations about James Baldwin’s digital afterlives.
+
+Other Publications
+---
+["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://cenhum.artsci.wustl.edu/features/Melanie-Walsh-Cathy-Davidson-Digital-Humanities) *Human Ties*, September 2018.
+
 
 Awards & Fellowships
 ---

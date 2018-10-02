@@ -1,4 +1,307 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-09-26T11:48:00-05:00</updated><id>http://localhost:4000/</id><title type="html">Melanie Walsh</title><subtitle>PhD candidate in American literature at Washington University in St. Louis</subtitle><entry><title type="html">“The Mythology of James Baldwin on Twitter”</title><link href="http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter.html" rel="alternate" type="text/html" title="&quot;The Mythology of James Baldwin on Twitter&quot;" /><published>2016-11-13T15:29:00-06:00</published><updated>2016-11-13T15:29:00-06:00</updated><id>http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter</id><content type="html" xml:base="http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter.html">&lt;p&gt;&lt;em&gt;The following is a transcript from my paper “Tweets of a Native Son: The Mythology of James Baldwin on Twitter,” which I gave at the &lt;a href=&quot;http://www.luc.edu/mmla/convention/&quot;&gt;MMLA conference&lt;/a&gt; on November 12. Huge thanks to Doug Knox from the &lt;a href=&quot;https://hdw.artsci.wustl.edu/&quot;&gt;HDW&lt;/a&gt; for helping me figure out how to wrangle Twitter data and to &lt;a href=&quot;http://mith.umd.edu/people/person/ed-summers/&quot;&gt;Ed Summers from MITH&lt;/a&gt; for generously sharing data, tools, and thoughtfulness.&lt;/em&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-02T10:37:40-05:00</updated><id>http://localhost:4000/</id><title type="html">Melanie Walsh</title><subtitle>PhD candidate in American literature at Washington University in St. Louis</subtitle><entry><title type="html">Things That The U.S. Presidents Described as “Great” in Their Inaugural Addresses</title><link href="http://localhost:4000/2017/02/01/president-great-things.html" rel="alternate" type="text/html" title="Things That The U.S. Presidents Described as &quot;Great&quot; in Their Inaugural Addresses" /><published>2017-02-01T15:29:00-06:00</published><updated>2017-02-01T15:29:00-06:00</updated><id>http://localhost:4000/2017/02/01/president-great-things</id><content type="html" xml:base="http://localhost:4000/2017/02/01/president-great-things.html">&lt;p&gt;For the February 2017 meeting of the &lt;a href=&quot;http://sites.wustl.edu/darg&quot;&gt;Digital Approaches Reading Group&lt;/a&gt; (DARG), which I help co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset — in the hopes of collectively showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word “great.”&lt;/p&gt;
+
+&lt;p&gt;President Trump concluded his 2017 Inaugural Address with his now trademark phrase “Make America Great Again”:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“Together, we will make America strong again. We will make America wealthy again. We will make America proud again. We will make America safe again. And yes, together, we will make America &lt;em&gt;great&lt;/em&gt; again.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The adjective “great” is one of the cornerstones of Trump’s rhetoric, showing up in speeches and tweets to describe things as various as policy meetings, The Apprentice, the threat of CNN, and the proposed Mexican border wall:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Great meeting with CEOs of leading U.S. health insurance companies who provide great healthcare to the American people. &lt;a href=&quot;https://t.co/s2NMVMvQq3&quot;&gt;pic.twitter.com/s2NMVMvQq3&lt;/a&gt;&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/836261209540288513&quot;&gt;February 27, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;FAKE NEWS media knowingly doesn&amp;#39;t tell the truth. A great danger to our country. The failing &lt;a href=&quot;https://twitter.com/nytimes&quot;&gt;@nytimes&lt;/a&gt; has become a joke. Likewise &lt;a href=&quot;https://twitter.com/CNN&quot;&gt;@CNN&lt;/a&gt;. Sad!&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/835325771858251776&quot;&gt;February 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I am reading that the great border WALL will cost more than the government originally thought, but I have not gotten involved in the.....&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/830405706255912960&quot;&gt;February 11, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Arnold Schwarzenegger isn&amp;#39;t voluntarily leaving the Apprentice, he was fired by his bad (pathetic) ratings, not by me. Sad end to great show&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/838016045222854656&quot;&gt;March 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;I wanted to explore how previous Presidents had used the word “great” before him. Could I find a historical precedent for this adjective and/or a trajectory of its shifting ideological value?&lt;/p&gt;
+
+&lt;h1 id=&quot;methodology&quot;&gt;Methodology&lt;/h1&gt;
+
+&lt;p&gt;I used the Python module TextBlob, specifically its part-of-speech tagger and ngrams function, to isolate all the nouns that came immediately before or after the word “great” in every speech. Here are the top 10 things that were most commonly described as “great” across all inaugural addresses and the top Presidents who used the word:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;word&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;total # in all addresses&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;nation&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;people&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;interests&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;body&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;objects&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;wealth&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;evil&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;object&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;republic&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;responsibilities&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;President&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;total # of “great” as noun modifier&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Monroe&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;35&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;William Henry Harrison&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;William McKinley&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Woodrow Wilson&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Andrew Garfield&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Calvin Coolidge&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Benjamin Harrison&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Franklin D. Roosevelt&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;William Howard Taft&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Pierce&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ruherford B. Hayes&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;George W. Bush&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Warren G. Harding&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;George H. W. Bush&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Richard Nixon&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Buchanan&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;17&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ulysses S. Grant&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ronald Reagan&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Dwight D. Eisenhower&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Martin Van Buren&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Barack Obama&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;22&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Donald Trump&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Surprisingly, Donald Trump didn’t even crack the top 10!&lt;/p&gt;
+
+&lt;p&gt;I played around with visualizing this data in a number of ways, which included a dendrogram and a radial sunburst.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/dendrogram.svg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sunburst.svg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They’re pretty, but ultimately I don’t think they show us all that much about the data. So I also created a semantic network to try and understand which “great” things were connecting which Presidents. I used NetworkX, Gephi, and the Sigma.JS plugin to create this force-directed semantic network and this accompanying &lt;a href=&quot;/network/index.html&quot;&gt;interactive web version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gephi_network.svg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So did the tiny word “great” end up having the big implications that I suspected when I first set out? Well, yes and no. I was surprised to discover, though I really shouldn’t have been, that “great” is an incredibly bland, abstract word, which is used to describe a whole lot of bland, abstract concepts like “people,” “interests,” and “objects.” “Nation,” the word most commonly described as “great,” connects Presidents as disparate as Barack Obama, Richard Nixon, Ulysses S. Grant, Ruherford B. Hayes, James Monroe, Andrew Garfield, George H. W. Bush, Theodore Roosevelt, Franklin D. Roosevelt, and Jimmy Carter. In other words, “great” didn’t reveal as many ideological insights as I first expected. It’s largely used as rhetorical fluff and filler, a vague hand-wavy intensifier.&lt;/p&gt;
+
+&lt;p&gt;But this lack of meaning &lt;em&gt;is&lt;/em&gt; meaningful. It reveals even more clearly, to my mind, that Trump’s “Make America Great Again” slogan is one big empty rhetorical illusion. What exactly does “great” mean? What exactly makes America “great”? A lot is hidden inside this bland banality, as George Orwell would be the first to warn us. In his 1946 essay “Politics and the English Language,” Orwell insists that some of the most insidious, violent politics “consist largely of euphemism, question-begging and sheer cloudy vagueness.”&lt;/p&gt;
+
+&lt;p&gt;It is curious, however, that Donald Trump is the only President to describe “America” as “great” (at least immediately before or after the word “America”) and suggests that this slogan is a relatively unique coinage. It was much more common to refer to the “nation” or “people” or “republic” as “great” than to refer to “America” as “great,” which perhaps suggests something about our increasingly globalized moment, in which distinguishing “America” from the rest of the world has become more of a routine necessity and, to some, particularly those in the Trump camp, an intense anxiety.&lt;/p&gt;
+
+&lt;p&gt;Seeing which Presidents are connected by which words is also rather curious, though I’m not entirely sure what to make of it. Donald Trump and George H. W. Bush are connected by the word “men.” Ronald Reagan and Ulysses S. Grant are connected by “honor.” Dwight D. Eisenhower, James Buchanan, and Andrew Garfield are all connected by “evil” (Buchanan also dropped the plural “great evil&lt;em&gt;s&lt;/em&gt;”). William McKinley, George W. Bush, and Richard Nixon are all connected by “responsibilities.” James Monroe and John Adams are connected by “satisfaction.” And Harry S. Truman, Bill Clinton, and George Washington aren’t connected to anyone at all.&lt;/p&gt;
+
+&lt;p&gt;Feel free to explore the network yourself and see what other kinds of connections and/or oddities you can find. I will conclude here with a list of the best/weirdest “great” things in the Inaugural Addresses according to the U.S. Presidents according to me.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;top weirdest “great” things as decreed by me in no particular order&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;President&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;blotches&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Warren G. Harding&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;parties&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;George H. W. Bush&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;dread&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;William Henry Harrison&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;bulwark&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;William Henry Harrison&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;annoyance&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Monroe&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;scheme&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Pierce&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;inlets&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;James Monroe&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;hands&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Andrew Jackson&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;satisfaction&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;John Adams&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;rebellion&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Ulysses S. Grant&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out the source code for the project &lt;a href=&quot;https://github.com/melaniewalsh/inaugural_addresses&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">For the February 2017 meeting of the Digital Approaches Reading Group (DARG), which I help co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset — in the hopes of collectively showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word “great.”</summary></entry><entry><title type="html">“The Mythology of James Baldwin on Twitter”</title><link href="http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter.html" rel="alternate" type="text/html" title="&quot;The Mythology of James Baldwin on Twitter&quot;" /><published>2016-11-13T15:29:00-06:00</published><updated>2016-11-13T15:29:00-06:00</updated><id>http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter</id><content type="html" xml:base="http://localhost:4000/2016/11/13/the-mythology-of-james-baldwin-on-twitter.html">&lt;p&gt;&lt;em&gt;The following is a transcript from my paper “Tweets of a Native Son: The Mythology of James Baldwin on Twitter,” which I gave at the &lt;a href=&quot;http://www.luc.edu/mmla/convention/&quot;&gt;MMLA conference&lt;/a&gt; on November 12. Huge thanks to Doug Knox from the &lt;a href=&quot;https://hdw.artsci.wustl.edu/&quot;&gt;HDW&lt;/a&gt; for helping me figure out how to wrangle Twitter data and to &lt;a href=&quot;http://mith.umd.edu/people/person/ed-summers/&quot;&gt;Ed Summers from MITH&lt;/a&gt; for generously sharing data, tools, and thoughtfulness.&lt;/em&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
