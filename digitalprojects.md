@@ -15,16 +15,16 @@ permalink: /digitalprojects/
 *[Check out the Lil' Microfiction Generator source code on GitHub](https://github.com/melaniewalsh/lil-microfiction-generator/)
 
 [**@SoSweetBot,**](https://twitter.com/sosweetbot?lang=en) with John Ladd. A Twitter bot that retweets parodies of William Carlos Williams's 1934 poem "This Is Just to Say."  
-*[Check out the @SoSweetBot source code on GitHub](github.com/jrladd/icebox).
+*[Check out the @SoSweetBot source code on GitHub](github.com/jrladd/icebox)
 
 [**@TweetsNativeSon.**](https://twitter.com/tweetsnativeson) A Twitter bot that retweets mentions of "James Baldwin."  
-*[Check out the @TweetsNativeSon source code on GitHub](https://github.com/melaniewalsh/tweetsofanativeson-bot).
+*[Check out the @TweetsNativeSon source code on GitHub](https://github.com/melaniewalsh/tweetsofanativeson-bot)
 
 [**@SongofKanye Bot.**](https://twitter.com/SongOfKanye) A Twitter bot that tweets Walt Whitman's "Song of Myself" from Kanye West's perspective, line-by-line, twice every day.  
-*[Check out the @SongofKanye source code on GitHub](https://github.com/melaniewalsh/song-of-kanye-bot).
+*[Check out the @SongofKanye source code on GitHub](https://github.com/melaniewalsh/song-of-kanye-bot)
 
-[**@SignBunnyBot.**](https://twitter.com/SongOfKanye) A Twitter bot that retweets #HistorianSignBunny memes.  
-*[Check out the @SignBunnyBot source code on GitHub](https://github.com/melaniewalsh/sign-bunny-bot).
+[**@SignBunnyBot.**](https://twitter.com/signbunnybot) A Twitter bot that retweets #HistorianSignBunny memes.  
+*[Check out the @SignBunnyBot source code on GitHub](https://github.com/melaniewalsh/sign-bunny-bot)
 
 [**Dada Network**](http://bl.ocks.org/melaniewalsh/878673a1d28f669e84e518a5476b00c7). A d3 publication network of Dada journals and authors taken from the third chapter of Jörgen Schäfer's bibliography, _Exquisite Dada_. For more details about the Dada Networks Project and how I built this network, see my [HDW Summer Fellowship presentation](https://hdw.artsci.wustl.edu/articles/219).
 
