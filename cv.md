@@ -24,7 +24,7 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 Peer-Reviewed Publications
 ---
-[“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](( http://muse.jhu.edu/article/704336)) *American Quarterly*, 70, no. 3 (2018).
+[“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
 Digital Publications
 ---
