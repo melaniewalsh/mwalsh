@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Melanie Walsh"
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": "The World of Vonnegut: Character Network "
+  },
+  "legend": {
+    "edgeLabel": "Edges \u003d appearance in novel",
+    "colorLabel": "novel or character",
+    "nodeLabel": "Nodes \u003d character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Id",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "straight",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 0,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 2,
+      "minEdgeSize": 1,
+      "minNodeSize": 2,
+      "maxNodeSize": 10
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
