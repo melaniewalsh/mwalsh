@@ -5,7 +5,7 @@ permalink: /digitalprojects/
 
 ---
 
-[**"Tweets of a Native Son."**](http://tweetsofanativeson.com/) A website featuring features data visualizations about James Baldwin’s 21st-century digital afterlives that can be explored by students, fans, and scholars: [#BlackLivesMatter tweets](http://tweetsofanativeson.com/BlackLivesMatter-Baldwin/), [popular YouTube videos](http://tweetsofanativeson.com/YouTube/), [library circulation data](http://tweetsofanativeson.com/Seattle-Public-Library/), and more.
+[**"Tweets of a Native Son."**](http://tweetsofanativeson.com/) A website featuring data visualizations about James Baldwin’s 21st-century digital afterlives that can be explored by students, fans, and scholars: [#BlackLivesMatter tweets](http://tweetsofanativeson.com/BlackLivesMatter-Baldwin/), [popular YouTube videos](http://tweetsofanativeson.com/YouTube/), [library circulation data](http://tweetsofanativeson.com/Seattle-Public-Library/), and more.
 
 [**Sample Social Network Datasets For Teaching With Gephi (and Other Tools Like It)**](https://github.com/melaniewalsh/sample-social-network-datasets). Network datasets include: characters in the Game of Thrones universe; modernist authors who published together in journals; characters in the Marvel Universe; seventeenth-century Quakers; books about U.S. politics that were co-purchased around the 2004 presidential election; and people in TrumpWorld. A sample Gephi project created with the Game of Thrones network data [can be viewed and explored as an interactive web network here.](https://melaniewalsh.org/got-network/)
 
