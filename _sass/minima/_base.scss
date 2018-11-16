@@ -203,3 +203,25 @@ pre {
     fill: $grey-color;
   }
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+figure {
+  text-align: center;
+  text-indent: 0;
+  width: 31%;
+  display: inline-block;
+  font-size: 1em;
+}
+
+figure.bigger {
+  text-align: center;
+  text-indent: 0;
+  width: 35%;
+  display: inline-block;
+}

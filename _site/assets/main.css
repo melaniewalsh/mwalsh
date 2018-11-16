@@ -54,6 +54,12 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .icon > svg { display: inline-block; vertical-align: middle; }
 .icon > svg path { fill: #828282; }
 
+.center { display: block; margin-left: auto; margin-right: auto; }
+
+figure { text-align: center; text-indent: 0; width: 31%; display: inline-block; font-size: 1em; }
+
+figure.bigger { text-align: center; text-indent: 0; width: 35%; display: inline-block; }
+
 /** Site header */
 .site-header { border-top: 0px solid #424242; border-bottom: 5px solid black; min-height: 70px; background-color: #beb8fc; position: relative; }
 
