@@ -5,7 +5,6 @@
 layout: home
 
 ---
-<h2 style="text-align:center;"><b> Novels - Networks - New Media </b></h2>
 
 <figure> <a href="https://afsma17.com/"><img src="/images/twitter_prof.jpg" alt="American Fiction in the Social Media Age" width="100%"/></a> <figcaption>American Fiction in the Social Media Age</figcaption> </figure> 
 
@@ -18,6 +17,4 @@ I'm Melanie Walsh, a PhD candidate in 20th- and 21st-century American literature
 
 Other things I'm excited about include: [*Tweets of a Native Son*](http://tweetsofanativeson.com/), a website that features data visualizations about James Baldwin's digital afterlives; ["American Fiction in the Social Media Age,"](https://afsma17.com/) an undergraduate literature course about new media and the contemporary American novel; the [Digital Approaches Reading Group](https://sites.wustl.edu/darg/), a community of faculty, grad students, and staff broadly interested in "digital approaches" that I helped establish.
 
-In my spare time, I play shooting guard for the English department's intramural basketball team, "Negative Capability" (yes, the Keats kind), where the nickname on the back of my jersey is "Eyre Jordan" (yes, the Brontë kind). I also make Twitter bots on my raspberry pi [![raspberry pis are just the cutest ](https://thinger.io/wp-content/uploads/2017/03/raspberry-pi-logo-1-600x711.png){:height="30px" }](https://www.raspberrypi.org/), such as a [memed-out William Carlos Williams](https://twitter.com/sosweetbot) and a bot that captures [James Baldwin's digital afterlives](https://twitter.com/TweetsNativeSon). You can check out [more of my digital projects here](/digitalprojects).
-
-
+In my spare time, I play shooting guard for the English department's intramural basketball team, "Negative Capability" (the Keats kind), where the nickname on the back of my jersey is "Eyre Jordan" (the Brontë kind). I also make Twitter bots on my raspberry pi [![raspberry pis are just the cutest ](https://thinger.io/wp-content/uploads/2017/03/raspberry-pi-logo-1-600x711.png){:height="30px" }](https://www.raspberrypi.org/), such as a [memed-out William Carlos Williams](https://twitter.com/sosweetbot) and a bot that captures [mentions of James Baldwin](https://twitter.com/TweetsNativeSon). You can check out [more of my digital projects here](/digitalprojects).

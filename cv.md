@@ -32,8 +32,11 @@ Digital Publications
 *Tweets of a Native Son*, [www.TweetsofaNativeSon.com](http://tweetsofanativeson.com/), a website featuring interactive data
 visualizations about James Baldwin’s digital afterlives.
 
-Other Publications
+Essays, Reviews, & Interviews
 ---
+
+["Beautifying Beale Street,"](https://lareviewofbooks.org/article/beautifying-beale-street/) *Los Angeles Review of Books*, December 14, 2018.
+
 ["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://cenhum.artsci.wustl.edu/features/Melanie-Walsh-Cathy-Davidson-Digital-Humanities) *Human Ties*, September 2018.
 
 
