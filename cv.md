@@ -39,6 +39,10 @@ Essays, Reviews, & Interviews
 
 ["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://cenhum.artsci.wustl.edu/features/Melanie-Walsh-Cathy-Davidson-Digital-Humanities) *Human Ties*, September 2018.
 
+Fiction
+___
+
+["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader, December, 2018.
 
 Awards & Fellowships
 ---

@@ -1,4 +1,201 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-14T13:54:39-06:00</updated><id>http://localhost:4000/</id><title type="html">Melanie Walsh</title><subtitle>PhD candidate in English &amp; American literature at Washington University in St. Louis -- digital humanities (DH), novels, networks, new media</subtitle><entry><title type="html">Things That The U.S. Presidents Described as “Great” in Their Inaugural Addresses</title><link href="http://localhost:4000/2017/02/01/president-great-things.html" rel="alternate" type="text/html" title="Things That The U.S. Presidents Described as &quot;Great&quot; in Their Inaugural Addresses" /><published>2017-02-01T15:29:00-06:00</published><updated>2017-02-01T15:29:00-06:00</updated><id>http://localhost:4000/2017/02/01/president-great-things</id><content type="html" xml:base="http://localhost:4000/2017/02/01/president-great-things.html">&lt;p&gt;For the February 2017 meeting of the &lt;a href=&quot;http://sites.wustl.edu/darg&quot;&gt;Digital Approaches Reading Group&lt;/a&gt; (DARG), which I help co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset — in the hopes of collectively showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word “great.”&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-01-20T17:38:26-06:00</updated><id>http://localhost:4000/</id><title type="html">Melanie Walsh</title><subtitle>PhD candidate in English &amp; American literature at Washington University in St. Louis -- digital humanities (DH), novels, networks, new media</subtitle><entry><title type="html">Mourning Mary Oliver in 100,000+ Tweets</title><link href="http://localhost:4000/2019/01/20/mourning-mary-oliver-in-tweets.html" rel="alternate" type="text/html" title="Mourning Mary Oliver in 100,000+ Tweets" /><published>2019-01-20T00:00:00-06:00</published><updated>2019-01-20T00:00:00-06:00</updated><id>http://localhost:4000/2019/01/20/mourning-mary-oliver-in-tweets</id><content type="html" xml:base="http://localhost:4000/2019/01/20/mourning-mary-oliver-in-tweets.html">&lt;blockquote&gt;
+  &lt;blockquote&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;I saw her lift her honeyed muzzle&lt;br /&gt;
+into the leaves, and her thick arms, &lt;br /&gt;
+as though she would fly -&lt;br /&gt;
+an enormous bee&lt;br /&gt;
+all sweetness and wings -&lt;br /&gt;
+-Mary Oliver, “Happiness”&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Last month on my birthday, my boyfriend’s mom sent me a handwritten Mary Oliver poem in the mail. The poem, called “Happiness,” is about a she-bear getting a little bit drunk on honey. It was a lovely gift in every way.&lt;/p&gt;
+
+&lt;p&gt;I’m obsessed with how people share literature with one another, whether it’s through handwritten notes, or well-worn library books,  or tweets. So when &lt;a href=&quot;https://www.nytimes.com/2019/01/17/obituaries/mary-oliver-dead.html&quot;&gt;Mary Oliver died on Thursday&lt;/a&gt;, I was sad but also blown away by how many people were mourning her life by sharing her words on social media.&lt;/p&gt;
+
+&lt;p&gt;When I checked Twitter, I found an outpouring of Oliver’s poetry. Friends, colleagues, celebrities, and strangers were tweeting favorite quotations, pictures of dog-eared pages,  and videos of themselves reciting her words. This free-flowing, social circulation seemed like a fitting tribute to a poet whose work has for so long been dedicated to and beloved by a wide public.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“When it&amp;#39;s over, I want to say all my life I was a bride married to amazement.” Mary Oliver&lt;br /&gt; I’ve been soothed, comforted, informed, enhanced by your words. Your life has been a Blessing to the world. &lt;a href=&quot;https://twitter.com/hashtag/maryoliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#maryoliver&lt;/a&gt;&lt;/p&gt;&amp;mdash; Oprah Winfrey (@Oprah) &lt;a href=&quot;https://twitter.com/Oprah/status/1085971890940698624?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;br /&gt;
+I decided to start archiving tweets that mentioned Mary Oliver’s name early Thursday afternoon. To do so, I used &lt;a href=&quot;https://www.docnow.io/&quot;&gt;DocNow&lt;/a&gt;’s awesome archiving tool, &lt;a href=&quot;https://github.com/DocNow/twarc&quot;&gt;twarc&lt;/a&gt;. Within the last few days, over 100,000 tweets and retweets from 78,000+ users in 38 different languages have acknowledged Mary Oliver. Here’s a breakdown of the archive so far:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tweets Collected:&lt;/strong&gt; 117,055                       &lt;br /&gt;
+&lt;strong&gt;Users:&lt;/strong&gt;                   78,093                        &lt;br /&gt;
+&lt;strong&gt;Languages:&lt;/strong&gt; 38&lt;br /&gt;
+&lt;strong&gt;Tweets with Images&lt;/strong&gt;: 21,401 (18.28%)&lt;br /&gt;
+&lt;strong&gt;Type of Tweets&lt;/strong&gt;: 87,856 retweets (75%), 20,126 original (17%), 7,274 quotes (6%), 1,799 replies (2%)&lt;br /&gt;
+&lt;strong&gt;Earliest Tweet:&lt;/strong&gt;   12:20PM (CST) 01-17-2019       &lt;br /&gt;
+&lt;strong&gt;Latest Tweet:&lt;/strong&gt; 9:15AM (CST) 01-19-2019 &lt;br /&gt;
+&lt;strong&gt;Total Duration of Archive:&lt;/strong&gt; 1 day, 21 hours&lt;/p&gt;
+
+&lt;p&gt;I’ve shared the tweet ids for this &lt;a href=&quot;https://github.com/melaniewalsh/Mary-Oliver-Tweets&quot;&gt;Mary Oliver archive on my GitHub page&lt;/a&gt;, so if you’d like to analyze the data yourself, you just have to “rehydrate” the ids. You can do so with &lt;a href=&quot;https://github.com/DocNow/twarc&quot;&gt;twarc&lt;/a&gt; or with the desktop application, &lt;a href=&quot;https://github.com/DocNow/hydrator&quot;&gt;Hydrator&lt;/a&gt; (and the 💦💦💦 process is explained on both of those pages). I plan to keep the livestream capture going for the next couple weeks, and I will update the archive accordingly.&lt;/p&gt;
+
+&lt;p&gt;But for now I wanted to share an overview of these 100,000+ Mary Oliver tweets, including the most retweeted tweets, the most common phrases used, the top images, and the biggest celebrity shout-outs:&lt;/p&gt;
+
+&lt;h1 id=&quot;top-10-most-retweeted&quot;&gt;Top 10 Most Retweeted&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thank you, Mary Oliver, for giving so many of us words to live by.&lt;br /&gt;&lt;br /&gt;&amp;quot;Tell me, what is it you plan to do&lt;br /&gt;with your one wild and precious life?&amp;quot;&lt;/p&gt;&amp;mdash; Hillary Clinton (@HillaryClinton) &lt;a href=&quot;https://twitter.com/HillaryClinton/status/1085949334288584704?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The Uses of Sorrow&lt;br /&gt;by Mary Oliver&lt;br /&gt;&lt;br /&gt;(In my sleep I dreamed this poem)&lt;br /&gt;&lt;br /&gt;Someone I loved once gave me&lt;br /&gt;a box full of darkness.&lt;br /&gt;&lt;br /&gt;It took me years to understand&lt;br /&gt;that this, too, was a gift.&lt;/p&gt;&amp;mdash; Sarah Kay (@kaysarahsera) &lt;a href=&quot;https://twitter.com/kaysarahsera/status/1085946797132996608?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“Doesn’t everything die at last, and too soon?”&lt;br /&gt;&lt;br /&gt;Mary Oliver: &lt;a href=&quot;https://t.co/KumCX5vfL6&quot;&gt;pic.twitter.com/KumCX5vfL6&lt;/a&gt;&lt;/p&gt;&amp;mdash; Rachel Mennies (@rmennies) &lt;a href=&quot;https://twitter.com/rmennies/status/1085930924607451138?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;RIP Mary Oliver, your words will live on &lt;a href=&quot;https://t.co/WEZ3KtLvoq&quot;&gt;pic.twitter.com/WEZ3KtLvoq&lt;/a&gt;&lt;/p&gt;&amp;mdash; rachel syme (@rachsyme) &lt;a href=&quot;https://twitter.com/rachsyme/status/1085929267765149701?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Snow was falling, so much like stars filling the dark trees.&lt;br /&gt;Mary Oliver &lt;a href=&quot;https://t.co/glSQ4vLWJG&quot;&gt;pic.twitter.com/glSQ4vLWJG&lt;/a&gt;&lt;/p&gt;&amp;mdash; ADF (@AlinaDal_F) &lt;a href=&quot;https://twitter.com/AlinaDal_F/status/825960547191517184?ref_src=twsrc%5Etfw&quot;&gt;January 30, 2017&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Poetry isn&amp;#39;t a profession, it&amp;#39;s a way of life. It&amp;#39;s an empty basket; you put your life into it and make something out of that.&amp;quot;&lt;br /&gt;&lt;br /&gt;RIP Mary Oliver, filler of baskets. &lt;a href=&quot;https://t.co/TmyzPOCjyf&quot;&gt;pic.twitter.com/TmyzPOCjyf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Literary Hub (@lithub) &lt;a href=&quot;https://twitter.com/lithub/status/1085931241910792194?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The poet Mary Oliver died today. Her poetry spoke — with a calm &amp;amp; tender lucidity — of commonalities that joined human hearts to the more-than-human world. &lt;a href=&quot;https://t.co/X0CaDwb1Hr&quot;&gt;pic.twitter.com/X0CaDwb1Hr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Robert Macfarlane (@RobGMacfarlane) &lt;a href=&quot;https://twitter.com/RobGMacfarlane/status/1086000078718988289?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Mary Oliver was my favorite poet. Heartbroken to learn of her death. Grateful she gave us what she did with her one wild and precious life. &lt;a href=&quot;https://t.co/3GJhVAbtMP&quot;&gt;pic.twitter.com/3GJhVAbtMP&lt;/a&gt;&lt;/p&gt;&amp;mdash; Misha Collins (@mishacollins) &lt;a href=&quot;https://twitter.com/mishacollins/status/1085986611416817664?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;JUST IN: Poet Mary Oliver has died at 83. Oliver won the Pulitzer Prize and the National Book Award for poems about nature and animals which made her one of this country’s best-selling poets. To be understood, poetry &amp;quot;mustn&amp;#39;t be fancy,&amp;quot; she once told NPR.&lt;a href=&quot;https://t.co/tEUiwq4pck&quot;&gt;https://t.co/tEUiwq4pck&lt;/a&gt;&lt;/p&gt;&amp;mdash; NPR (@NPR) &lt;a href=&quot;https://twitter.com/NPR/status/1085938799782199297?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“It doesn’t have to be blue iris, it can be weeds in a vacant lot. &lt;br /&gt;&lt;br /&gt;Just pay attention, then patch a few words together and don’t try to make them elaborate. &lt;br /&gt;&lt;br /&gt;This isn’t a contest but the doorway into thanks. A silence in which another voice may speak.” &lt;br /&gt;&lt;br /&gt;- Mary Oliver, Praying &lt;a href=&quot;https://t.co/SHh1EYdU6T&quot;&gt;pic.twitter.com/SHh1EYdU6T&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ava DuVernay (@ava) &lt;a href=&quot;https://twitter.com/ava/status/1085950627233046533?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These top tweets all quote Oliver’s poetry or words in some way. They cite the poems &lt;a href=&quot;https://www.poets.org/poetsorg/poem/wild-geese&quot;&gt;“Wild Geese”&lt;/a&gt;, &lt;a href=&quot;https://www.loc.gov/poetry/180/133.html&quot;&gt;“The Summer Day”&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/kaysarahsera/status/1085946797132996608?ref_src=twsrc%5Etfw&quot;&gt;“The Uses of Sorrow”&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/ava/status/1085950627233046533?ref_src=twsrc%5Etfw&quot;&gt;“Praying”&lt;/a&gt;, and &lt;a href=&quot;https://sacredtremor.com/blog/snowy-night-mary-oliver&quot;&gt;“Snowy Night”&lt;/a&gt;, as well as two famous quips about poetry itself: that it “isn’t a profession” and that it “mustn’t be fancy.” I used key phrases from these 10 quotations—e.g., “one wild and precious life,” “box full of darkness,” “wild geese”—to see how often these same poems/words were cited:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/mary-oliver-quotes-bigger-font.png&quot;&gt;&lt;img width=&quot;100%&quot; alt=&quot;Poems/Words Quoted in Mary Oliver Tweets&quot; src=&quot;/images/mary-oliver-quotes-bigger-font.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The above chart does not represent all citations of Oliver’s words, just the specific phrases/poems that I searched for. Most other tweets in the corpus (95,598 tweets) were not included or identified here.&lt;/p&gt;
+
+&lt;h1 id=&quot;most-common-phrases-used&quot;&gt;Most Common Phrases Used&lt;/h1&gt;
+
+&lt;p&gt;I also searched for the most common recurring phrases, which again resurfaced quotations from “The Summer Day,” “Wild Geese,” and “The Uses of Sorrow.” But this search also turned up other widely-cited quotations, such as “To live in this world/you must be able/to do three things” from &lt;a href=&quot;https://readalittlepoetry.wordpress.com/2005/09/12/in-blackwater-woods-by-mary-oliver/&quot;&gt;“In Blackwater Woods”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;“what is it you plan to do with your one wild and precious life”&lt;/li&gt;
+  &lt;li&gt;“someone i loved once gave me a box full of darkness”&lt;/li&gt;
+  &lt;li&gt;“thank you mary oliver for giving so many of us words to live by”&lt;/li&gt;
+  &lt;li&gt;“(in my sleep i dreamed this poem)”&lt;/li&gt;
+  &lt;li&gt;“to live in this world you must be able to do three things”&lt;/li&gt;
+  &lt;li&gt;“doesn’t everything die at last, and too soon”&lt;/li&gt;
+  &lt;li&gt;“pay attention be astonished tell about it”&lt;/li&gt;
+  &lt;li&gt;“i was a bride married to amazement”&lt;/li&gt;
+  &lt;li&gt;“the poet mary oliver died”&lt;/li&gt;
+  &lt;li&gt;“no matter how lonely you are the world offers itself to your imagination”&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;To live in this world&lt;br /&gt;&lt;br /&gt;you must be able&lt;br /&gt;to do three things:&lt;br /&gt;to love what is mortal;&lt;br /&gt;to hold it&lt;br /&gt;&lt;br /&gt;against your bones knowing&lt;br /&gt;your own life depends on it;&lt;br /&gt;and, when the time comes to let it go,&lt;br /&gt;to let it go.&lt;br /&gt;&lt;br /&gt;—Mary Oliver, RIP&lt;a href=&quot;https://t.co/gnyMu3Jocw&quot;&gt;https://t.co/gnyMu3Jocw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jen Benka (@jenbenka) &lt;a href=&quot;https://twitter.com/jenbenka/status/1085949629236154372?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Pay attention.&lt;br /&gt;Be astonished. &lt;br /&gt;Tell about it. &lt;br /&gt;&lt;br /&gt;—Mary Oliver &lt;a href=&quot;https://t.co/H3yYlWwqdy&quot;&gt;pic.twitter.com/H3yYlWwqdy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alice Anderson (@AlicePoet) &lt;a href=&quot;https://twitter.com/AlicePoet/status/1085941996504604674?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;top-images-click-to-enlarge&quot;&gt;Top Images (click to enlarge):&lt;/h1&gt;
+
+&lt;p&gt;To look for Oliver’s poetry only within the text of tweets misses one of the major ways that her words were shared: images and videos. The following shows the top images from Mary Oliver tweets, all pictures of text except for &lt;a href=&quot;https://twitter.com/mishacollins/status/1086013194294853632&quot;&gt;one of the actor Misha Collins&lt;/a&gt;, who is an apparent Oliver disciple and otherwise most famous for his role on the television show &lt;em&gt;Supernatural&lt;/em&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxIAauQW0AE6IZo.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot;&quot; src=&quot;http://pbs.twimg.com/media/DxIAauQW0AE6IZo.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxH-2hwXcAo4zwW.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxH-2hwXcAo4zwW.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxIAQlGW0AIMMuh.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxIAQlGW0AIMMuh.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxImZ5jVsAErmsT.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxImZ5jVsAErmsT.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxJH0XSUwAEyUfq.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxJH0XSUwAEyUfq.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxJLEyGU8AE-KUn.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxJLEyGU8AE-KUn.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxIERi-WwAI1lcR.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot;&quot; src=&quot;http://pbs.twimg.com/media/DxIERi-WwAI1lcR.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxIJfBKXcAApXW6.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot; &quot; src=&quot;http://pbs.twimg.com/media/DxIJfBKXcAApXW6.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;http://pbs.twimg.com/media/DxIGhbgVAAAqAts.jpg&quot;&gt;&lt;img width=&quot;1604&quot; alt=&quot;&quot; src=&quot;http://pbs.twimg.com/media/DxIGhbgVAAAqAts.jpg&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&quot;top-twitter-celeb-shout-outs&quot;&gt;Top Twitter Celeb Shout-outs&lt;/h1&gt;
+
+&lt;p&gt;Speaking of actors who adore Mary Oliver, the following shows the individuals with the most Twitter followers who mentioned her name in the last few days (in order of most to least followers):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“When it&amp;#39;s over, I want to say all my life I was a bride married to amazement.” Mary Oliver&lt;br /&gt; I’ve been soothed, comforted, informed, enhanced by your words. Your life has been a Blessing to the world. &lt;a href=&quot;https://twitter.com/hashtag/maryoliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#maryoliver&lt;/a&gt;&lt;/p&gt;&amp;mdash; Oprah Winfrey (@Oprah) &lt;a href=&quot;https://twitter.com/Oprah/status/1085971890940698624?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;To all of my kindred spirits who dare to dream and create 💗🙏🏽💗 &lt;a href=&quot;https://twitter.com/hashtag/maryoliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#maryoliver&lt;/a&gt; had such a beautiful way of telling the truth of a full and meaningful life through her poetry✨&lt;a href=&quot;https://twitter.com/hashtag/ripmaryoliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ripmaryoliver&lt;/a&gt; &lt;a href=&quot;https://t.co/ScA2UTIcGj&quot;&gt;https://t.co/ScA2UTIcGj&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jessica Alba (@jessicaalba) &lt;a href=&quot;https://twitter.com/jessicaalba/status/1086429985840058368?ref_src=twsrc%5Etfw&quot;&gt;January 19, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Patron saint of the lost but brave ... &lt;a href=&quot;https://twitter.com/hashtag/MaryOliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#MaryOliver&lt;/a&gt; &lt;a href=&quot;https://t.co/O8zMq8rEOJ&quot;&gt;pic.twitter.com/O8zMq8rEOJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lena Dunham (@lenadunham) &lt;a href=&quot;https://twitter.com/lenadunham/status/1086046117928697857?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Patron saint of the lost but brave ... &lt;a href=&quot;https://twitter.com/hashtag/MaryOliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#MaryOliver&lt;/a&gt; &lt;a href=&quot;https://t.co/O8zMq8rEOJ&quot;&gt;pic.twitter.com/O8zMq8rEOJ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Lena Dunham (@lenadunham) &lt;a href=&quot;https://twitter.com/lenadunham/status/1086046117928697857?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;“I made a world out of words. And it was my salvation.” RIP Mary Oliver. &lt;a href=&quot;https://t.co/TneWooytLO&quot;&gt;pic.twitter.com/TneWooytLO&lt;/a&gt;&lt;/p&gt;&amp;mdash; AJ (@TheAJMendez) &lt;a href=&quot;https://twitter.com/TheAJMendez/status/1086083744027467777?ref_src=twsrc%5Etfw&quot;&gt;January 18, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My love knows me and today is a sad day...saying goodbye to &lt;a href=&quot;https://twitter.com/hashtag/maryoliver?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#maryoliver&lt;/a&gt;...rest in peace and thank you for your legacy. &lt;br /&gt;&lt;br /&gt;Her words bring light into every room in which they whisper....🎆 &lt;a href=&quot;https://t.co/8PRfRS6pn7&quot;&gt;https://t.co/8PRfRS6pn7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sara Bareilles (@SaraBareilles) &lt;a href=&quot;https://twitter.com/SaraBareilles/status/1086071882548301825?ref_src=twsrc%5Etfw&quot;&gt;January 18, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thinking of Mary Oliver today. What will you do with your one wild &amp;amp; precious life? &lt;a href=&quot;https://t.co/UXYytu1Uyq&quot;&gt;pic.twitter.com/UXYytu1Uyq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Misha Collins (@mishacollins) &lt;a href=&quot;https://twitter.com/mishacollins/status/1086013194294853632?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Oh Mary Oliver, how can we ever say a deep enough thank you? Dear God, please bless her soul. May her words continue to inspire us, and may all of us walk in her footsteps.&lt;a href=&quot;https://t.co/k6D1M8Ataq&quot;&gt;https://t.co/k6D1M8Ataq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Marianne Williamson (@marwilliamson) &lt;a href=&quot;https://twitter.com/marwilliamson/status/1086012215386361858?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thank you Mary Oliver for your beautiful healing work.  Forever grateful.  RIP &lt;a href=&quot;https://twitter.com/hashtag/wildgeese?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#wildgeese&lt;/a&gt;&lt;/p&gt;&amp;mdash; Miranda Hart (@mermhart) &lt;a href=&quot;https://twitter.com/mermhart/status/1085976667498209280?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I Raise A Glass and Shed a tear to the passing of one of my favorite poets...........Mary Oliver. Her words were a bridge from Nature to the Spiritual World................♥️ God Bless You Mary! &lt;a href=&quot;https://t.co/loT4siZqdO&quot;&gt;pic.twitter.com/loT4siZqdO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Madonna (@Madonna) &lt;a href=&quot;https://twitter.com/Madonna/status/1085992586702139399?ref_src=twsrc%5Etfw&quot;&gt;January 17, 2019&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;mourning-mary-oliverscreenshots-selfies-snail-mail&quot;&gt;Mourning Mary Oliver—Screenshots, Selfies, Snail Mail&lt;/h1&gt;
+
+&lt;p&gt;This post only scratches the surface of how folks mourned Mary Oliver on Twitter in the wake of her death. But it’s been my small way of fulfilling Oliver’s edict: to pay attention, to be astonished, to tell about it.&lt;/p&gt;
+
+&lt;p&gt;I’m telling you that I’m astonished to see tens of thousands of Twitter users sharing poetry with each other in the span of two days.&lt;/p&gt;
+
+&lt;p&gt;Here’s to sharing more poetry with one another and, of course, to Mary Oliver.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/Happiness-Mary-Oliver.jpg&quot;&gt;&lt;img width=&quot;100%&quot; alt=&quot;Happiness&quot; src=&quot;/images/Happiness-Mary-Oliver.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you’re interested in exploring this archive for yourself, you can download the data by using the &lt;a href=&quot;https://github.com/melaniewalsh/Mary-Oliver-Tweets&quot;&gt;tweet ids on my GitHub page&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">I saw her lift her honeyed muzzle into the leaves, and her thick arms, as though she would fly - an enormous bee all sweetness and wings - -Mary Oliver, “Happiness”</summary></entry><entry><title type="html">Things That The U.S. Presidents Described as “Great” in Their Inaugural Addresses</title><link href="http://localhost:4000/2017/02/01/president-great-things.html" rel="alternate" type="text/html" title="Things That The U.S. Presidents Described as &quot;Great&quot; in Their Inaugural Addresses" /><published>2017-02-01T15:29:00-06:00</published><updated>2017-02-01T15:29:00-06:00</updated><id>http://localhost:4000/2017/02/01/president-great-things</id><content type="html" xml:base="http://localhost:4000/2017/02/01/president-great-things.html">&lt;p&gt;For the February 2017 meeting of the &lt;a href=&quot;http://sites.wustl.edu/darg&quot;&gt;Digital Approaches Reading Group&lt;/a&gt; (DARG), which I help co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset — in the hopes of collectively showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word “great.”&lt;/p&gt;
 
 &lt;p&gt;President Trump concluded his 2017 Inaugural Address with his now trademark phrase “Make America Great Again”:&lt;/p&gt;
 &lt;blockquote&gt;
