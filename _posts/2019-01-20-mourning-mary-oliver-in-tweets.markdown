@@ -103,7 +103,7 @@ I also searched for the most common recurring phrases, which again resurfaced qu
 
 # Top Images (click to enlarge):              
 
-To look for Oliver's poetry only within the text of tweets misses one of the major ways that her words were shared: images and videos. The following shows the top images from Mary Oliver tweets, all pictures of text except for [one of the actor Misha Collins](https://twitter.com/mishacollins/status/1086013194294853632), who is an apparent Oliver disciple and otherwise most famous for his role on the television show *Supernatural*.              
+To look for Oliver's poetry only within the text of tweets misses one of the major ways that her words were shared: images and videos. The following shows the top images from Mary Oliver tweets, all pictures of text except for [one snap of the actor Misha Collins](https://twitter.com/mishacollins/status/1086013194294853632), who is an apparent Oliver disciple and otherwise most famous for his role on the television show *Supernatural*.              
 
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<a href="http://pbs.twimg.com/media/DxIAauQW0AE6IZo.jpg"><img width="1604" alt="" src="http://pbs.twimg.com/media/DxIAauQW0AE6IZo.jpg"></a>|<a href="http://pbs.twimg.com/media/DxH-2hwXcAo4zwW.jpg"><img width="1604" alt=" " src="http://pbs.twimg.com/media/DxH-2hwXcAo4zwW.jpg"></a>|<a href="http://pbs.twimg.com/media/DxIAQlGW0AIMMuh.jpg"><img width="1604" alt=" " src="http://pbs.twimg.com/media/DxIAQlGW0AIMMuh.jpg"></a>|
