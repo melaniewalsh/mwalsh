@@ -123,11 +123,12 @@ Speaking of actors who adore Mary Oliver, the following shows the individuals wi
 3. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Patron saint of the lost but brave ... <a href="https://twitter.com/hashtag/MaryOliver?src=hash&amp;ref_src=twsrc%5Etfw">#MaryOliver</a> <a href="https://t.co/O8zMq8rEOJ">pic.twitter.com/O8zMq8rEOJ</a></p>&mdash; Lena Dunham (@lenadunham) <a href="https://twitter.com/lenadunham/status/1086046117928697857?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-4. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Patron saint of the lost but brave ... <a href="https://twitter.com/hashtag/MaryOliver?src=hash&amp;ref_src=twsrc%5Etfw">#MaryOliver</a> <a href="https://t.co/O8zMq8rEOJ">pic.twitter.com/O8zMq8rEOJ</a></p>&mdash; Lena Dunham (@lenadunham) <a href="https://twitter.com/lenadunham/status/1086046117928697857?ref_src=twsrc%5Etfw">January 17, 2019</a></blockquote>
+4. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“I made a world out of words. And it was my salvation.” RIP Mary Oliver. <a href="https://t.co/TneWooytLO">pic.twitter.com/TneWooytLO</a></p>&mdash; AJ (@TheAJMendez) <a href="https://twitter.com/TheAJMendez/status/1086083744027467777?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-5. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“I made a world out of words. And it was my salvation.” RIP Mary Oliver. <a href="https://t.co/TneWooytLO">pic.twitter.com/TneWooytLO</a></p>&mdash; AJ (@TheAJMendez) <a href="https://twitter.com/TheAJMendez/status/1086083744027467777?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
+5. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">R.I.P. poet Mary Oliver:: “Instructions for living a life. Pay attention. Be astonished. Tell about it.” <a href="https://t.co/KieSs46WuV">pic.twitter.com/KieSs46WuV</a></p>&mdash; RainnWilson (@rainnwilson) <a href="https://twitter.com/rainnwilson/status/1086312421407375360?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 6. <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My love knows me and today is a sad day...saying goodbye to <a href="https://twitter.com/hashtag/maryoliver?src=hash&amp;ref_src=twsrc%5Etfw">#maryoliver</a>...rest in peace and thank you for your legacy. <br><br>Her words bring light into every room in which they whisper....🎆 <a href="https://t.co/8PRfRS6pn7">https://t.co/8PRfRS6pn7</a></p>&mdash; Sara Bareilles (@SaraBareilles) <a href="https://twitter.com/SaraBareilles/status/1086071882548301825?ref_src=twsrc%5Etfw">January 18, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -148,9 +149,7 @@ Speaking of actors who adore Mary Oliver, the following shows the individuals wi
 
 This post only scratches the surface of how folks mourned Mary Oliver on Twitter in the wake of her death. But it's been my small way of fulfilling Oliver's edict: to pay attention, to be astonished, to tell about it.
 
-I'm telling you that I'm astonished to see tens of thousands of Twitter users sharing poetry with each other in the span of two days.
-
-Here's to sharing more poetry with one another and, of course, to Mary Oliver.
+I'm telling you that I'm astonished to see tens of thousands of Twitter users sharing poetry with each other in the span of two days. Here's to sharing more poetry with one another---and, of course, to Mary Oliver.
  
  <a href="/images/Happiness-Mary-Oliver.jpg"><img width="100%" alt="Happiness" src="/images/Happiness-Mary-Oliver.jpg"></a>
  
