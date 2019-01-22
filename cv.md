@@ -40,9 +40,9 @@ Essays, Reviews, & Interviews
 ["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://cenhum.artsci.wustl.edu/features/Melanie-Walsh-Cathy-Davidson-Digital-Humanities) *Human Ties*, September 2018.
 
 Fiction
-___
+---
 
-["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader, December, 2018.
+["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader*, December 27, 2018.
 
 Awards & Fellowships
 ---
@@ -73,7 +73,7 @@ Research Assistantship, Text Mining the Novel (NovelTM), Spring 2017. A semester
 research assistantship with Professor Matt Erlin focused on the computational network analysis of German Enlightenment periodicals. Part of the multi-university, digital humanities partnership, NovelTM, and funded by the Social Sciences and Humanities Research Council (SSHRC).
 
 National Science Foundation Travel Grant, “Archives Unleashed,” Internet Archive, San
-Francisco, CA, February 2017. Awarded to thirty researchers to support travel to “Archives Unleased,” a web archiving workshop for developing open-source tools and approaches to web archives.
+Francisco, CA, February 2017. Awarded to thirty researchers to support travel to “Archives Unleashed,” a web archiving workshop for developing open-source tools and approaches to web archives.
 
 Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010. Awarded annually to
 two freshmen for excellence in writing.
