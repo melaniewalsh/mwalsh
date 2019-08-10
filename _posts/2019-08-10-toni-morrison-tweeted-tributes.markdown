@@ -52,7 +52,7 @@ But first I wanted to share a quick overview of the roughly one million tweets a
 
 7. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The best way to honour Toni Morrison is to continue her legacy by celebrating and supporting Black female writers. So here’s a thread of fantastic women whose work you should read.</p>&mdash; Sister Outrider (@ClaireShrugged) <a href="https://twitter.com/ClaireShrugged/status/1158780575202852864?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-   A significant number of the tweets in this archive, such as the one featured above, praised Morrison as a central node in a literary network of Black women writers. This tweet made this network explicit as well as expanded it by tagging the Twitter user names of dozens of authors in a 20-plus-part thread.
+   A significant number of the tweets in this archive, such as the one featured above, praised Morrison as a central node in a literary network of Black women writers. This tweet made the network explicit as well as expanded it by tagging the Twitter user names of dozens of Black women authors in a 20-plus-part thread.
 
 8. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“if you can only be tall because somebody’s on their knees, you have a serious problem.” - toni morrison <a href="https://t.co/MEIt2iEynH">pic.twitter.com/MEIt2iEynH</a></p>&mdash; nadirah (@hinadirah) <a href="https://twitter.com/hinadirah/status/1158733669923770368?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -60,7 +60,7 @@ But first I wanted to share a quick overview of the roughly one million tweets a
 9. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toni Morrison’s knife is so sharp, you don’t even realize that she’s slit your throat. <a href="https://twitter.com/hashtag/ToniMorrison?src=hash&amp;ref_src=twsrc%5Etfw">#ToniMorrison</a> <a href="https://twitter.com/hashtag/WhenIGrowUp?src=hash&amp;ref_src=twsrc%5Etfw">#WhenIGrowUp</a> <a href="https://twitter.com/hashtag/IAmTheMainstream?src=hash&amp;ref_src=twsrc%5Etfw">#IAmTheMainstream</a> <a href="https://t.co/6C7PJOqzrv">pic.twitter.com/6C7PJOqzrv</a></p>&mdash; Stony Morrison, PhD (@rrandolphjr) <a href="https://twitter.com/rrandolphjr/status/1095007929898545153?ref_src=twsrc%5Etfw">February 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-   Like the #2 most retweeted Toni Morrison citation discussed above, this tweet also included a video clip from Morrison's 1998 interview with Jana Wendt. But like #3, it was also a tweet published months earlier, in February 2019. This pattern suggests that some Toni Morrison tweets and videos have had long circulating lives on the internet and took on renewed significance in the wake of Morrison's death.
+   Like the #2 most retweeted Toni Morrison citation, the above tweet also included a video clip from Morrison's 1998 interview with Jana Wendt. Like #3, it was also a tweet first published months earlier, back in February 2019. This pattern makes clear that some Toni Morrison tweets and videos had long circulating lives on the internet and that they took on renewed significance in the wake of Morrison's death.
 
 10. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toni Morrison published her first novel at 40 years-old. You have time. We have time.</p>&mdash; Asia 🌱 (@AsiaChloeBrown) <a href="https://twitter.com/AsiaChloeBrown/status/1158759741155422213?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -119,7 +119,7 @@ The top five Morrison novels mentioned on Twitter after her death appeared to be
 
 # Top Tweets From Most Followed Accounts
 
-Toni Morrison was a truly colossal public figure. So I was interested in seeing which other highly  influential public figures were discussing her after her death. The Twitter accounts with the most followers that also tweeted about Morrison between August 6-7 were Barack Obama, Hillary Clinton, Oprah, *The New Yorker*, Bernie Sanders, NPR, Common, Kerry Washington, and Bill Clinton.
+Toni Morrison was a truly colossal public figure. So I was also interested in seeing which other highly  influential public figures were discussing her after her death. The Twitter accounts with the most followers that also tweeted about Morrison between August 6-7 were Barack Obama, Hillary Clinton, Oprah, *The New Yorker*, Bernie Sanders, NPR, Common, Kerry Washington, and Bill Clinton.
 
 1. <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toni Morrison was a national treasure, as good a storyteller, as captivating, in person as she was on the page. Her writing was a beautiful, meaningful challenge to our conscience and our moral imagination. What a gift to breathe the same air as her, if only for a while. <a href="https://t.co/JG7Jgu4p9t">pic.twitter.com/JG7Jgu4p9t</a></p>&mdash; Barack Obama (@BarackObama) <a href="https://twitter.com/BarackObama/status/1158764847800213507?ref_src=twsrc%5Etfw">August 6, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -166,9 +166,13 @@ congruent	with	the	values	of	the	communities	they	are	attempting	to	document.
 appraisal,	collection	development,	and	donor	relations	to	social	media	and	web	
 materials.	
 
-# Further Scholarly Reading on Toni Morrison
+# Reconstituting and Rereading Toni Morrison
 
-The loss of Toni Morrison is profound. But it is also profound to witness so many people testifying to her literary influence and legacy, to see such sincere interest in her life and work. I wanted to conclude with a short round-up of further reading on Morrison, to direct those interested to the work of scholars who have been studying and attending to Toni Morrison's work for many years.
+The loss of Toni Morrison is a profound one. And Obama's highly retweeted words resonate with me. It really does feel like a "gift" to have "breathe[d] the same air" as the great Toni Morrison, "if only for a while." It's hard to imagine that a more major literary figure will be alive again during my lifetime.
+
+But it is also profound to have witnessed so many people testifying to Morrison's literary influence and legacy this week, to have seen such sincere interest in her life and work, and to have observed Morrison reconstituted, in a way, by those mourning and celebrating her on Twitter. Through the necessarily reductive form of 240-character tweets, photos, and video clips, people collectively grieved Morrison---the author of deep, [difficult](https://slate.com/culture/2019/03/toni-morrison-difficulty-black-women.html), and complex narratives---in a beautiful and powerful way.
+
+Many of these Twitter users also spoke about returning to these difficult novels and essays or wanting to dive into them for the first time, and there have been many great ["essential" Toni Morrison reading lists](https://time.com/5645078/toni-morrison-books/) published in the last few days. But I wanted to conclude with a short round-up of further scholarly reading on Morrison, to also direct people to the work of scholars who have been deeply studying and attending to Toni Morrison's life and literature for many years now.
 
 Barbara Hill Rigney, [*The Voices of Toni Morrison*](https://ohiostatepress.org/books/BookPages/RigneyVoices.htm) (1991).  
 Trudier Harris, [*Fiction and Folklore: The Novels of Toni Morrison*](http://utpress.org/title/fiction-and-folklore/) (1991).  
