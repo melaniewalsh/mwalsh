@@ -6,14 +6,18 @@ permalink: /cv/
 
 Research Interests
 ---
-Digital humanities, new media studies, twentieth- and twenty-first-century American literature, 
+Cultural analytics, digital humanities, social media, twentieth- and twenty-first-century American literature, 
 network analysis, readership and reception studies.
+
+Employment
+---
+Postdoctoral Associate in Information Science, Cornell University, August 2019 – Present
 
 Education
 ---
-Ph.D. candidate in English, Washington University in St. Louis, MO, 2013 – Present
+Ph.D., English, Washington University in St. Louis, MO, 2013 – 2019
 
-Dissertation: “Postwar Redux: How Twenty-First-Century Networked Readers Recirculated, Remediated, and Redefined Postwar American Fiction”  
+Dissertation: *Postwar Redux: The Recirculation of Postwar American Literature and the Rise of Networked Readers in the Twenty-First Century*  
 Advisor: William J. Maxwell
 
 M.A., English, Washington University in St. Louis, MO, 2015  
@@ -35,17 +39,24 @@ visualizations about James Baldwin’s digital afterlives.
 Essays, Reviews, & Interviews
 ---
 
-["Beautifying Beale Street,"](https://lareviewofbooks.org/article/beautifying-beale-street/) *Los Angeles Review of Books*, December 14, 2018.
+["Beautifying Beale Street,"](https://lareviewofbooks.org/article/beautifying-beale-street/) *Los Angeles Review of Books*, December 2018.
 
 ["A Conversation with Cathy Davidson: On the Digital in the Humanities and Her Journey to Revolutionize Higher Ed,"](https://humanities.wustl.edu/news/melanie-walsh-cathy-davidson-digital-humanities-and-her-journey-revolutionize-higher-ed) *Human Ties*, September 2018.
 
 Fiction
 ---
 
-["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader*, December 27, 2018.
+["Unattended Packages,"](https://www.chicagoreader.com/chicago/flash-fiction-2018-unattended-packages-melanie-walsh/Content?oid=65524104) *Chicago Reader*, December 2018.
+
+Editorial Work
+---
+[“Echoes: Memes, Art, & Collectives on the Internet,”](https://thespectacle.wustl.edu/?p=1264) *The Spectacle*, July 2018
 
 Awards & Fellowships
 ---
+Dean’s Award for Teaching Excellence, Spring 2019. Awarded annually to graduate students in Arts & Sciences who have been nominated for outstanding 
+teaching by their home department.
+
 
 Dissertation Fellowship, Center for the Humanities, Washington University in St. Louis, 2018. Awarded annually to six doctoral candidates in the humanities in support of the dissertation.
 
@@ -80,6 +91,10 @@ two freshmen for excellence in writing.
 
 Conferences, Presentations, & Workshops
 ---
+"New Horizons in Network Analysis," Co-Organizer and Presenter, ACH, Pittsburgh, PA, July 2019.
+
+“Mapping the Librotraficante Movement,” Global DH Symposium, East Lansing, MI, March 2019.
+
 “Between Readers: A Short Methodological History of Networked Reading,” MLA
 Annual Convention, Chicago, IL, upcoming January 2019.
 
