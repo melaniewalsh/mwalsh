@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Melanie Walsh
-email: melanie.walsh@wustl.edu
-description: PhD candidate in English & American literature at Washington University in St. Louis -- digital humanities (DH), novels, networks, new media
+email: melanie.walsh@cornell.edu
+description: Postdoc at Cornell University // Cultural analytics, digital humanities, novels, networks, social media
 3baseurl: "/"
 url: "https://melaniewalsh.org"
 cover: "/assets/ginkgo.jpg"

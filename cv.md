@@ -15,7 +15,7 @@ Postdoctoral Associate in Information Science, Cornell University, August 2019 �
 
 Education
 ---
-Ph.D., English, Washington University in St. Louis, MO, 2013 – 2019
+Ph.D., English & American Literature, Washington University in St. Louis, MO, 2013 – 2019
 
 Dissertation: *Postwar Redux: The Recirculation of Postwar American Literature and the Rise of Networked Readers in the Twenty-First Century*  
 Advisor: William J. Maxwell
@@ -24,7 +24,6 @@ M.A., English, Washington University in St. Louis, MO, 2015
 
 B.A., English, Washington University in St. Louis, MO, 2013  
 *summa cum laude*
-
 
 Peer-Reviewed Publications
 ---
