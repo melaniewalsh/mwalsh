@@ -38,6 +38,6 @@ feature_row:
 
 Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background. I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/).
 
-You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at melanie dot walsh @cornell.edu.
+My research interests include digital humanities, cultural analytics, American literature, and social media---preferably all of the above combined. You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at melanie dot walsh@cornell.edu.
 
 ---
