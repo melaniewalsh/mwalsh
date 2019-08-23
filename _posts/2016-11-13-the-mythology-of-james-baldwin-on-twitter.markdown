@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "\"The Mythology of James Baldwin on Twitter\""
 date:   2016-11-13 16:29:00 -0500
 categories: 
-comments: true
+comments: 
+layout: single
+author_profile: false
+read_time: true
 ---
 
 _The following is a transcript from my paper "Tweets of a Native Son: The Mythology of James Baldwin on Twitter," which I gave at the [MMLA conference](http://www.luc.edu/mmla/convention/) on November 12. Huge thanks to Doug Knox from the [HDW](https://hdw.artsci.wustl.edu/) for helping me figure out how to wrangle Twitter data and to [Ed Summers from MITH](http://mith.umd.edu/people/person/ed-summers/) for generously sharing data, tools, and thoughtfulness._

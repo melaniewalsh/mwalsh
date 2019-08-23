@@ -1,11 +1,17 @@
 ---
-layout: post
 title:  "Mourning Mary Oliver in 100,000+ Tweets"
 categories: 
 comments: true
+layout: single
+author_profile: false
+share: true
+toc: true
+toc_label: " "
+toc_icon: "star"
+read_time: true
 ---
 
->>> I saw her lift her honeyed muzzle  
+>I saw her lift her honeyed muzzle  
 into the leaves, and her thick arms,   
 as though she would fly -  
 an enormous bee  

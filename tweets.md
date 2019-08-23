@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /tweets-of-a-native-son/
 
 ---

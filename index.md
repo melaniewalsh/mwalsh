@@ -2,17 +2,42 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: single
+title: " "
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image:  /images/ginkgo.jpg
+  #actions:
+  #  - label: "Download"
+    #  url: "https://github.com/mmistakes/minimal-mistakes/"
+  caption: "The [Ginkgo Room](https://trees.wustl.edu/items/12/) at WUSTL"
+excerpt: " <br>  <br>  <br> "
+#intro: 
+#  - excerpt: "Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background."
+feature_row:
+  - image_path: /images/twitter_prof.jpg
+    alt: "placeholder image 1"
+    title: "Teaching"
+    excerpt: ""
+    image_max_size: 150px
+  - image_path: /images/got-network.png
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Research"
+    excerpt: ""
+    # url: "#test-link"
+    image_max_size: 150px
+  - image_path: /images/baldwin-logo-black-background.png
+    title: "Digital Projects"
+    excerpt: ""
+    image_max_size: 100px
+---
 
 ---
 
-<figure> <a href="https://afsma17.com/"><img src="/images/twitter_prof.jpg" alt="American Fiction in the Social Media Age" width="100%"/></a> <figcaption>American Fiction in the Social Media Age</figcaption> </figure> 
+Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background. I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/).
 
-<figure class="bigger"> <a href="https://github.com/melaniewalsh/sample-social-network-datasets"> <img src="/images/got-network.png" alt="Game of Thrones Network" width="100%"/></a><figcaption>Game of Thrones Network</figcaption> 
-</figure> 
+You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at [firstname].[lastname]@cornell.edu.
 
-<figure > <a href="http://tweetsofanativeson.com"><img src="/images/tweetsnativeson.png" alt="Tweets of a Native Son" width="90%" class="center"/></a> <figcaption>Tweets of a Native Son</figcaption> </figure> 
-
-Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/), where I am designing and teaching an Introduction to Cultural Analytics course for humanities students with no previous programming background.
-
-My current book project, *Postwar Redux: The Recirculation of Postwar American Fiction and the Rise of Networked Readers in the 21st Century*, explores how and why people in the last two decades, inspired by the rise of the internet and social media, recirculated and reimagined American literary texts published in the late-twentieth century---through #BlackLivesMatter tweets, licensed Amazon fanfiction, “streetfighter” websites, Tumblr selfies, and more. Throughout the book, I rely on digital and computational tools, and I show how internet data about literature’s proliferating social lives enriches the fields of literary studies, digital humanities, and cultural analytics. 
+---

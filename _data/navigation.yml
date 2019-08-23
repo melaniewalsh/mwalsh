@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "CV"
+    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Digital Projects"
+    url: /digitalprojects/
+  - title: "Blog"
+    url: /blog/
+  - title: "Book"
+    url: /book/
+       # - title: "About"
+       #   url: https://mmistakes.github.io/minimal-mistakes/about/

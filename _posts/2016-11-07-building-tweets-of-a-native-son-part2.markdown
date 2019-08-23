@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "Part 2: Building the \"Tweets of a Native Son\" Archive (jq and regular expressions)"
 date:   2016-11-07 16:53:00 -0500
 categories: 
-comments: true
+comments: 
+layout: single
+author_profile: false
+read_time: true
 ---
 
 In [Part 1](http://melaniewalsh.org/2016/11/05/building-tweets-of-a-native-son-part1.html), I explained how I "hydrated" 17 million tweets that mentioned "Ferguson" from August and November 2014 by using [twarc](https://github.com/DocNow/twarc) and how I generated summaries for these collections (# of tweets and users, top hashtags, top URLs, top image URLS, etc.) using [twarc-report](https://github.com/pbinkley/twarc-report). But how and where does James Baldwin fit into the picture?

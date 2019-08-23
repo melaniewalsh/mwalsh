@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "Introduction: \"Tweets of a Native Son\""
 date:   2016-11-05 14:56:56 -0500
 categories: 
-comments: true
+comments: 
+layout: single
+author_profile: false
+read_time: true
 ---
 
 I started this blog largely because I wanted to start sharing some thoughts and updates about my project "Tweets of a Native Son," a large-scale computational analysis of tweets that mention "James Baldwin" in relationship to Ferguson and the #BlackLivesMatter movement.

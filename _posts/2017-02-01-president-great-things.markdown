@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "Things That The U.S. Presidents Described as \"Great\" in Their Inaugural Addresses"
 date:   2017-02-01 16:29:00 -0500
 categories: 
-comments: true
+comments: 
+layout: single
+author_profile: false
+read_time: true
 ---
 
 For the February 2017 meeting of the [Digital Approaches Reading Group](http://sites.wustl.edu/darg) (DARG), which I help co-convene at WashU, we explored 58 Presidential Inaugural Addresses as a common dataset --- in the hopes of collectively showcasing and experimenting with different DH methodologies and tools. I was personally curious about a tiny word that I suspected might have big(ly?) implications: the word "great."

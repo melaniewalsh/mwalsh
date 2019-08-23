@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "Part 1: Building the \"Tweets of a Native Son\" Archive (twarc and twarc-report)"
 date:   2016-11-05 18:56:56 -0500
 categories: 
-comments: true
+comments: 
+layout: single
+author_profile: false
+read_time: true
 ---
 
 So my project "Tweets of a Native Son" examines the way that Twitter conversations about Ferguson and the #BlackLivesMater movement invoke the literary author James Baldwin. What's my archive? How did I build it?

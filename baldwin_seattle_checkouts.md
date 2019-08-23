@@ -1,5 +1,4 @@
 ---
-layout: page
 permalink: /baldwin_seattle_checkouts/
 
 ---
