@@ -9,7 +9,7 @@ toc_sticky: true
 
 Research Interests
 ---
-Cultural analytics, digital humanities, social media, twentieth- and twenty-first-century American literature, 
+Digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature, 
 network analysis, readership and reception studies.
 
 Employment
