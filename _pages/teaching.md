@@ -12,6 +12,10 @@ layout: single
 
 ### Undergraduate Courses
 
+* Introduction to Cultural Analytics: Data, Computation, & Culture
+   
+   Spring 2020 - Cornell University
+   
 * American Fiction in the Social Media Age
 
    Fall 2017 - Washington University in St. Louis - Course website: [https://afsma17.com/](https://afsma17.com/)
