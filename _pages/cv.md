@@ -91,12 +91,19 @@ two freshmen for excellence in writing.
 
 Conferences, Presentations, & Workshops
 ---
+
+“Documenting Twitter Protest,” American Studies Association, Honolulu, HI, November 2019. 
+
+[“Working with Twitter Data,”](https://docs.google.com/presentation/d/1ts9Lig4QzAij9aScxF0dslQz5cP_6cPa9QX1krRbmf4/edit#slide=id.p) Day of Data – Cornell University Library, Ithaca, NY, October 2019. 
+
+“The Crowdsourced ‘Classics,’” Association for the Study of the Arts of the Present, College Park, MD, October 2019. 
+
 "New Horizons in Network Analysis," Co-Organizer and Presenter, ACH, Pittsburgh, PA, July 2019.
 
 “Mapping the Librotraficante Movement,” Global DH Symposium, East Lansing, MI, March 2019.
 
 “Between Readers: A Short Methodological History of Networked Reading,” MLA
-Annual Convention, Chicago, IL, upcoming January 2019.
+Annual Convention, Chicago, IL, January 2019.
 
 “James Baldwin, #BlackLivesMatter, and Networks of Textual Recirculation,” DH 2018
 Conference, Mexico City, Mexico, June 2018.
@@ -128,6 +135,8 @@ Teaching
 ---
 INSTRUCTOR:
 
+“Introduction to Cultural Analytics: Data, Computation, & Culture,” Spring 2020 Cornell University. 
+
 “Humanities by the Numbers: Essential Readings in the Digital Humanities,” Co-designed and
 co-taught with Professor Matt Erlin, Spring 2018, Washington University.
 
@@ -144,7 +153,6 @@ Washington University.
 Technical Skills
 ---
 
-
 Python, programming language
 
 Website development and maintenance with raw HTML & CSS (web design languages), static-site generators (Jekyll), and content management systems (WordPress)
@@ -155,19 +163,21 @@ Some experience with JavaScript, programming language, and D3.js (JavaScript dat
 
 Service
 ---
+Cultural Analytics Society, Co-founder and mentor, Cornell University, 2019. 
+
 Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities
-Digital Workshop, 2017-2018.
+Digital Workshop, Washington University, 2017-2018.
 
-Convener, [Graduate Advisory Panel](https://english.artsci.wustl.edu/graduate/student_resources), English Department, 2017-2018.
+Convener, [Graduate Advisory Panel](https://english.artsci.wustl.edu/graduate/student_resources), English Department, Washington University, 2017-2018.
 
-Co-Convener and Co-Founder, [Digital Approaches Reading Group](https://sites.wustl.edu/darg/), 2015-2018.
+Co-Convener and Co-Founder, [Digital Approaches Reading Group](https://sites.wustl.edu/darg/), Washington University, 2015-2018.
 
-Co-Coordinator, “Responsible Teaching Under a Trump Administration,” November 2017.
+Co-Coordinator, “Responsible Teaching Under a Trump Administration,” Washington University, November 2017.
 
 Member, Faculty Search Committee, Assistant Professor in English Literature with Specialty in
-Computational Approaches, 2015-2016.
+Computational Approaches, Washington University, 2015-2016.
 
-Peer Mentor, English Department, 2014-2016.
+Peer Mentor, English Department, Washington University, 2014-2016.
 
 Languages
 ---
