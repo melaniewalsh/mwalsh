@@ -54,9 +54,10 @@ visualizations about James Baldwin’s digital afterlives.
 
 Awards & Fellowships
 ---
+Emerging Open Scholarship Award, Honorable Mention, 2020. Awarded by the [Canadian Social Knowledge Institute](https://etcl.uvic.ca/2020/01/14/announcing-the-2020-open-scholarship-awards/) for *Tweets of a Native Son*.
+
 Dean’s Award for Teaching Excellence, Spring 2019. Awarded annually to graduate students in Arts & Sciences who have been nominated for outstanding 
 teaching by their home department.
-
 
 Dissertation Fellowship, Center for the Humanities, Washington University in St. Louis, 2018. Awarded annually to six doctoral candidates in the humanities in support of the dissertation.
 

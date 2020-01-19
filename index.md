@@ -40,4 +40,6 @@ Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science a
 
 My research interests include digital humanities, cultural analytics, American literature, and social media---preferably all of the above combined. You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at melanie dot walsh at cornell dot edu.
 
+Make an appointment for Student Hours: [https://melaniewalsh.youcanbook.me/](https://melaniewalsh.youcanbook.me) 
+
 ---
