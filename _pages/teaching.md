@@ -4,15 +4,9 @@ permalink: /teaching/
 layout: single
 ---
 
-### Graduate Courses
-
-* Humanities by the Numbers: Essential Readings in the Digital Humanities
-
-   Spring 2018 - Washington University in St. Louis
-
 ### Undergraduate Courses
 
-* Introduction to Cultural Analytics: Data, Computation, & Culture
+* [Introduction to Cultural Analytics: Data, Computation, & Culture](https://classes.cornell.edu/browse/roster/SP20/class/ENGL/1350)
    
    Spring 2020 - Cornell University
    
@@ -23,4 +17,10 @@ layout: single
 * College Writing 1
 
    Spring 2016, Fall 2015 - Washington University in St. Louis
+
+### Graduate Courses
+
+* Humanities by the Numbers: Essential Readings in the Digital Humanities
+
+   Spring 2018 - Washington University in St. Louis
 

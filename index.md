@@ -36,10 +36,12 @@ feature_row:
 
 ---
 
-Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh). I'm designing and teaching an undergraduate course that prepares students in the humanities to analyze cultural materials (books, movies, social media posts, etc.) with digital and computational tools. I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/).
+Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh). I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/). My research interests include digital humanities, cultural analytics, American literature, and social media---preferably all of the above combined.
 
-My research interests include digital humanities, cultural analytics, American literature, and social media---preferably all of the above combined. You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at melanie dot walsh at cornell dot edu.
+While at Cornell, I'm designing and teaching an undergraduate course that prepares students in the humanities to analyze cultural materials (books, movies, social media posts, etc.) with digital and computational tools.
 
-Make an appointment for Student Hours: [https://melaniewalsh.youcanbook.me/](https://melaniewalsh.youcanbook.me) 
+You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can shoot me an email at melanie dot walsh at cornell dot edu.
+
+*If you're one of my students, you can make an appointment for Student Hours here: [https://melaniewalsh.youcanbook.me/](https://melaniewalsh.youcanbook.me) 
 
 ---

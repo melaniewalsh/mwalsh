@@ -30,7 +30,10 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ## Publications
 
-### Peer-Reviewed
+### Articles & Book Chapters
+
+“DH Readership and Reception: Toward Recognizing a Subfield and Future,” forthcoming in *Debates in Digital Humanities 2021*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
+
 [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
 ### Digital
@@ -39,6 +42,8 @@ B.A., English, Washington University in St. Louis, MO, 2013
 visualizations about James Baldwin’s digital afterlives.
 
 ### Essays, Reviews, & Interviews
+
+[“Review: Name That Twitter Community!,”](https://reviewsindh.pubpub.org/pub/nttc) *Reviews in Digital Humanities*, January 2020.
 
 ["Beautifying Beale Street,"](https://lareviewofbooks.org/article/beautifying-beale-street/) *Los Angeles Review of Books*, December 2018.
 
