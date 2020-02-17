@@ -14,7 +14,7 @@ layout: single
 
    Fall 2017 - Washington University in St. Louis
 
-* [College Writing 1](https://melaniewalsh.org/Walsh_Writing1-Syllabus_2016)
+* [College Writing 1](https://melaniewalsh.org/Walsh_Writing1-Syllabus_2016.pdf)
 
    Spring 2016, Fall 2015 - Washington University in St. Louis
 
