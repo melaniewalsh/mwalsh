@@ -40,7 +40,7 @@ Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science a
 
 At Cornell, I'm designing and teaching an undergraduate course that prepares students in the humanities to analyze cultural materials---such as books, movies, historical records, and social media posts---with digital and computational tools. The course includes an introduction to the programming language Python.
 
-You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can email me [here](melanie.walsh@cornell.edu): melanie dot walsh at cornell dot edu.
+You can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), [infrequent blog thoughts](/blog), or [manuscript-in-progress](/book). If you'd like to reach me, you can email me [here](mailto:melanie.walsh@cornell.edu): melanie dot walsh at cornell dot edu.
 
 *If you're one of my students, you can make an appointment for Student Hours here: [https://melaniewalsh.youcanbook.me/](https://melaniewalsh.youcanbook.me) 
 
