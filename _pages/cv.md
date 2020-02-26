@@ -32,7 +32,7 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Articles & Book Chapters
 
-“DH Readership and Reception: Toward Recognizing a Subfield and Future,” forthcoming in *Debates in Digital Humanities 2021*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
+“DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2021*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
 
 [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
