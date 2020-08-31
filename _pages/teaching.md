@@ -6,7 +6,7 @@ layout: single
 
 ### Undergraduate Courses
 
-* [Introduction to Cultural Analytics: Data, Computation, & Culture](https://classes.cornell.edu/browse/roster/SP20/class/ENGL/1350)
+* [Introduction to Cultural Analytics: Data, Computation, & Culture](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)
    
    Spring 2020 - Cornell University
    

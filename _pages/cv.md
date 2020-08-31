@@ -32,11 +32,13 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Articles & Book Chapters
 
-“DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2021*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
+“DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2022*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
 
 [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
 ### Digital
+[*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/), an online interactive textbook that offers an introduction to the programming language Python 
+(specifically designed for humanities students and scholars)
 
 *Tweets of a Native Son*, [www.TweetsofaNativeSon.com](http://tweetsofanativeson.com/), a website featuring interactive data
 visualizations about James Baldwin’s digital afterlives.
@@ -98,6 +100,8 @@ two freshmen for excellence in writing.
 Conferences, Presentations, & Workshops
 ---
 
+“The Crowdsourced ‘Classics’ and the Revealing Limits of Goodreads Data,” DH 2020, Ottawa, Canada (virtual), July 2020.
+
 “Documenting Twitter Protest,” American Studies Association, Honolulu, HI, November 2019. 
 
 [“Working with Twitter Data,”](https://docs.google.com/presentation/d/1ts9Lig4QzAij9aScxF0dslQz5cP_6cPa9QX1krRbmf4/edit#slide=id.p) Day of Data – Cornell University Library, Ithaca, NY, October 2019. 
@@ -141,7 +145,7 @@ Teaching
 ---
 INSTRUCTOR:
 
-“Introduction to Cultural Analytics: Data, Computation, & Culture,” Spring 2020 Cornell University. 
+[“Introduction to Cultural Analytics: Data, Computation, & Culture,”](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) Spring 2020 Cornell University. 
 
 “Humanities by the Numbers: Essential Readings in the Digital Humanities,” Co-designed and
 co-taught with Professor Matt Erlin, Spring 2018, Washington University.
@@ -169,7 +173,7 @@ Some experience with JavaScript, programming language, and D3.js (JavaScript dat
 
 Service
 ---
-Cultural Analytics Society, Co-founder and mentor, Cornell University, 2019. 
+Digital Humanities Club / Cultural Analytics Society, Co-founder and mentor, Cornell University, 2019. 
 
 Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities
 Digital Workshop, Washington University, 2017-2018.
