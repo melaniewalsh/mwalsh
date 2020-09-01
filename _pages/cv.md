@@ -9,8 +9,7 @@ toc_sticky: true
 
 Research Interests
 ---
-Digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature, 
-network analysis, readership and reception studies.
+Digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
 
 Employment
 ---
@@ -30,15 +29,16 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ## Publications
 
-### Articles & Book Chapters
+### Peer-Reviewed Articles & Book Chapters
 
-“DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2022*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
+Melanie Walsh, “DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2022*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
 
-[“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
+Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism," *Post45* and *Cultural Analytics*, forthcoming. 
+
+Melanie Walsh, [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
 ### Digital
-[*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/), an online interactive textbook that offers an introduction to the programming language Python 
-(specifically designed for humanities students and scholars)
+[*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/), an online interactive textbook that offers an introduction to the programming language Python, specifically designed for humanities students and scholars.
 
 *Tweets of a Native Son*, [www.TweetsofaNativeSon.com](http://tweetsofanativeson.com/), a website featuring interactive data
 visualizations about James Baldwin’s digital afterlives.
@@ -61,41 +61,34 @@ visualizations about James Baldwin’s digital afterlives.
 
 Awards & Fellowships
 ---
-Emerging Open Scholarship Award, Honorable Mention, 2020. Awarded by the [Canadian Social Knowledge Institute](https://etcl.uvic.ca/2020/01/14/announcing-the-2020-open-scholarship-awards/) for *Tweets of a Native Son*.
+Emerging Open Scholarship Award, Honorable Mention, 2020. Awarded by the [Canadian Social Knowledge Institute](https://etcl.uvic.ca/2020/01/14/announcing-the-2020-open-scholarship-awards/) for [Tweets of a Native Son](http://tweetsofanativeson.com/).
 
-Dean’s Award for Teaching Excellence, Spring 2019. Awarded annually to graduate students in Arts & Sciences who have been nominated for outstanding 
-teaching by their home department.
+Dean’s Award for Teaching Excellence, Spring 2019. 
 
-Dissertation Fellowship, Center for the Humanities, Washington University in St. Louis, 2018. Awarded annually to six doctoral candidates in the humanities in support of the dissertation.
+Dissertation Fellowship, Center for the Humanities, Washington University in St. Louis, 2018. 
 
 Digital Humanities 2018 Bursary Scholarship, The Association for Computers and the
-Humanities (ACH), June 2018. Awarded to ten early career scholars in support of travel to the Digital Humanities 2018 Conference in Mexico City, Mexico.
+Humanities (ACH), June 2018.
 
-Digital Humanities Summer Institute Tuition Scholarship, June 2018. Awarded to
-support tuition for the Digital Humanities Summer Institute course, “The Frontend: Modern JavaScript & CSS Development” at the University of Victoria in Victoria, BC.
+Digital Humanities Summer Institute Tuition Scholarship, June 2018. 
 
 Digital Approaches Reading Group Grant, Center for the Humanities, Washington
-University, 2015-2018. Awarded to support the Digital Humanities Reading Group, an interdisciplinary community of Washington University in St. Louis graduate students and faculty that meet to discuss readings, workshop articles, and collaborate on small projects broadly related to “digital approaches.”
+University, 2015-2018. 
 
 William J. Hill Visiting Researcher Travel Grant, Wittliff Collections, Texas State University, May 2018. Awarded to support dissertation research of the Sandra Cisneros Papers.
 
-Everett Helm Visiting Fellowship, The Lilly Library, Indiana University, January 2018. Awarded
-to support dissertation research of the Vonnegut mss.
+Everett Helm Visiting Fellowship, The Lilly Library, Indiana University, January 2018. Awarded to support dissertation research of the Vonnegut mss.
 
-Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC) Scholar,
-2016-2018. A multi-university fellowship, mentorship, and networking program for graduate students.
+Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC) Scholar, 2016-2018. 
 
-Humanities Digital Workshop Summer Fellowship, Washington University in St. Louis, 2015,
-2016, 2017. A summer fellowship program where students collaborate with faculty on digital humanities projects.
+Humanities Digital Workshop Summer Fellowship, Washington University in St. Louis, 2015, 2016, 2017. 
 
-Research Assistantship, Text Mining the Novel (NovelTM), Spring 2017. A semester-long
-research assistantship with Professor Matt Erlin focused on the computational network analysis of German Enlightenment periodicals. Part of the multi-university, digital humanities partnership, NovelTM, and funded by the Social Sciences and Humanities Research Council (SSHRC).
+Research Assistantship, Text Mining the Novel (NovelTM), Spring 2017. 
 
 National Science Foundation Travel Grant, “Archives Unleashed,” Internet Archive, San
-Francisco, CA, February 2017. Awarded to thirty researchers to support travel to “Archives Unleashed,” a web archiving workshop for developing open-source tools and approaches to web archives.
+Francisco, CA, February 2017. 
 
-Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010. Awarded annually to
-two freshmen for excellence in writing.
+Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010.
 
 Conferences, Presentations, & Workshops
 ---
@@ -175,8 +168,7 @@ Service
 ---
 Digital Humanities Club / Cultural Analytics Society, Co-founder and mentor, Cornell University, 2019. 
 
-Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities
-Digital Workshop, Washington University, 2017-2018.
+Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities Digital Workshop, Washington University, 2017-2018.
 
 Convener, [Graduate Advisory Panel](https://english.artsci.wustl.edu/graduate/student_resources), English Department, Washington University, 2017-2018.
 
