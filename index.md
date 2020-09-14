@@ -40,8 +40,8 @@ Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science a
 
 I am currently at work on a book project, [*When Postwar American Fiction Went Viral*](/book), which follows the social media afterlives of American authors. I also recently designed and taught an undergraduate course, ["Introduction to Cultural Analytics"](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which prepares students in the humanities to analyze cultural materials with digital and computational tools. The course includes an introduction to the programming language Python. 
 
-Sometimes I am asked to give my professional opinion about social media and the English language, like whether using [multiple exclamation points](https://www.stltoday.com/lifestyles/parenting/aisha-sultan/aisha-sultan-sad-the-alarming-rise-of-exclamation-point-abuse/article_e454ad04-e385-5f00-a4ef-173ec185dc7e.html) is an alarming linguistic trend (tl;dr no it's not!!).
+Sometimes I am asked to give my professional opinion about social media and the English language, like whether using [multiple exclamation points](https://www.stltoday.com/lifestyles/parenting/aisha-sultan/aisha-sultan-sad-the-alarming-rise-of-exclamation-point-abuse/article_e454ad04-e385-5f00-a4ef-173ec185dc7e.html) is an alarming linguistic trend (tl;dr no it is not!!).
 
-If you're interested, you can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), or [infrequent blog thoughts](/blog). If you'd like to reach out, you can [email me](mailto:melanie.walsh@cornell.edu) at *melanie dot walsh at cornell dot edu*. I like connecting with people!!
+If you're interested, you can check out my [CV](/cv), [teaching](/teaching), [digital projects](/digitalprojects), or [infrequent blog thoughts](/blog). If you'd like to reach out, you can [email me](mailto:melanie.walsh@cornell.edu) at *melanie dot walsh at cornell dot edu*. I like connecting with people!
 
 ---
