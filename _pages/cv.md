@@ -13,7 +13,7 @@ Digital humanities, cultural analytics, social media, twentieth- and twenty-firs
 
 Employment
 ---
-Postdoctoral Associate in Information Science, Cornell University, August 2019 – Present
+Postdoctoral Associate and Visiting Lecturer in Information Science, Cornell University, August 2019 – Present
 
 Education
 ---
@@ -31,9 +31,9 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Melanie Walsh, “DH Readership and Reception,” forthcoming in *Debates in Digital Humanities 2022*, ed. Lauren Klein and Matt Gold, University of Minnesota Press.
+Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Post45* and *Journal of Cultural Analytics*, 2021. 
 
-Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Literary Criticism," *Post45* and *Cultural Analytics*, forthcoming. 
+Maria Antoniak, Melanie Walsh, and David Mimno, "Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing," *Proceedings of the ACM on Human-Computer Interaction* (CSCW), 2021.
 
 Melanie Walsh, [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
@@ -59,8 +59,11 @@ visualizations about James Baldwin’s digital afterlives.
 
 [“Echoes: Memes, Art, & Collectives on the Internet,”](https://thespectacle.wustl.edu/?p=1264) *The Spectacle*, July 2018
 
-Awards & Fellowships
+Grants, Awards & Fellowships
 ---
+NEH Digital Humanities Level I Advancement Grant ($46,704), National Endowment for the Humanities, Co-PI with David Mimno.
+*Grant awarded to support “BERT for Humanists: Anticipating the Reception of Contemporary NLP in Digital Humanities.”  
+
 Emerging Open Scholarship Award, Honorable Mention, 2020. Awarded by the [Canadian Social Knowledge Institute](https://etcl.uvic.ca/2020/01/14/announcing-the-2020-open-scholarship-awards/) for [Tweets of a Native Son](http://tweetsofanativeson.com/).
 
 Dean’s Award for Teaching Excellence, Spring 2019. 
@@ -138,7 +141,7 @@ Teaching
 ---
 INSTRUCTOR:
 
-[“Introduction to Cultural Analytics: Data, Computation, & Culture,”](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) Spring 2020 Cornell University. 
+[“Introduction to Cultural Analytics: Data, Computation, & Culture,”](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) Spring 2020, Spring 2021, Cornell University. 
 
 “Humanities by the Numbers: Essential Readings in the Digital Humanities,” Co-designed and
 co-taught with Professor Matt Erlin, Spring 2018, Washington University.
@@ -155,7 +158,6 @@ Washington University.
 
 Technical Skills
 ---
-
 Python, programming language
 
 Website development and maintenance with raw HTML & CSS (web design languages), static-site generators (Jekyll), and content management systems (WordPress)
@@ -166,7 +168,11 @@ Some experience with JavaScript, programming language, and D3.js (JavaScript dat
 
 Service
 ---
-Digital Humanities Club / Cultural Analytics Society, Co-founder and mentor, Cornell University, 2019. 
+[Post45 Data Collective](https://data.post45.org/), Editorial Board.
+
+[Cornell Data Journal](https://cornelldatajourn.al/), Faculty Mentor, Cornell University, 2020-present.
+
+Digital Humanities Club, Faculty Mentor, Cornell University, 2019-present. 
 
 Founder and Consultant, Digital Humanities Drop-in Clinic for Graduate Students, Humanities Digital Workshop, Washington University, 2017-2018.
 

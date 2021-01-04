@@ -98,3 +98,7 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+.notice--purple {
+  @include notice($purple-color);
+}
