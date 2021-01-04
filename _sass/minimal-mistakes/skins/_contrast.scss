@@ -37,7 +37,8 @@ $base0f: #b18a3d !default;
   .notice--info,
   .notice--warning,
   .notice--success,
-  .notice--danger {
+  .notice--danger,
+  .notice--purple {
     color: $text-color;
   }
 }
