@@ -1,107 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-03T18:51:24-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Walsh</title><subtitle>Postdoc at Cornell University / Digital humanities, cultural analytics, American literature, &amp; social media</subtitle><author><name> </name><email>melanie.walsh@cornell.edu</email></author><entry><title type="html">Introducing an Interactive Textbook for Cultural Analysis with Python</title><link href="http://localhost:4000/intro-ca-jupyter-book/" rel="alternate" type="text/html" title="Introducing an Interactive Textbook for Cultural Analysis with Python" /><published>2021-01-03T00:00:00-06:00</published><updated>2021-01-03T00:00:00-06:00</updated><id>http://localhost:4000/intro-ca-jupyter-book</id><content type="html" xml:base="http://localhost:4000/intro-ca-jupyter-book/">&lt;p&gt;In this blog post, I will give a brief overview of my work-in-progress textbook, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;,&lt;/a&gt; which I made with a stellar new project called &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book&lt;/a&gt;. Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-03T19:46:24-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Melanie Walsh</title><subtitle>Postdoc at Cornell University / Digital humanities, cultural analytics, American literature, &amp; social media</subtitle><author><name> </name><email>melanie.walsh@cornell.edu</email></author><entry><title type="html">Introducing an Interactive Textbook for Cultural Analysis with Python</title><link href="http://localhost:4000/intro-ca-jupyter-book/" rel="alternate" type="text/html" title="Introducing an Interactive Textbook for Cultural Analysis with Python" /><published>2021-01-03T00:00:00-06:00</published><updated>2021-01-03T00:00:00-06:00</updated><id>http://localhost:4000/intro-ca-jupyter-book</id><content type="html" xml:base="http://localhost:4000/intro-ca-jupyter-book/">&lt;p&gt;In this blog post, I will give a brief overview of my work-in-progress textbook, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;,&lt;/a&gt; which I made with a stellar new project called &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book&lt;/a&gt;. Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.&lt;/p&gt;
+&lt;p class=&quot;notice--purple&quot;&gt;
+&lt;b&gt;What is a Jupyter notebook?&lt;/b&gt;  
+&lt;a href=&quot;https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document&quot;&gt;Jupyter notebooks]&lt;a /&gt; are special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.
+&amp;lt;/p&amp;gt;
 
-&lt;p class=&quot;notice--purple&quot;&gt;&lt;strong&gt;What is a Jupyter notebook?&lt;/strong&gt;&lt;br /&gt;
-&lt;a href=&quot;https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document&quot;&gt;Jupyter notebooks&lt;/a&gt; are special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.&lt;/p&gt;
+I developed this textbook for an undergraduate course that I'm teaching at Cornell, [&quot;Introduction to Cultural Analytics: Data, Computation, &amp;amp; Culture,&quot;](https://classes.cornell.edu/browse/roster/SP21/class/INFO/1350) which introduces Python programming to students who are interested in the humanities and social sciences. Most of the students have no previous background or training in programming.
 
-&lt;p&gt;I developed this textbook for an undergraduate course that I’m teaching at Cornell, &lt;a href=&quot;https://classes.cornell.edu/browse/roster/SP21/class/INFO/1350&quot;&gt;“Introduction to Cultural Analytics: Data, Computation, &amp;amp; Culture,”&lt;/a&gt; which introduces Python programming to students who are interested in the humanities and social sciences. Most of the students have no previous background or training in programming.&lt;/p&gt;
+[![Intro Cultural Analytics home page](../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/)
 
-&lt;p&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png&quot; alt=&quot;Intro Cultural Analytics home page&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+Throughout the semester, we text mine [short stories](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html), [songs](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Song-Lyrics-Analysis.html#word-count-data-viz-with-pandas), and [tweets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Analysis.html#display-links-and-images-in-twitter-data). We analyze character networks from [*Game of Thrones*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html#calculate-degree) and study [dialogue from Hollywood films](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html). We also reflect about the complexities of reducing human life to data and try to develop methodologies geared toward justice. We engage with historical data about [Irish immigrants](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html) and [enslaved people from the Trans-Atlantic Slave Trade](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html), as well as scholars' prior data-driven work in these areas. We discuss [ ethical challenges](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html) related to social media data collection, and we explore the [data](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#torn-apart-separados) behind projects like [Torn Apart/Separados](http://xpmethod.columbia.edu/torn-apart/volume/1/), which maps the locations of Immigration and Customs Enforcement (ICE) detention facilities. 
 
-&lt;p&gt;Throughout the semester, we text mine &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html&quot;&gt;short stories&lt;/a&gt;, &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Song-Lyrics-Analysis.html#word-count-data-viz-with-pandas&quot;&gt;songs&lt;/a&gt;, and &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Analysis.html#display-links-and-images-in-twitter-data&quot;&gt;tweets&lt;/a&gt;. We analyze character networks from &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html#calculate-degree&quot;&gt;&lt;em&gt;Game of Thrones&lt;/em&gt;&lt;/a&gt; and study &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html&quot;&gt;dialogue from Hollywood films&lt;/a&gt;. We also reflect about the complexities of reducing human life to data and try to develop methodologies geared toward justice. We engage with historical data about &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;Irish immigrants&lt;/a&gt; and &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html&quot;&gt;enslaved people from the Trans-Atlantic Slave Trade&lt;/a&gt;, as well as scholars’ prior data-driven work in these areas. We discuss &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html&quot;&gt; ethical challenges&lt;/a&gt; related to social media data collection, and we explore the &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#torn-apart-separados&quot;&gt;data&lt;/a&gt; behind projects like &lt;a href=&quot;http://xpmethod.columbia.edu/torn-apart/volume/1/&quot;&gt;Torn Apart/Separados&lt;/a&gt;, which maps the locations of Immigration and Customs Enforcement (ICE) detention facilities.&lt;/p&gt;
+I'm including a quick outline of the material you can find in my textbook below. After this outline, I discuss why I used Jupyter Book to make the textbook, and why I think Jupyter Book is a game-changer for publications and educational resources that involve code. In short, you can publish a collection of Jupyter notebooks as a good-looking, easily navigable online book, where users can hide and reveal content, explore interactive data visualizations, open and run code in the cloud via Binder or Google CoLab, and a lot more.
 
-&lt;p&gt;I’m including a quick outline of the material you can find in my textbook below. After this outline, I discuss why I used Jupyter Book to make the textbook, and why I think Jupyter Book is a game-changer for publications and educational resources that involve code. In short, you can publish a collection of Jupyter notebooks as a good-looking, easily navigable online book, where users can hide and reveal content, explore interactive data visualizations, open and run code in the cloud via Binder or Google CoLab, and a lot more.&lt;/p&gt;
+# *Introduction to Cultural Analytics &amp;amp; Python*
 
-&lt;h1 id=&quot;introduction-to-cultural-analytics--python&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;&lt;/h1&gt;
+Here's a snapshot of some of the material and lessons you can find in [*Introduction to Cultural Analytics &amp;amp; Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/):
 
-&lt;p&gt;Here’s a snapshot of some of the material and lessons you can find in &lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/&quot;&gt;&lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+* [Course readings and schedule for &quot;Introduction to Cultural Analytics,&quot; undergraduate course taught at Cornell University in Spring 2020 and 2021](https://melaniewalsh.github.io/Intro-Cultural-Analytics/course-schedule.html)
+* [Datasets related to humanities and culture](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html)
+  [![](../intro-ca-blog-images/datasets-zoom.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html)
+* [Introduction to the command line](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html)
+  [![](../intro-ca-blog-images/command-line-zoom.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html)
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/course-schedule.html&quot;&gt;Course readings and schedule for “Introduction to Cultural Analytics,” undergraduate course taught at Cornell University in Spring 2020 and 2021&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html&quot;&gt;Datasets related to humanities and culture&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Datasets/Datasets.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/datasets-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html&quot;&gt;Introduction to the command line&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Command-Line/The-Command-Line.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/command-line-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Python basics
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Variables.html&quot;&gt;Variables&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Data-Types.html&quot;&gt;Data types&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html&quot;&gt;String methods&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/string-methods.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Comparisons-Conditionals.html&quot;&gt;Comparisons and conditionals&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Lists-Loops-Part1.html&quot;&gt;Lists and loops&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html&quot;&gt;Dictionaries&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html&quot;&gt;Functions&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Data analysis with Pandas
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;Historical data about Irish immigrants&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/almshouse.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html&quot;&gt;Historical data about the Trans-Atlantic Slave Trade&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html&quot;&gt;Data about Hollywood movie dialogue&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Data collection
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html&quot;&gt;Best practices for social media data collection&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html&quot;&gt;Web scraping Genius.com with BeautifulSoup &amp;amp; LyricsGenius&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part2.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/song-lyrics-zoom.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Collection.html&quot;&gt;Collecting tweets with Twitter API &amp;amp; Twarc&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Reddit-Data-Collection-With-PSAW.html&quot;&gt;Collecting Reddit posts with Pushshift&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Text analysis
-    &lt;ul&gt;
-      &lt;li&gt;Term Frequency-Inverse Document Frequency
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html&quot;&gt;With in-copyright book data from the HathiTrust Digital Library&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/tf-idf-hathi-trust.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html&quot;&gt;With plain text files&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Topic Modeling with Little MALLET Wrapper
-        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Text-Files.html&quot;&gt;&lt;em&gt;New York Times&lt;/em&gt; obituaries&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-CSV.html&quot;&gt;Am I The Asshole? Reddit posts&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html&quot;&gt;Donald Trump tweets&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/topic-model-time.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Named-Entity-Recognition.html&quot;&gt;Named Entity Recognition with spaCy&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/POS-Keywords.html&quot;&gt;Part-of-speech tagging with spaCy&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Network analysis
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html&quot;&gt;With NetworkX and &lt;em&gt;Game of Thrones&lt;/em&gt; characters&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/networks.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Making-Network-Viz-with-Bokeh.html&quot;&gt;Making interactive networks with Bokeh&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Mapping
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#geocoding-with-geopy&quot;&gt;Geocoding&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps&quot;&gt;Making interactive maps with Folium&lt;/a&gt;
-&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps&quot;&gt;&lt;img src=&quot;../intro-ca-blog-images/map.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Publish-Your-Map.html&quot;&gt;Publishing maps on the web&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Future content
-    &lt;ul&gt;
-      &lt;li&gt;In the future, I plan to add sections on object-oriented programming, virtual environments, git, and VSCode&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+* Python basics
+  * [Variables](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Variables.html)
+  * [Data types](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Data-Types.html)
+  * [String methods](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html)
+  [![](../intro-ca-blog-images/string-methods.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/String-Methods.html)
+  * [Comparisons and conditionals](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Comparisons-Conditionals.html)
+  * [Lists and loops](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Lists-Loops-Part1.html)
+  * [Dictionaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html)
+  * [Functions](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Python/Dictionaries.html)
 
-&lt;h1 id=&quot;why-jupyter-book-what-is-jupyter-book&quot;&gt;Why Jupyter Book? What is Jupyter Book?&lt;/h1&gt;
+* Data analysis with Pandas
+  * [Historical data about Irish immigrants](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html)
+  [![](../intro-ca-blog-images/almshouse.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part1.html)
+  * [Historical data about the Trans-Atlantic Slave Trade](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part2.html)
+  * [Data about Hollywood movie dialogue](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Analysis/Pandas-Basics-Part3.html)
+* Data collection
+  * [Best practices for social media data collection](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/User-Ethics-Legal-Concerns.html)
+  * [Web scraping Genius.com with BeautifulSoup &amp;amp; LyricsGenius](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part1.html)
+  [![](../intro-ca-blog-images/song-lyrics-zoom.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Web-Scraping-Part2.html)
+  * [Collecting tweets with Twitter API &amp;amp; Twarc](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Twitter-Data-Collection.html)
+  * [Collecting Reddit posts with Pushshift](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Data-Collection/Reddit-Data-Collection-With-PSAW.html)
 
-&lt;p&gt;My undergraduate class, “Introduction to Cultural Analytics,” falls into a research area known as digital humanities or cultural analytics (as the title suggests), which blends digital and computational methods with humanities and culture. This academic field has been growing rapidly over the last 20 years, so luckily I had a lot of great, already existing resources to draw from when developing my class — such as Python-based course materials from &lt;a href=&quot;https://github.com/laurenfklein/emory-qtm340&quot;&gt;Lauren Klein&lt;/a&gt;, &lt;a href=&quot;https://mimno.infosci.cornell.edu/info3350/&quot;&gt;David Mimno&lt;/a&gt;, and &lt;a href=&quot;https://github.com/aparrish/rwet&quot;&gt;Allison Parrish&lt;/a&gt;.&lt;/p&gt;
+* Text analysis
+  * Term Frequency-Inverse Document Frequency
+    * [With in-copyright book data from the HathiTrust Digital Library](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-HathiTrust.html)
+    [![](../intro-ca-blog-images/tf-idf-hathi-trust.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html)
+    * [With plain text files](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/TF-IDF-Scikit-Learn.html)
+      
+  * Topic Modeling with Little MALLET Wrapper
+    * [*New York Times* obituaries](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Text-Files.html)
+    * [Am I The Asshole? Reddit posts](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-CSV.html)
+    * [Donald Trump tweets](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html)
+    [![](../intro-ca-blog-images/topic-model-time.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Topic-Modeling-Time-Series.html)
+  * [Named Entity Recognition with spaCy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/Named-Entity-Recognition.html)
+  * [Part-of-speech tagging with spaCy](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Text-Analysis/POS-Keywords.html)
+* Network analysis
+  * [With NetworkX and *Game of Thrones* characters](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html)
+  [![](../intro-ca-blog-images/networks.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Network-Analysis.html)
+  * [Making interactive networks with Bokeh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Network-Analysis/Making-Network-Viz-with-Bokeh.html)
+* Mapping
+  * [Geocoding](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#geocoding-with-geopy)
+  * [Making interactive maps with Folium](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps)
+  [![](../intro-ca-blog-images/map.png)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Mapping.html#making-interactive-maps)
+  * [Publishing maps on the web](https://melaniewalsh.github.io/Intro-Cultural-Analytics/Mapping/Publish-Your-Map.html)
 
-&lt;p&gt;These course materials are awesome for many reasons, but one especially awesome thing is that they include the actual Python code taught in classes. Publishing this code online allows students to reference and return to the material covered in class, but it also allows people who are not enrolled in the class — instructors, students, or people who are just plain interested — to learn and follow along, too. There’s a big appetite for learning these computational skills, especially among people from humanities disciplines who have minimal or non-traditional programming education and experience. So these materials are an important resource for the whole community.&lt;/p&gt;
+* Future content
+  * In the future, I plan to add sections on object-oriented programming, virtual environments, git, and VSCode
 
-&lt;p&gt;Most of this code is published as Jupyter notebooks — special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.&lt;/p&gt;
+# Why Jupyter Book? What is Jupyter Book?
+
+My undergraduate class, &quot;Introduction to Cultural Analytics,&quot; falls into a research area known as digital humanities or cultural analytics (as the title suggests), which blends digital and computational methods with humanities and culture. This academic field has been growing rapidly over the last 20 years, so luckily I had a lot of great, already existing resources to draw from when developing my class — such as Python-based course materials from [Lauren Klein](https://github.com/laurenfklein/emory-qtm340), [David Mimno](https://mimno.infosci.cornell.edu/info3350/), and [Allison Parrish](https://github.com/aparrish/rwet).
+
+These course materials are awesome for many reasons, but one especially awesome thing is that they include the actual Python code taught in classes. Publishing this code online allows students to reference and return to the material covered in class, but it also allows people who are not enrolled in the class — instructors, students, or people who are just plain interested — to learn and follow along, too. There's a big appetite for learning these computational skills, especially among people from humanities disciplines who have minimal or non-traditional programming education and experience. So these materials are an important resource for the whole community.
+
+Most of this code is published as Jupyter notebooks — special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.
 
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/functions-jb-notebook.png&quot; alt=&quot;Example of a Jupyter notebook about Python functions and Beyonce&quot; /&gt;
@@ -111,7 +86,8 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I &lt;em&gt;love&lt;/em&gt; Jupyter notebooks. I use them all the time. But I also recognize that Jupyter notebooks can be challenging to work with and can seem confusing if you’re not familiar with them. For example, you can’t open a Jupyter notebook — or run its code — unless you have the right software installed &lt;em&gt;and&lt;/em&gt; running on your own computer.&lt;/p&gt;
+
+I *love* Jupyter notebooks. I use them all the time. But I also recognize that Jupyter notebooks can be challenging to work with and can seem confusing if you're not familiar with them. For example, you can't open a Jupyter notebook — or run its code — unless you have the right software installed *and* running on your own computer.
 
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/jb-notebook-cant-open.png&quot; alt=&quot;Jupyter notebooks can be confusing to open&quot; /&gt;
@@ -121,9 +97,10 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;Recognizing this problem, GitHub, a popular repository for hosting code, allows you to preview static versions of Jupyter notebooks on the web, even if you don’t have the right software installed and running. This is an awesome feature!&lt;/p&gt;
 
-&lt;p&gt;But these GitHub previews are often slow to load, and they don’t always look exactly the way you want. What’s more, if you’re not familiar with it, GitHub can be pretty confusing, too. I found GitHub to be a very non-intuitive and intimidating platform to navigate at first.&lt;/p&gt;
+Recognizing this problem, GitHub, a popular repository for hosting code, allows you to preview static versions of Jupyter notebooks on the web, even if you don't have the right software installed and running. This is an awesome feature!
+
+But these GitHub previews are often slow to load, and they don't always look exactly the way you want. What's more, if you're not familiar with it, GitHub can be pretty confusing, too. I found GitHub to be a very non-intuitive and intimidating platform to navigate at first.
 
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/github-something-went-wrong.png&quot; alt=&quot;Jupyter notebooks don't always load well on GitHub&quot; /&gt;
@@ -133,6 +110,7 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
+
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/github-output-scroll.gif&quot; alt=&quot;Jupyter notebooks don't always load well on GitHub&quot; /&gt;
   
@@ -141,9 +119,10 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;This is all to say that publishing code-based course materials on GitHub is mostly great, especially if you introduce your students to GitHub or they’re already familiar with it.&lt;/p&gt;
 
-&lt;p&gt;But for my course materials, I hoped to have a little more control over aesthetics, navigation, and display, and I hoped to reach an audience of people who might not be familiar with GitHub yet. So I started researching alternatives. That’s when I found the incredible, newly launched &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;Jupyter Book project&lt;/a&gt;. The Jupyter Book resource can transform a collection of Jupyter notebooks into nicely readable, aesthetically pleasing HTML files and publish them as an easily navigable online book. All you need is the command-line tool and a directory of Jupyter notebooks organized in the right way with a special configuration file and table of contents.&lt;/p&gt;
+This is all to say that publishing code-based course materials on GitHub is mostly great, especially if you introduce your students to GitHub or they're already familiar with it.
+
+But for my course materials, I hoped to have a little more control over aesthetics, navigation, and display, and I hoped to reach an audience of people who might not be familiar with GitHub yet. So I started researching alternatives. That's when I found the incredible, newly launched [Jupyter Book project](https://jupyterbook.org/intro.html). The Jupyter Book resource can transform a collection of Jupyter notebooks into nicely readable, aesthetically pleasing HTML files and publish them as an easily navigable online book. All you need is the command-line tool and a directory of Jupyter notebooks organized in the right way with a special configuration file and table of contents.
 
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/functions-jb-page-updated.png&quot; alt=&quot;Python functions Jupyter notebook published as a page in *Introduction to Cultural Analytics &amp;amp; Python*&quot; /&gt;
@@ -153,7 +132,8 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;But making pretty web pages is not all Jupyter Book can do. When you’re reading through a page in an online Jupyter Book, you can also download a PDF of that page or the actual Jupyter notebook file behind the page, which means that you can open it and run the code on your own computer. You can also open up that same Jupyter notebook in the cloud — via Binder or Google CoLab — and play with the code without configuring any software or dependencies. Can you tell that I find all this exciting?&lt;/p&gt;
+
+But making pretty web pages is not all Jupyter Book can do. When you're reading through a page in an online Jupyter Book, you can also download a PDF of that page or the actual Jupyter notebook file behind the page, which means that you can open it and run the code on your own computer. You can also open up that same Jupyter notebook in the cloud — via Binder or Google CoLab — and play with the code without configuring any software or dependencies. Can you tell that I find all this exciting?
 
 &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/functions-updated-speedy.gif&quot; alt=&quot;Download PDFs, .ipynb files, or open and play with code in the cloud&quot; /&gt;
@@ -163,13 +143,14 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;I found the Jupyter Book project so exciting that I decided to bundle up my course materials and publish them as a Jupyter Book.&lt;/p&gt;
 
-&lt;p&gt;The textbook is still being updated and revised, but so far it’s proved to be a useful resource for my students. Because I published all the Jupyter notebooks that we covered in class, my students could easily reference and review materials after class, but they could also use it during class. If some software package wasn’t working on a particular student’s computer — an occurrence that seems frankly unavoidable even with the best preparation and troubleshooting from instructors and TAs — they could just open up the Jupyter notebook for that day’s class in the cloud via Binder and work through the code remotely. This gave us a chance to resolve specific technical issues later and helped keep students from falling behind during class.&lt;/p&gt;
+I found the Jupyter Book project so exciting that I decided to bundle up my course materials and publish them as a Jupyter Book.
 
-&lt;p&gt;Beyond its interactive code capabilities, Jupyter Book has loads of other cool features. You can create &lt;a href=&quot;https://jupyterbook.org/content/content-blocks.html&quot;&gt;attention-grabbing content blocks&lt;/a&gt; for notes, warnings, and tips — or for anything else you want. They’re customizable!&lt;/p&gt;
+The textbook is still being updated and revised, but so far it's proved to be a useful resource for my students. Because I published all the Jupyter notebooks that we covered in class, my students could easily reference and review materials after class, but they could also use it during class. If some software package wasn't working on a particular student's computer — an occurrence that seems frankly unavoidable even with the best preparation and troubleshooting from instructors and TAs — they could just open up the Jupyter notebook for that day's class in the cloud via Binder and work through the code remotely. This gave us a chance to resolve specific technical issues later and helped keep students from falling behind during class.
 
-&lt;figure class=&quot;&quot;&gt;
+Beyond its interactive code capabilities, Jupyter Book has loads of other cool features. You can create [attention-grabbing content blocks](https://jupyterbook.org/content/content-blocks.html) for notes, warnings, and tips — or for anything else you want. They're customizable!
+
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/installation-zoom.png&quot; alt=&quot;Note content block&quot; /&gt;
   
     &lt;figcaption&gt;
@@ -177,7 +158,8 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;figure class=&quot;&quot;&gt;
+    
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/pandas-review-zoom.png&quot; alt=&quot;Custom content block from *Introduction to Cultural Analytics &amp;amp; Python*, featuring cute panda emoji&quot; /&gt;
   
     &lt;figcaption&gt;
@@ -185,9 +167,10 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;You can &lt;a href=&quot;https://jupyterbook.org/interactive/hiding.html&quot;&gt;hide code cells&lt;/a&gt; and allow users to reveal them.&lt;/p&gt;
+ 
+ You can [hide code cells](https://jupyterbook.org/interactive/hiding.html) and allow users to reveal them.
 
-&lt;figure class=&quot;&quot;&gt;
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/list-comprehensions2.gif&quot; alt=&quot;Using the click-to-show feature in *Introduction to Cultural Analytics &amp;amp; Python*, featuring list comprehensions&quot; /&gt;
   
     &lt;figcaption&gt;
@@ -195,9 +178,10 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;You can &lt;a href=&quot;https://jupyterbook.org/content/code-outputs.html?highlight=output%20scroll#scrolling-cell-outputs&quot;&gt;enable scrolling&lt;/a&gt; for really long outputs.&lt;/p&gt;
 
-&lt;figure class=&quot;&quot;&gt;
+You can [enable scrolling](https://jupyterbook.org/content/code-outputs.html?highlight=output%20scroll#scrolling-cell-outputs) for really long outputs. 
+
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/ner-output-scroll.gif&quot; alt=&quot;Using output scrolling feature in *Introduction to Cultural Analytics &amp;amp; Python*, featuring spaCy NER of Ada Lovelace's obituary&quot; /&gt;
   
     &lt;figcaption&gt;
@@ -205,35 +189,39 @@
 
     &lt;/figcaption&gt;&lt;/figure&gt;
 
-&lt;p&gt;You can even publish &lt;a href=&quot;https://jupyterbook.org/interactive/interactive.html&quot;&gt;interactive data visualizations&lt;/a&gt;.&lt;/p&gt;
 
-&lt;figure class=&quot;&quot;&gt;
+You can even publish [interactive data visualizations](https://jupyterbook.org/interactive/interactive.html).
+
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/network-updated.gif&quot; alt=&quot;Interactive data visualizations featuring Game of Thrones characters&quot; /&gt;
   
     &lt;figcaption&gt;
       &lt;em&gt;Interactive data visualizations featuring Game of Thrones characters&lt;/em&gt;
 
     &lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure class=&quot;&quot;&gt;
+ 
+  
+  &lt;figure class=&quot;&quot;&gt;
   &lt;img src=&quot;/intro-ca-blog-images/map-interactive.gif&quot; alt=&quot;Interactive data visualizations featuring a map of Ithaca, NY&quot; /&gt;
   
     &lt;figcaption&gt;
       &lt;em&gt;Interactive data visualizations featuring a map of Ithaca, NY&lt;/em&gt;
 
     &lt;/figcaption&gt;&lt;/figure&gt;
+ 
 
-&lt;p&gt;There are tons of other awesome Jupyter Book features not covered here, and many more still being developed. The Jupyter Book community is super active and responsive. They regularly roll out new versions and &lt;a href=&quot;https://github.com/executablebooks/jupyter-book/issues&quot;&gt;eagerly engage with users&lt;/a&gt;. Over the last year, Jupyter Book developers like Chris Holdgraf and Chris Sewell have patiently helped me troubleshoot issues, listened to my suggestions, and even helped promote my textbook! It’s been a genuine pleasure to interact with them and the rest of the community.&lt;/p&gt;
+There are tons of other awesome Jupyter Book features not covered here, and many more still being developed. The Jupyter Book community is super active and responsive. They regularly roll out new versions and [eagerly engage with users](https://github.com/executablebooks/jupyter-book/issues). Over the last year, Jupyter Book developers like Chris Holdgraf and Chris Sewell have patiently helped me troubleshoot issues, listened to my suggestions, and even helped promote my textbook! It's been a genuine pleasure to interact with them and the rest of the community.
 
-&lt;p&gt;I’m very excited about the future of Jupyter Book, and I think that digital humanities/cultural analytics scholars can really benefit from and contribute to it.&lt;/p&gt;
+I'm very excited about the future of Jupyter Book, and I think that digital humanities/cultural analytics scholars can really benefit from and contribute to it.
 
-&lt;h1 id=&quot;want-to-build-your-own-jupyter-book&quot;&gt;Want to Build Your Own Jupyter Book?&lt;/h1&gt;
+# Want to Build Your Own Jupyter Book?
 
-&lt;p&gt;You can find all the code for &lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt; &lt;a href=&quot;https://github.com/melaniewalsh/Intro-Cultural-Analytics&quot;&gt;in this GitHub repository&lt;/a&gt;. In the README, I briefly explain the structure of the repository and what’s required to generate a Jupyter Book. You can also learn more by reading the Jupyter Book &lt;a href=&quot;https://jupyterbook.org/intro.html&quot;&gt;documentation&lt;/a&gt; and by exploring &lt;a href=&quot;https://executablebooks.org/en/latest/gallery.html&quot;&gt;the Jupyter Books and repositories in the featured gallery&lt;/a&gt;.&lt;/p&gt;
+You can find all the code for *Introduction to Cultural Analytics &amp;amp; Python* [in this GitHub repository](https://github.com/melaniewalsh/Intro-Cultural-Analytics). In the README, I briefly explain the structure of the repository and what's required to generate a Jupyter Book. You can also learn more by reading the Jupyter Book [documentation](https://jupyterbook.org/intro.html) and by exploring [the Jupyter Books and repositories in the featured gallery](https://executablebooks.org/en/latest/gallery.html).
 
-&lt;h1 id=&quot;feedback&quot;&gt;Feedback?&lt;/h1&gt;
+# Feedback?
 
-&lt;p&gt;If you have feedback or suggestions about &lt;em&gt;Introduction to Cultural Analytics &amp;amp; Python&lt;/em&gt;, or you happen to find it useful, please let me know! I’d love to hear from you via email, &lt;a href=&quot;https://twitter.com/mellymeldubs&quot;&gt;Twitter&lt;/a&gt;, or &lt;a href=&quot;https://github.com/melaniewalsh/Intro-Cultural-Analytics/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</content><author><name> </name><email>melanie.walsh@cornell.edu</email></author><summary type="html">A brief overview of my work-in-progress textbook, and why I made it with the awesome new resource Jupyter Book</summary></entry><entry><title type="html">A Million Tweeted Tributes to Toni Morrison</title><link href="http://localhost:4000/toni-morrison-tweeted-tributes/" rel="alternate" type="text/html" title="A Million Tweeted Tributes to Toni Morrison" /><published>2019-08-10T00:00:00-05:00</published><updated>2019-08-10T00:00:00-05:00</updated><id>http://localhost:4000/toni-morrison-tweeted-tributes</id><content type="html" xml:base="http://localhost:4000/toni-morrison-tweeted-tributes/">&lt;p&gt;Toni Morrison, one of the best and most influential literary writers of the 20th and 21st centuries, died on Monday. She was the first Black woman to win the Nobel Prize in literature and the author of eleven novels, dozens of essays, as well as literary criticism. When Morrison’s publisher announced the news of her death on Tuesday morning, thousands of people began mourning her incredible life on Twitter. Within a little over a day, more than 500,000 Twitter users in fact cited Toni Morrison specifically by first and last name in a million tweets and retweets.&lt;/p&gt;
+If you have feedback or suggestions about *Introduction to Cultural Analytics &amp;amp; Python*, or you happen to find it useful, please let me know! I'd love to hear from you via email, [Twitter](https://twitter.com/mellymeldubs), or [GitHub](https://github.com/melaniewalsh/Intro-Cultural-Analytics/issues).
+&lt;/a&gt;&lt;/p&gt;</content><author><name> </name><email>melanie.walsh@cornell.edu</email></author><summary type="html">A brief overview of my work-in-progress textbook, and why I made it with the awesome new resource Jupyter Book</summary></entry><entry><title type="html">A Million Tweeted Tributes to Toni Morrison</title><link href="http://localhost:4000/toni-morrison-tweeted-tributes/" rel="alternate" type="text/html" title="A Million Tweeted Tributes to Toni Morrison" /><published>2019-08-10T00:00:00-05:00</published><updated>2019-08-10T00:00:00-05:00</updated><id>http://localhost:4000/toni-morrison-tweeted-tributes</id><content type="html" xml:base="http://localhost:4000/toni-morrison-tweeted-tributes/">&lt;p&gt;Toni Morrison, one of the best and most influential literary writers of the 20th and 21st centuries, died on Monday. She was the first Black woman to win the Nobel Prize in literature and the author of eleven novels, dozens of essays, as well as literary criticism. When Morrison’s publisher announced the news of her death on Tuesday morning, thousands of people began mourning her incredible life on Twitter. Within a little over a day, more than 500,000 Twitter users in fact cited Toni Morrison specifically by first and last name in a million tweets and retweets.&lt;/p&gt;
 
 &lt;p&gt;To preserve this powerful commemoration of a historic American author, I started collecting tweets that mentioned “Toni Morrison” with &lt;a href=&quot;https://github.com/DocNow/twarc&quot;&gt;twarc&lt;/a&gt;, a digital tool created by Ed Summers and &lt;a href=&quot;https://www.docnow.io/&quot;&gt;DocNow&lt;/a&gt;. At the end of this blog post, I explain how you can access the &lt;a href=&quot;https://archive.org/details/toni-morrison-tweets&quot;&gt;tweets from this archive&lt;/a&gt;—only if the tweets are still public and have not been deleted by their creator—and I outline some ethical considerations and best practices if you plan to use this data.&lt;/p&gt;
 
