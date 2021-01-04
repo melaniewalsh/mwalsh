@@ -35,9 +35,11 @@ gallery:
 ---
 
 In this blog post, I will give a brief overview of my work-in-progress textbook, [*Introduction to Cultural Analytics & Python*,](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) which I made with a stellar new project called [Jupyter Book](https://jupyterbook.org/intro.html). Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.
+
 <p class="notice--purple">
-<b>What is a Jupyter notebook?</b>  
-<a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document">Jupyter notebooks]<a/> are special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.
+<b>What is a Jupyter notebook?</b>
+<br> 
+<a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-document">Jupyter notebooks</a> are special documents that can combine runnable programming code with regular text, images, links, and a lot more. Jupyter notebooks are very useful for exploring, teaching, and learning code.
 </p>
 
 I developed this textbook for an undergraduate course that I'm teaching at Cornell, ["Introduction to Cultural Analytics: Data, Computation, & Culture,"](https://classes.cornell.edu/browse/roster/SP21/class/INFO/1350) which introduces Python programming to students who are interested in the humanities and social sciences. Most of the students have no previous background or training in programming.
