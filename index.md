@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
+author_profile: true 
 title: " "
 header:
   overlay_color: "#000"
@@ -36,9 +37,9 @@ feature_row:
 
 ---
 
-Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh). I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/). My research interests include digital humanities, cultural analytics, social media, and American literature & culture---preferably all of the above combined.
+Hi, I'm Melanie Walsh, and I'm a Postdoctoral Associate in Information Science at [Cornell University](https://infosci.cornell.edu/content/walsh). I received my PhD in English & American Literature from [Washington University in St. Louis](https://english.wustl.edu/). My research interests include data science, digital humanities, cultural analytics, social media, and American literature & culture---preferably all of the above combined.
 
-I am currently at work on a book project, [*When Postwar American Fiction Went Viral*](/book), which follows the social media afterlives of American authors. I also designed an undergraduate course and online textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which prepares students to analyze books, movies, songs, etc. with digital and computational tools.
+I am currently at work on a book project, [*When Postwar American Fiction Went Viral*](/book), which follows the social media afterlives of American authors. I also designed an undergraduate course and online textbook, [*Introduction to Cultural Analytics & Python*](https://melaniewalsh.github.io/Intro-Cultural-Analytics/features/welcome.html), which prepares students to analyze books, movies, songs, etc. with the programming language Python.
 
 Sometimes I am asked to give my professional opinion about social media and the English language, like whether using [multiple exclamation points](https://www.stltoday.com/lifestyles/parenting/aisha-sultan/aisha-sultan-sad-the-alarming-rise-of-exclamation-point-abuse/article_e454ad04-e385-5f00-a4ef-173ec185dc7e.html) is an alarming linguistic trend (tl;dr no it is not!!).
 

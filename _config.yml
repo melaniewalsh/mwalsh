@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-remote_theme             : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -106,29 +106,20 @@ analytics:
 
 # Site Author
 author:
-  name             : " "
-  avatar           : "/images/bio.jpg"
-  bio              : ""
-  email            : "melanie.walsh@cornell.edu"
+  name             : "Melanie Walsh"
+  avatar           : "/images/Melanie-Walsh-Bio-Photo.png"
+  bio              : "Postdoctoral Associate and Visiting Lecturer in Information Science at Cornell University"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:melanie.walsh@cornell.edu
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mellymeldubs"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/melaniewalsh/"
+
 
 # Site Footer
 footer:

@@ -9,7 +9,7 @@ toc_sticky: true
 
 Research Interests
 ---
-Digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
+Data science, digital humanities, cultural analytics, social media, twentieth- and twenty-first-century American literature,  network analysis, readership and reception studies.
 
 Employment
 ---
@@ -31,9 +31,9 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Post45* and *Journal of Cultural Analytics*, 2021. 
+Melanie Walsh and Maria Antoniak, "The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism," *Post45* and *Journal of Cultural Analytics*, April 2021. 
 
-Maria Antoniak, Melanie Walsh, and David Mimno, "Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing," *Proceedings of the ACM on Human-Computer Interaction* (CSCW), 2021.
+Maria Antoniak, Melanie Walsh, and David Mimno, ["Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing,"](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf) *Proceedings of the ACM on Human-Computer Interaction* (CSCW), 2021.
 
 Melanie Walsh, [“Tweets of a Native Son: The Quotation and Recirculation of James Baldwin from Black Power to #BlackLivesMatter,”](http://tweetsofanativeson.com/Publications) *American Quarterly*, 70, no. 3 (2018).
 
@@ -95,6 +95,7 @@ Harriet Schwenk Kluver Prize, Washington University in St. Louis, 2010.
 
 Conferences, Presentations, & Workshops
 ---
+"Social Textworking: Books, Readers, and Online Media," SHARP, July 2021.
 
 “The Crowdsourced ‘Classics’ and the Revealing Limits of Goodreads Data,” DH 2020, Ottawa, Canada (virtual), July 2020.
 
@@ -158,13 +159,29 @@ Washington University.
 
 Technical Skills
 ---
-Python, programming language
+Python (programming language):
 
-Website development and maintenance with raw HTML & CSS (web design languages), static-site generators (Jekyll), and content management systems (WordPress)
+-	data analysis with pandas
+-	natural language processing with spaCy
+-	web scraping with BeautifulSoup and Selenium
+-	quantitative network analysis with networkX
 
-Experience with the software packages Gephi (network analysis and visualization), Tableau (data visualization), QGIS (mapping), OpenRefine (data cleanup), and Adobe Photoshop
+JavaScript (programming language)
 
-Some experience with JavaScript, programming language, and D3.js (JavaScript data visualization library)
+Website development and maintenance:
+
+- raw HTML & CSS 
+- static-site generators, e.g., Jekyll
+- content management systems, e.g., WordPress
+
+Software packages:
+
+-	network analysis and visualization with Gephi
+-	data visualization with Tableau
+-	mapping with QGIS 
+-	data cleanup with OpenRefine
+-	graphic design with Adobe Photoshop and Adobe Illustrator
+
 
 Service
 ---

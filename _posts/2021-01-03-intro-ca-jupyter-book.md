@@ -18,21 +18,12 @@ header:
       url: "/intro-ca-jupyter-book/#introduction-to-cultural-analytics--python"
     - label: "Learn about why I like Jupyter Book"
       url: "intro-ca-jupyter-book/#why-jupyter-book-what-is-jupyter-book"
-gallery:
-  - url: ../intro-ca-blog-images/list-comprehensions.gif
-    image_path: ../intro-ca-blog-images/list-comprehensions.gif
-    alt: "Click-to-show code"
-    title: "Click-to-show code"
-  - url: ../intro-ca-blog-images/list-comprehensions.gif
-    image_path: ../intro-ca-blog-images/list-comprehensions.gif
-    alt: "Output scroll feature"
-    title: "Output scroll feature"
-  - url: ../intro-ca-blog-images/list-comprehensions.gif
-    image_path: ../intro-ca-blog-images/list-comprehensions.gif
-    alt: "Output scroll feature"
-    title: "Output scroll feature"
+image:
+  thumb: ../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png 
 
 ---
+
+<meta property="twitter:image" content="../intro-ca-blog-images/intro-ca-home-page-12-30-2020.png" />
 
 In this blog post, I will give a brief overview of my work-in-progress textbook, [*Introduction to Cultural Analytics & Python*,](https://melaniewalsh.github.io/Intro-Cultural-Analytics/) which I made with a stellar new project called [Jupyter Book](https://jupyterbook.org/intro.html). Thanks to Jupyter Book, the textbook includes interactive code, responsive data visualizations, downloadable Jupyter notebooks, and a lot of other neat features.
 
