@@ -8,6 +8,12 @@ toc_icon: "star"
 toc_sticky: true
 ---
 
+## The Goodreads Classics
+
+A website featuring data visualizations about "classic" books according to Goodreads users.
+
+Link: [https://melaniewalsh.github.io/Goodreads-Classics/](https://melaniewalsh.github.io/Goodreads-Classics/)
+
 ## Tweets of a Native Son
 
 A website featuring data visualizations about James Baldwin’s 21st-century digital afterlives that can be explored by students, fans, and scholars: [#BlackLivesMatter tweets](http://tweetsofanativeson.com/BlackLivesMatter-Baldwin/), [popular YouTube videos](http://tweetsofanativeson.com/YouTube/), [library circulation data](http://tweetsofanativeson.com/Seattle-Public-Library/), and more.
