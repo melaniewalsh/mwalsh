@@ -31,7 +31,7 @@ B.A., English, Washington University in St. Louis, MO, 2013
 
 ### Peer-Reviewed Articles & Book Chapters
 
-Melanie Walsh and Maria Antoniak, ["The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) *Post45* and *Journal of Cultural Analytics*, April 2021. [[PDF](docs/Walsh-Antoniak_The-Goodreads-Classics.pdf)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]
+Melanie Walsh and Maria Antoniak, ["The Goodreads 'Classics': A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism,"](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/) *Post45* and *Journal of Cultural Analytics*, April 2021. [[PDF](../docs/Walsh-Antoniak_The-Goodreads-Classics.pdf)] [[Interactive Plots](https://melaniewalsh.github.io/Goodreads-Classics/)]
 
 Maria Antoniak, Melanie Walsh, and David Mimno, ["Tags, Borders, and Catalogs: Social Re-Working of Genre on LibraryThing,"](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf) *Proceedings of the ACM on Human-Computer Interaction* (CSCW), 2021. [[PDF](https://maria-antoniak.github.io/resources/2021_cscw_librarything_genres.pdf)]
 
